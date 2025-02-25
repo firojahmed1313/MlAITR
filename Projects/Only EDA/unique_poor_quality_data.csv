@@ -1,0 +1,2506 @@
+Age,Salary,Gender,Location,Property_Type,RAM,Credit_Score,Churn,Marital_Status,Dependents,Employment_Type,Loan_Amount,Internet_Usage,Fraud_Suspected,Approved_Loan
+30,1500000,M,Los Angeles,3BHK,,400,Yes,Widowed,N/A,Salaried,,Low,No,No
+Unknown,70000,Female,New York,Studio,2GB,400,Yes,,N/A,,10000,Low,No,No
+,1500000,F,Chicago,2BHK,2GB,,Yes,Divorced,3,Salaried,5000,Medium,No,Yes
+Unknown,60000,,New York,Studio,2GB,300,Yes,,0,Business,5000,Low,No,
+,80000,F,Los Angeles,1BHK,2GB,700,Yes,,N/A,Self-Employed,Unknown,,No,Yes
+Unknown,60000,Male,New York,Studio,32GB,400,Yes,Married,1,Self-Employed,20000,Very High,No,No
+25,80000,,New York,Studio,6GB,700,Yes,Divorced,N/A,Salaried,5000,,No,Yes
+,1500000,Female,New York,Studio,,,No,Divorced,3,Business,150000,Medium,No,Yes
+Unknown,70000,Other,New York,Studio,,,Yes,Divorced,,Self-Employed,10000,,No,
+30,N/A,,Chicago,2BHK,32GB,400,Yes,,1,Business,10000,High,No,
+Unknown,N/A,M,New York,2BHK,32GB,,Yes,Widowed,3,Self-Employed,50000,Very High,No,Yes
+25,70000,Male,New York,2BHK,16GB,Poor,Yes,Divorced,,Business,5000,High,No,Yes
+45,90000,,Los Angeles,1BHK,16GB,,Yes,,1,Unemployed,,High,No,
+,1500000,M,New York,Studio,6GB,600,Yes,Married,2,Business,Unknown,Medium,No,
+40,1500000,M,,2BHK,,,Yes,Widowed,0,Business,20000,Low,No,Yes
+30,60000,,Chicago,4bhk,16GB,800,Yes,Married,0,Salaried,,High,No,
+Unknown,1500000,Male,Chicago,Studio,2GB,700,Yes,Widowed,3,Unemployed,Unknown,,No,Yes
+28,1500000,,Los Angeles,Studio,8GB,600,Yes,,,,10000,Low,No,Yes
+45,70000,Male,Chicago,Studio,,Excellent,Yes,Single,0,Salaried,,,No,No
+45,50000,,Chicago,3BHK,2GB,600,Yes,Widowed,,,Unknown,,No,
+30,70000,Other,,Studio,2GB,Excellent,Yes,Married,,Self-Employed,10000,Low,No,Yes
+30,90000,M,Los Angeles,4bhk,2GB,300,Yes,,3,,10000,Low,No,Yes
+,90000,Male,Los Angeles,Studio,2GB,,No,Widowed,3,Business,10000,,No,No
+28,50000,Female,New York,3BHK,,,Yes,Single,3,,10000,Medium,No,No
+45,90000,Other,New York,1BHK,32GB,400,Yes,Single,0,Salaried,150000,Very High,No,No
+40,90000,,New York,4bhk,8GB,Poor,Yes,Divorced,3,Salaried,10000,Very High,No,Yes
+28,90000,,Los Angeles,3BHK,16GB,800,Yes,Divorced,0,,50000,Medium,No,Yes
+Unknown,60000,Male,Los Angeles,2BHK,8GB,400,Yes,Married,3,Salaried,,Low,No,Yes
+Unknown,1500000,,Los Angeles,Studio,,300,Yes,Widowed,N/A,Salaried,Unknown,,No,Yes
+25,90000,Male,Los Angeles,2BHK,2GB,Poor,Yes,Widowed,,,50000,Very High,No,
+,90000,Other,New York,Studio,8GB,Excellent,Yes,Divorced,3,Unemployed,150000,,No,Yes
+,60000,Male,New York,1BHK,8GB,400,Yes,Widowed,1,Unemployed,50000,Medium,No,Yes
+30,80000,,New York,1BHK,6GB,800,Yes,Widowed,,Self-Employed,5000,,No,Yes
+Unknown,60000,,Chicago,2BHK,32GB,700,Yes,Single,,Salaried,5000,Medium,No,
+,70000,Male,Los Angeles,3BHK,,,Yes,Divorced,3,,5000,Low,No,Yes
+,70000,F,New York,Studio,,600,Yes,,2,Salaried,20000,Medium,No,Yes
+35,1500000,Male,,3BHK,4GB,Poor,Yes,Divorced,3,Business,5000,Medium,No,No
+,70000,,Chicago,3BHK,6GB,700,Yes,,,Salaried,Unknown,Very High,No,Yes
+Unknown,70000,Other,Chicago,2BHK,32GB,700,Yes,Single,1,Salaried,50000,,No,Yes
+Unknown,70000,M,New York,Studio,2GB,,Yes,Married,,Unemployed,Unknown,Very High,No,Yes
+30,60000,,Chicago,3BHK,2GB,,Yes,Widowed,1,,,High,No,No
+30,80000,Male,Chicago,2BHK,8GB,700,Yes,Single,0,Salaried,5000,Medium,No,Yes
+,70000,F,Los Angeles,Studio,8GB,,Yes,Widowed,N/A,Unemployed,150000,High,No,
+45,60000,Male,,Studio,2GB,600,Yes,Married,,Self-Employed,20000,Very High,No,
+28,60000,Male,Los Angeles,Studio,,600,Yes,Married,3,Unemployed,,,No,Yes
+28,90000,Female,Chicago,4bhk,2GB,,Yes,Single,0,Unemployed,150000,Very High,No,
+,80000,Male,New York,Studio,16GB,700,Yes,Married,N/A,Unemployed,20000,,No,Yes
+40,70000,Other,Los Angeles,Studio,16GB,Poor,No,,3,Salaried,,,No,Yes
+Unknown,80000,Female,,Studio,8GB,400,Yes,Married,2,Salaried,50000,Low,No,Yes
+,90000,,Chicago,3BHK,16GB,Excellent,Yes,Widowed,3,Self-Employed,Unknown,Medium,No,
+-12,N/A,Other,Los Angeles,1BHK,16GB,Excellent,No,Widowed,1,Business,10000,Very High,No,No
+,90000,Other,,1BHK,4GB,300,Yes,Widowed,1,Business,Unknown,,No,
+45,70000,Female,Chicago,1BHK,8GB,Excellent,Yes,Widowed,2,Business,5000,Very High,No,No
+45,70000,Male,Los Angeles,Studio,4GB,700,Yes,,0,Self-Employed,150000,Very High,No,No
+Unknown,90000,,Los Angeles,3BHK,,800,Yes,Divorced,N/A,Business,10000,,No,Yes
+,1500000,,Los Angeles,1BHK,16GB,Poor,Yes,Single,3,Business,20000,High,No,No
+28,N/A,Female,Chicago,Studio,8GB,300,Yes,Widowed,1,Unemployed,50000,Medium,No,Yes
+Unknown,N/A,,Chicago,3BHK,32GB,Poor,Yes,Married,0,Salaried,50000,Medium,No,Yes
+Unknown,90000,F,Los Angeles,3BHK,8GB,600,Yes,Widowed,2,Salaried,20000,Low,No,
+,60000,Male,Chicago,2BHK,6GB,700,Yes,Married,,Unemployed,5000,Low,No,Yes
+Unknown,60000,F,Chicago,Studio,8GB,300,Yes,Married,1,Unemployed,20000,Low,No,No
+Unknown,,Female,Los Angeles,Studio,32GB,400,Yes,Widowed,2,Unemployed,,Medium,No,Yes
+,,Male,,Studio,2GB,,Yes,,3,Salaried,150000,High,No,No
+,N/A,Male,Los Angeles,4bhk,,400,Yes,Married,N/A,Business,150000,Medium,No,
+Unknown,60000,F,Los Angeles,4bhk,6GB,Poor,Yes,Married,1,Unemployed,5000,Medium,No,Yes
+,N/A,Male,,3BHK,6GB,800,Yes,Widowed,1,Self-Employed,10000,Medium,No,No
+,60000,Other,New York,2BHK,2GB,500,Yes,Married,3,Unemployed,20000,Medium,No,Yes
+40,80000,Other,New York,4bhk,2GB,,Yes,Married,,,5000,High,No,
+25,,F,Los Angeles,Studio,2GB,Poor,Yes,Widowed,0,Unemployed,150000,Low,No,
+25,1500000,M,,4bhk,2GB,700,Yes,Widowed,N/A,Salaried,10000,Very High,No,Yes
+25,70000,Male,,1BHK,2GB,Excellent,Yes,Single,1,Unemployed,20000,Low,No,
+35,60000,M,Chicago,1BHK,32GB,Excellent,Yes,,N/A,,50000,Low,No,No
+,60000,Male,Los Angeles,1BHK,32GB,Poor,Yes,,1,Self-Employed,20000,Very High,No,Yes
+35,60000,Male,Chicago,2BHK,,300,Yes,Married,N/A,Business,Unknown,Medium,No,
+40,90000,,New York,4bhk,8GB,Poor,Yes,,2,Unemployed,20000,High,No,
+30,1500000,Female,New York,3BHK,2GB,Poor,Yes,Married,1,,Unknown,High,No,Yes
+,60000,Male,,Studio,8GB,300,Yes,Single,N/A,,10000,Low,No,Yes
+30,70000,F,,3BHK,2GB,,Yes,Widowed,0,Self-Employed,20000,Very High,No,No
+,1500000,,Chicago,1BHK,,600,Yes,Widowed,2,Salaried,10000,,No,
+,70000,M,Chicago,3BHK,2GB,400,Yes,Widowed,2,Unemployed,10000,Medium,No,
+30,1500000,,New York,4bhk,2GB,Excellent,Yes,,0,,150000,Low,No,
+,70000,Male,New York,Studio,2GB,700,Yes,Single,N/A,Self-Employed,5000,High,No,
+Unknown,1500000,,,2BHK,2GB,800,Yes,,3,Business,10000,Very High,No,
+28,60000,Female,,2BHK,16GB,600,Yes,,0,,10000,Very High,No,No
+30,N/A,Male,Los Angeles,Studio,4GB,500,Yes,Single,N/A,Self-Employed,150000,Low,No,Yes
+40,90000,Male,New York,Studio,16GB,,Yes,Single,0,Salaried,150000,,No,Yes
+Unknown,70000,Male,New York,3BHK,32GB,600,Yes,Single,0,Salaried,20000,High,No,
+30,60000,M,New York,1BHK,16GB,300,Yes,Single,1,,150000,Low,No,
+40,70000,Male,Chicago,2BHK,8GB,400,Yes,Widowed,N/A,,20000,,No,
+,80000,Male,Los Angeles,Studio,32GB,400,Yes,Divorced,3,Unemployed,50000,Very High,No,No
+25,90000,Male,New York,3BHK,2GB,Excellent,Yes,Divorced,1,Self-Employed,150000,Medium,No,Yes
+35,90000,F,Los Angeles,Studio,8GB,600,Yes,Single,0,,5000,High,No,
+,90000,,Los Angeles,4bhk,16GB,,Yes,Divorced,,Unemployed,10000,High,No,Yes
+30,60000,,New York,Studio,,,Yes,Divorced,0,Unemployed,5000,,No,
+45,90000,Male,New York,2BHK,6GB,Poor,Yes,Single,0,,Unknown,Low,No,Yes
+,90000,Female,Chicago,3BHK,,,Yes,Divorced,N/A,Salaried,150000,Very High,No,Yes
+,N/A,Male,Chicago,Studio,,Excellent,Yes,,N/A,Self-Employed,10000,,No,Yes
+40,1500000,Male,Los Angeles,3BHK,2GB,400,Yes,Married,1,Self-Employed,5000,Medium,No,
+28,1500000,,Los Angeles,1BHK,4GB,Excellent,Yes,Married,3,Salaried,150000,Medium,No,No
+40,80000,M,New York,2BHK,,300,Yes,Single,1,,150000,Medium,No,Yes
+28,1500000,,Chicago,3BHK,32GB,500,Yes,Widowed,2,Self-Employed,50000,,No,No
+30,1500000,Male,Chicago,2BHK,16GB,700,Yes,Single,0,,50000,Very High,No,Yes
+,N/A,Male,Los Angeles,3BHK,2GB,,Yes,Widowed,,,10000,High,No,
+Unknown,N/A,,,3BHK,8GB,300,Yes,Married,0,Unemployed,Unknown,Low,No,
+Unknown,70000,Other,New York,Studio,2GB,400,Yes,Single,0,Salaried,50000,High,No,
+28,60000,M,,2BHK,8GB,,Yes,,1,,50000,Very High,No,Yes
+25,60000,Other,Los Angeles,Studio,2GB,Poor,Yes,Divorced,,Business,Unknown,High,No,
+45,70000,F,,2BHK,32GB,400,No,Widowed,,Salaried,5000,,No,Yes
+28,60000,Male,Los Angeles,1BHK,2GB,400,Yes,Divorced,,Self-Employed,50000,Medium,No,No
+,90000,Other,Chicago,4bhk,2GB,Poor,Yes,Divorced,1,Unemployed,20000,Very High,No,Yes
+,1500000,Male,New York,3BHK,8GB,700,Yes,Single,0,Self-Employed,,Very High,No,No
+25,60000,Male,,2BHK,8GB,700,Yes,Divorced,1,Self-Employed,,High,No,Yes
+Unknown,,,Los Angeles,2BHK,16GB,700,Yes,,N/A,Salaried,50000,,No,Yes
+,90000,F,Los Angeles,4bhk,16GB,700,Yes,Divorced,N/A,Self-Employed,5000,High,No,Yes
+,N/A,,,Studio,8GB,800,No,Single,1,,150000,High,No,Yes
+28,70000,Male,New York,1BHK,2GB,,Yes,,,Self-Employed,5000,Very High,No,Yes
+30,90000,Male,New York,3BHK,2GB,,Yes,Married,0,Unemployed,10000,High,No,
+Unknown,,Male,Los Angeles,Studio,2GB,,Yes,Divorced,1,Unemployed,20000,Medium,No,No
+,60000,,Los Angeles,Studio,8GB,600,Yes,Single,1,Business,5000,High,No,
+25,1500000,,New York,3BHK,32GB,Poor,Yes,Married,1,Unemployed,Unknown,Medium,No,
+30,60000,F,Los Angeles,2BHK,2GB,600,Yes,Married,2,Self-Employed,20000,Very High,No,
+30,60000,Male,,2BHK,8GB,300,Yes,Widowed,N/A,Unemployed,,,No,
+,70000,Male,Los Angeles,Studio,2GB,600,Yes,,,Salaried,20000,Medium,No,
+30,70000,Male,Chicago,3BHK,,Excellent,Yes,Divorced,3,Unemployed,Unknown,,Yes,Yes
+30,70000,,New York,2BHK,2GB,600,Yes,Single,,,50000,,No,
+,70000,Male,New York,3BHK,2GB,,Yes,Widowed,3,Salaried,Unknown,Medium,No,Yes
+30,1500000,Male,Chicago,2BHK,16GB,,Yes,,2,Business,Unknown,Very High,No,Yes
+30,90000,Male,Los Angeles,2BHK,2GB,500,Yes,Widowed,1,,50000,Low,No,Yes
+30,90000,Male,New York,Studio,8GB,500,Yes,,2,Self-Employed,50000,,No,Yes
+28,70000,Male,New York,1BHK,,400,Yes,,2,Self-Employed,50000,,No,
+30,70000,F,,3BHK,32GB,400,Yes,Divorced,0,Self-Employed,50000,Very High,No,Yes
+28,50000,Other,Los Angeles,2BHK,8GB,,Yes,,N/A,,50000,Very High,No,Yes
+40,50000,,Los Angeles,2BHK,8GB,700,Yes,Widowed,3,,Unknown,High,No,No
+40,90000,Male,New York,Studio,8GB,,Yes,,1,,10000,Very High,No,Yes
+45,70000,Female,New York,4bhk,8GB,400,Yes,Divorced,3,Salaried,10000,,No,
+45,50000,Other,Los Angeles,1BHK,6GB,Excellent,Yes,Divorced,,Salaried,5000,Medium,No,
+35,90000,Male,New York,3BHK,2GB,500,Yes,Widowed,3,Self-Employed,10000,Low,No,Yes
+Unknown,80000,M,Los Angeles,3BHK,,600,No,Married,,Unemployed,,High,No,Yes
+30,80000,Male,Los Angeles,4bhk,16GB,400,Yes,Married,N/A,Self-Employed,10000,Medium,No,Yes
+28,1500000,Male,Los Angeles,Studio,8GB,700,Yes,,,Business,Unknown,Low,No,No
+28,90000,Female,,4bhk,8GB,,Yes,Single,3,Salaried,50000,Low,No,Yes
+,60000,Male,New York,3BHK,8GB,400,Yes,,3,,50000,Low,No,Yes
+Unknown,N/A,Male,Chicago,Studio,8GB,Poor,Yes,Widowed,,Salaried,150000,Medium,No,Yes
+,1500000,M,,Studio,4GB,500,Yes,Widowed,2,,150000,High,No,Yes
+25,1500000,Other,Los Angeles,Studio,8GB,500,Yes,Widowed,N/A,Business,150000,High,No,
+30,90000,Male,Chicago,Studio,,800,Yes,Widowed,0,Business,Unknown,Low,No,No
+,1500000,Male,Los Angeles,Studio,8GB,600,Yes,Widowed,1,Salaried,,Medium,No,
+Unknown,60000,Female,New York,2BHK,,600,Yes,Divorced,3,,10000,Low,No,No
+30,70000,M,Chicago,3BHK,8GB,400,Yes,Married,1,Business,Unknown,Very High,No,
+30,70000,M,,1BHK,32GB,400,Yes,Widowed,0,Self-Employed,5000,High,No,Yes
+25,70000,Male,Los Angeles,Studio,,800,Yes,Single,1,Self-Employed,50000,,No,No
+,70000,M,New York,3BHK,6GB,,Yes,Single,0,,150000,Low,No,Yes
+28,60000,,New York,Studio,,300,Yes,Single,,Salaried,20000,Very High,No,Yes
+Unknown,,,Chicago,2BHK,8GB,300,Yes,Single,2,Business,5000,High,No,Yes
+28,60000,Male,Chicago,2BHK,8GB,400,Yes,Divorced,3,Salaried,150000,Medium,No,
+,1500000,Female,Chicago,Studio,8GB,Poor,Yes,Single,0,Self-Employed,,High,No,Yes
+,90000,Male,New York,3BHK,2GB,500,Yes,Widowed,1,Business,5000,Medium,No,
+Unknown,1500000,Male,Chicago,2BHK,4GB,Excellent,Yes,,3,Salaried,Unknown,Medium,Yes,
+45,90000,F,New York,1BHK,2GB,Poor,Yes,Single,2,Unemployed,10000,Low,No,Yes
+,60000,Other,Chicago,3BHK,,500,Yes,Divorced,,,50000,Low,No,
+,80000,Other,New York,3BHK,32GB,500,Yes,Divorced,3,,,High,No,Yes
+,50000,Other,Chicago,3BHK,8GB,700,Yes,Single,0,Unemployed,,Very High,No,Yes
+,70000,Other,Chicago,3BHK,32GB,800,Yes,,2,Self-Employed,20000,High,No,
+40,70000,Male,New York,Studio,6GB,Poor,Yes,Single,1,Business,5000,,No,No
+35,80000,,Chicago,2BHK,16GB,Excellent,Yes,Divorced,2,,20000,Medium,No,Yes
+30,90000,Female,Chicago,2BHK,4GB,,Yes,Married,2,Unemployed,10000,Medium,No,Yes
+30,70000,Other,Los Angeles,Studio,,400,Yes,Widowed,N/A,Unemployed,150000,Low,No,No
+30,90000,Male,Chicago,2BHK,2GB,500,Yes,Divorced,2,Self-Employed,10000,Very High,No,
+Unknown,70000,Male,New York,Studio,,400,Yes,Single,2,Self-Employed,150000,Low,No,Yes
+28,1500000,,Chicago,Studio,2GB,,Yes,Widowed,3,Salaried,20000,,No,Yes
+25,70000,M,New York,1BHK,16GB,600,Yes,Single,1,,50000,High,No,No
+30,1500000,F,Chicago,3BHK,32GB,400,Yes,Single,3,Salaried,10000,High,No,
+28,80000,Male,Chicago,3BHK,2GB,400,Yes,Married,3,Unemployed,20000,Very High,No,No
+,90000,M,Los Angeles,3BHK,,,Yes,Widowed,0,Business,5000,Low,No,No
+25,70000,M,,3BHK,,600,Yes,Widowed,3,Business,20000,Low,No,No
+,80000,Other,New York,Studio,8GB,600,Yes,Married,N/A,Self-Employed,20000,,No,Yes
+28,60000,Male,,1BHK,,,Yes,Divorced,N/A,Business,Unknown,High,No,No
+30,60000,Male,New York,4bhk,,,Yes,Single,0,Business,10000,Low,No,Yes
+40,1500000,,Chicago,2BHK,8GB,400,Yes,,,Business,50000,Very High,No,Yes
+28,N/A,Male,Los Angeles,1BHK,16GB,400,Yes,Single,1,Unemployed,50000,High,No,No
+30,90000,,Chicago,1BHK,8GB,400,Yes,Single,1,Business,Unknown,,No,Yes
+30,1500000,Male,New York,3BHK,4GB,600,Yes,Divorced,3,Business,150000,Very High,No,Yes
+Unknown,N/A,F,New York,Studio,16GB,400,Yes,Single,3,Business,,Medium,No,No
+40,60000,F,New York,3BHK,,600,Yes,Married,,Salaried,150000,,No,Yes
+30,90000,F,Los Angeles,Studio,32GB,400,Yes,Married,3,Unemployed,50000,Very High,No,Yes
+,90000,,Los Angeles,2BHK,8GB,Poor,Yes,Widowed,1,Self-Employed,20000,Low,Yes,Yes
+28,90000,,Chicago,3BHK,32GB,500,Yes,,2,Salaried,Unknown,Medium,No,Yes
+,90000,,New York,3BHK,,700,No,Single,N/A,,5000,,No,Yes
+30,90000,Other,,3BHK,16GB,600,Yes,Single,2,Unemployed,10000,Low,No,Yes
+Unknown,50000,Female,New York,4bhk,,600,Yes,Divorced,2,Unemployed,10000,Medium,No,
+28,80000,,Los Angeles,Studio,2GB,Poor,Yes,Married,1,,10000,High,No,Yes
+28,N/A,Male,New York,Studio,8GB,,Yes,,2,,20000,Low,No,Yes
+,60000,F,,3BHK,4GB,400,Yes,Widowed,,,5000,Very High,No,Yes
+Unknown,1500000,Male,,1BHK,16GB,800,Yes,Married,0,Self-Employed,Unknown,,No,
+25,90000,,Los Angeles,3BHK,16GB,700,Yes,Widowed,3,Business,Unknown,Medium,No,Yes
+,N/A,F,Los Angeles,1BHK,2GB,Excellent,Yes,Divorced,0,Unemployed,10000,Low,No,No
+25,1500000,Female,Los Angeles,2BHK,32GB,800,Yes,Divorced,N/A,Business,5000,High,No,Yes
+,90000,Male,Los Angeles,4bhk,,,Yes,Single,3,Business,5000,,No,
+30,60000,M,Chicago,2BHK,8GB,300,Yes,,2,,5000,,No,
+,70000,Other,New York,Studio,32GB,300,Yes,Widowed,N/A,Self-Employed,50000,Low,No,No
+40,70000,F,Los Angeles,3BHK,2GB,600,Yes,Married,3,Salaried,50000,High,No,Yes
+25,60000,Other,New York,4bhk,2GB,,Yes,Divorced,,Self-Employed,10000,Medium,No,Yes
+30,90000,Male,Chicago,3BHK,2GB,700,Yes,Single,,Business,5000,Low,No,Yes
+40,80000,Male,New York,Studio,32GB,Poor,Yes,Single,,Self-Employed,,Medium,No,Yes
+28,90000,M,Los Angeles,2BHK,2GB,400,Yes,Widowed,,,5000,,No,Yes
+Unknown,60000,,Chicago,2BHK,6GB,400,Yes,Divorced,2,Salaried,Unknown,Medium,No,Yes
+45,90000,Other,Chicago,Studio,32GB,300,Yes,,0,,Unknown,High,No,
+45,1500000,Male,New York,Studio,16GB,300,Yes,Divorced,3,Salaried,10000,Very High,No,No
+Unknown,1500000,Male,Chicago,1BHK,8GB,,Yes,Widowed,2,Business,,High,No,
+30,1500000,,New York,3BHK,,,Yes,Widowed,,Salaried,5000,Medium,No,
+25,1500000,M,Chicago,2BHK,,600,Yes,Divorced,0,Salaried,150000,Low,No,
+28,80000,,Los Angeles,Studio,32GB,800,Yes,Widowed,N/A,Salaried,,,No,Yes
+,1500000,Female,Chicago,2BHK,2GB,600,Yes,Divorced,N/A,Self-Employed,10000,Very High,No,Yes
+45,60000,M,,3BHK,8GB,,Yes,Married,N/A,Self-Employed,Unknown,Low,No,No
+Unknown,70000,,Chicago,3BHK,8GB,700,Yes,Divorced,,Business,150000,Low,No,
+45,70000,M,Los Angeles,2BHK,8GB,Poor,Yes,Divorced,N/A,Salaried,Unknown,High,No,
+,70000,,,4bhk,2GB,300,Yes,Widowed,1,Unemployed,50000,Medium,No,Yes
+28,80000,Male,Los Angeles,3BHK,,Excellent,Yes,Widowed,3,Business,10000,High,No,No
+Unknown,80000,Male,New York,2BHK,32GB,700,Yes,Single,3,Salaried,10000,Medium,No,
+30,80000,Male,New York,Studio,8GB,,Yes,Single,,Salaried,5000,High,No,
+40,70000,F,,1BHK,16GB,Excellent,Yes,Married,1,Self-Employed,5000,Low,No,Yes
+28,70000,Male,New York,3BHK,8GB,400,Yes,Single,2,Business,50000,,No,Yes
+,70000,Other,,Studio,8GB,700,Yes,Divorced,2,Salaried,150000,Medium,No,Yes
+40,80000,Male,Los Angeles,2BHK,,,Yes,Widowed,N/A,Salaried,20000,Very High,No,Yes
+Unknown,90000,Male,Chicago,4bhk,32GB,600,Yes,Single,0,Business,,Very High,No,No
+Unknown,1500000,M,Los Angeles,1BHK,8GB,600,No,Single,2,Unemployed,20000,Low,No,Yes
+28,70000,Other,New York,4bhk,8GB,800,Yes,Married,0,Business,20000,High,No,
+Unknown,1500000,F,Los Angeles,Studio,4GB,,Yes,Married,3,Business,10000,High,No,
+40,60000,Male,Los Angeles,Studio,2GB,300,Yes,Divorced,0,Unemployed,,Low,No,
+28,1500000,,Los Angeles,Studio,,400,Yes,Widowed,3,Business,10000,Very High,No,Yes
+40,90000,Male,Chicago,Studio,32GB,500,Yes,Married,1,Salaried,,Very High,No,Yes
+25,60000,F,Chicago,2BHK,,700,Yes,Single,1,Business,Unknown,High,No,Yes
+,N/A,Other,New York,4bhk,8GB,700,No,Widowed,,Unemployed,10000,Medium,No,Yes
+25,90000,F,Los Angeles,Studio,32GB,600,Yes,Widowed,,,10000,,No,No
+45,60000,F,,Studio,32GB,300,Yes,Single,N/A,Business,10000,Medium,No,Yes
+28,70000,F,New York,Studio,2GB,,Yes,Married,2,Self-Employed,150000,Very High,No,
+28,90000,M,Los Angeles,Studio,8GB,400,Yes,Single,N/A,Salaried,50000,Medium,No,Yes
+30,1500000,Male,Chicago,Studio,2GB,700,Yes,Widowed,3,Salaried,10000,,No,
+Unknown,60000,F,Los Angeles,2BHK,2GB,700,Yes,,N/A,Self-Employed,5000,Medium,No,
+Unknown,90000,Other,New York,2BHK,16GB,,Yes,,0,Self-Employed,5000,Medium,No,Yes
+40,60000,Female,Los Angeles,3BHK,8GB,500,Yes,Divorced,3,Business,,Medium,No,
+25,90000,,Los Angeles,Studio,2GB,600,Yes,Single,,Self-Employed,Unknown,Medium,Yes,No
+40,60000,Female,New York,Studio,,700,Yes,Single,1,,50000,Low,No,Yes
+,N/A,,Chicago,Studio,32GB,300,Yes,Divorced,,Unemployed,150000,Very High,No,Yes
+28,N/A,Other,Chicago,1BHK,2GB,Poor,Yes,Divorced,2,Self-Employed,,,No,Yes
+30,90000,Other,Los Angeles,3BHK,8GB,400,Yes,Divorced,3,Self-Employed,5000,Very High,No,No
+Unknown,,M,Chicago,4bhk,,400,Yes,Widowed,3,,50000,Low,No,
+28,60000,Other,New York,4bhk,2GB,Poor,Yes,Single,0,Salaried,50000,Low,No,No
+Unknown,,,Los Angeles,1BHK,,Excellent,Yes,Widowed,2,Salaried,Unknown,Low,No,
+25,80000,M,New York,Studio,,400,Yes,Divorced,1,Business,50000,Low,No,
+25,90000,,New York,2BHK,8GB,500,Yes,Single,3,,10000,Medium,No,Yes
+Unknown,N/A,Other,Los Angeles,1BHK,,,Yes,Widowed,3,Unemployed,50000,Very High,No,Yes
+30,,,Los Angeles,4bhk,2GB,400,Yes,Widowed,0,Unemployed,Unknown,High,No,
+30,80000,Female,New York,2BHK,2GB,Poor,Yes,Divorced,N/A,,,,No,Yes
+30,70000,Other,New York,4bhk,32GB,Excellent,Yes,Single,1,Unemployed,Unknown,Low,No,
+,90000,Female,Los Angeles,2BHK,8GB,700,Yes,Divorced,,Salaried,150000,Very High,No,Yes
+Unknown,N/A,,New York,3BHK,8GB,,Yes,Single,2,Unemployed,Unknown,Low,No,Yes
+40,,F,Los Angeles,2BHK,6GB,Poor,Yes,,3,Unemployed,5000,Low,No,
+40,70000,Female,New York,4bhk,,700,Yes,Married,3,,10000,Low,No,
+40,80000,F,Los Angeles,4bhk,16GB,800,Yes,Married,,,5000,Low,No,No
+30,N/A,Male,New York,4bhk,8GB,Excellent,Yes,Married,1,Unemployed,,Low,No,Yes
+,N/A,Male,New York,1BHK,,600,Yes,Divorced,N/A,Self-Employed,20000,,No,No
+30,80000,F,New York,4bhk,2GB,800,Yes,,3,,,Very High,No,Yes
+45,1500000,Female,New York,2BHK,8GB,400,Yes,Single,1,Business,10000,Low,No,No
+,N/A,Other,Chicago,3BHK,2GB,400,Yes,Widowed,,Business,50000,Low,No,No
+Unknown,90000,Male,Chicago,1BHK,8GB,Excellent,Yes,Single,0,Salaried,Unknown,Low,No,Yes
+Unknown,90000,,Los Angeles,Studio,16GB,Excellent,Yes,Widowed,N/A,Unemployed,20000,Low,No,
+25,60000,Female,Los Angeles,Studio,2GB,700,Yes,Single,2,Self-Employed,10000,Medium,No,Yes
+30,,Male,Chicago,2BHK,16GB,300,Yes,,3,Salaried,5000,Medium,No,No
+28,50000,Other,New York,3BHK,16GB,,Yes,Widowed,1,Unemployed,Unknown,High,No,No
+Unknown,N/A,,Chicago,4bhk,8GB,300,Yes,Divorced,0,,,Low,No,Yes
+,1500000,Male,New York,3BHK,8GB,800,Yes,Single,2,Business,5000,High,No,Yes
+25,N/A,,New York,3BHK,16GB,Excellent,Yes,Single,1,Self-Employed,10000,,No,Yes
+Unknown,N/A,Male,New York,2BHK,16GB,400,Yes,Widowed,1,Business,10000,High,No,
+,80000,Male,Los Angeles,Studio,8GB,Excellent,Yes,Divorced,2,,,Very High,No,
+28,90000,Female,New York,3BHK,6GB,Poor,Yes,Divorced,0,Unemployed,20000,Medium,No,
+Unknown,90000,M,Chicago,3BHK,,,Yes,,,,,Medium,No,Yes
+40,1500000,Male,New York,Studio,,700,Yes,Divorced,0,,50000,Low,No,Yes
+30,1500000,Other,Chicago,2BHK,,300,Yes,Divorced,N/A,Business,5000,Low,No,No
+,1500000,Female,Los Angeles,3BHK,8GB,600,Yes,Divorced,3,Self-Employed,20000,,No,Yes
+,,,Chicago,2BHK,32GB,Excellent,Yes,Married,2,,Unknown,,No,No
+,70000,Male,New York,3BHK,8GB,300,Yes,,,Business,150000,Very High,No,
+,N/A,Male,New York,4bhk,8GB,400,Yes,Single,2,Self-Employed,50000,Low,No,No
+,90000,Female,Chicago,4bhk,8GB,,Yes,Widowed,2,Unemployed,20000,Low,No,Yes
+30,,Female,New York,1BHK,,700,Yes,Single,0,Unemployed,150000,,No,Yes
+Unknown,60000,Male,Chicago,3BHK,8GB,,No,,3,Salaried,150000,,No,No
+30,,,Los Angeles,2BHK,8GB,400,Yes,Widowed,N/A,Business,5000,,No,Yes
+45,70000,Male,Los Angeles,2BHK,16GB,Excellent,Yes,,1,Self-Employed,10000,Medium,No,
+28,80000,Female,New York,Studio,32GB,500,Yes,Divorced,1,,Unknown,High,No,
+Unknown,90000,Other,Los Angeles,Studio,,300,Yes,Widowed,2,Unemployed,,High,No,No
+28,1500000,,Los Angeles,1BHK,8GB,Poor,Yes,Divorced,3,Self-Employed,5000,Low,No,
+Unknown,70000,Male,Los Angeles,Studio,16GB,400,Yes,Single,,Business,50000,Medium,No,
+,60000,Male,Los Angeles,Studio,,300,Yes,Single,0,Salaried,150000,,No,Yes
+30,1500000,,New York,Studio,,Excellent,Yes,Widowed,3,Unemployed,50000,Low,No,Yes
+25,N/A,Male,Chicago,Studio,16GB,,Yes,Widowed,3,Self-Employed,150000,Medium,No,
+28,90000,Male,,Studio,8GB,500,Yes,,0,Self-Employed,10000,Very High,No,
+,N/A,F,,Studio,8GB,400,No,,2,Self-Employed,10000,Medium,No,Yes
+Unknown,60000,Male,New York,Studio,8GB,600,Yes,Divorced,3,Business,Unknown,Low,No,
+Unknown,,F,New York,4bhk,16GB,Excellent,Yes,Widowed,1,Business,,High,No,Yes
+40,60000,,,4bhk,32GB,,Yes,Single,0,Business,Unknown,,No,
+35,70000,F,Chicago,3BHK,8GB,500,Yes,,,,10000,Very High,No,Yes
+30,80000,Female,Los Angeles,Studio,2GB,,Yes,,N/A,Self-Employed,10000,Medium,No,Yes
+,90000,Male,New York,3BHK,,400,Yes,Single,2,Unemployed,50000,Low,No,Yes
+,1500000,F,Los Angeles,Studio,6GB,800,Yes,,0,Business,10000,Low,No,
+35,90000,F,Chicago,1BHK,16GB,400,Yes,Divorced,N/A,Business,20000,,No,No
+,,M,Chicago,4bhk,,400,Yes,Widowed,N/A,Self-Employed,150000,Low,No,
+28,90000,Male,New York,Studio,2GB,Excellent,Yes,Single,,Business,5000,Low,No,
+30,80000,,Los Angeles,3BHK,2GB,300,Yes,Widowed,3,,10000,,No,
+25,80000,Female,Chicago,3BHK,,300,Yes,,,,Unknown,Very High,No,
+,,Male,Chicago,4bhk,,,Yes,,3,Business,,High,No,Yes
+40,90000,F,Los Angeles,2BHK,4GB,600,Yes,Single,3,Self-Employed,150000,High,No,
+,60000,F,Chicago,2BHK,8GB,300,Yes,Divorced,0,Self-Employed,150000,Medium,No,
+35,N/A,Other,Los Angeles,2BHK,8GB,300,Yes,Married,0,Self-Employed,,Very High,No,
+,N/A,Other,Chicago,Studio,16GB,Poor,Yes,Single,2,Salaried,,Medium,No,Yes
+25,60000,Male,New York,1BHK,2GB,400,Yes,Married,3,Business,150000,High,No,
+Unknown,N/A,,Chicago,2BHK,32GB,500,Yes,Married,N/A,Self-Employed,20000,,No,No
+28,1500000,Female,Chicago,Studio,,500,Yes,Divorced,1,,Unknown,Low,No,
+30,N/A,Male,New York,1BHK,32GB,400,Yes,Married,2,Unemployed,20000,High,No,Yes
+Unknown,90000,Female,Los Angeles,Studio,2GB,800,Yes,Married,0,Unemployed,10000,Very High,No,Yes
+28,50000,M,Los Angeles,3BHK,6GB,Excellent,Yes,Divorced,,Self-Employed,5000,High,No,
+Unknown,90000,Other,New York,Studio,,500,Yes,Married,2,Unemployed,,Very High,No,No
+35,90000,,New York,2BHK,8GB,700,Yes,Married,2,Unemployed,Unknown,Very High,No,Yes
+28,60000,F,New York,3BHK,2GB,Poor,Yes,Married,2,Salaried,,Very High,No,
+Unknown,70000,F,Chicago,1BHK,8GB,,Yes,Single,2,,20000,Medium,No,
+40,90000,Male,Chicago,Studio,32GB,300,Yes,Single,1,,50000,,No,
+40,60000,Other,Los Angeles,Studio,16GB,500,Yes,Single,,Salaried,10000,High,No,
+Unknown,90000,Male,Los Angeles,1BHK,2GB,Poor,Yes,Divorced,,Salaried,5000,,No,No
+28,60000,Female,Los Angeles,Studio,8GB,Excellent,Yes,,,Unemployed,10000,Low,No,Yes
+28,80000,Male,Chicago,3BHK,2GB,300,Yes,Married,3,Business,50000,High,No,Yes
+,50000,Male,Chicago,Studio,8GB,400,Yes,Married,N/A,Unemployed,5000,,No,
+28,60000,F,Chicago,Studio,,700,Yes,Divorced,,Salaried,50000,,No,Yes
+30,60000,M,Chicago,1BHK,,500,Yes,Married,2,,10000,Low,No,
+30,,Male,New York,Studio,16GB,Poor,Yes,Single,2,Unemployed,20000,Very High,No,Yes
+Unknown,70000,Male,Chicago,4bhk,,300,Yes,,,Business,150000,High,No,Yes
+,60000,Male,Los Angeles,1BHK,2GB,700,Yes,Widowed,,Unemployed,10000,High,No,Yes
+40,90000,Male,Los Angeles,2BHK,32GB,800,Yes,Married,2,Self-Employed,10000,Low,No,Yes
+,1500000,Other,Chicago,4bhk,16GB,,Yes,Single,3,Unemployed,10000,Very High,No,Yes
+30,N/A,Male,Los Angeles,Studio,,,Yes,Widowed,0,Salaried,Unknown,High,No,Yes
+30,80000,Other,Los Angeles,2BHK,2GB,400,Yes,,0,,50000,High,No,
+28,1500000,Male,Los Angeles,1BHK,16GB,400,Yes,Widowed,,,50000,High,No,
+,60000,M,New York,2BHK,32GB,300,Yes,Single,1,Salaried,,Very High,No,
+,80000,F,New York,2BHK,16GB,600,Yes,Widowed,,Self-Employed,50000,Low,No,Yes
+Unknown,90000,Male,Chicago,3BHK,16GB,Excellent,Yes,Divorced,,Salaried,,High,No,
+30,70000,Male,,4bhk,,500,Yes,Widowed,0,Unemployed,Unknown,,No,Yes
+Unknown,N/A,Male,Chicago,4bhk,32GB,Poor,Yes,Married,2,Salaried,20000,Very High,No,
+28,70000,,Los Angeles,3BHK,2GB,Poor,Yes,Married,,Salaried,,Medium,No,
+25,1500000,F,New York,3BHK,2GB,400,Yes,Divorced,2,Self-Employed,10000,Low,No,Yes
+28,N/A,Male,,Studio,8GB,Poor,Yes,Single,2,Unemployed,20000,,Yes,
+Unknown,80000,,Chicago,2BHK,16GB,,Yes,Married,1,Business,150000,High,No,
+,,Female,New York,3BHK,2GB,,Yes,,2,Business,Unknown,Medium,Yes,
+28,90000,F,,Studio,6GB,700,Yes,Married,0,,50000,Low,No,Yes
+28,70000,Female,New York,Studio,8GB,600,Yes,Married,3,Salaried,,Very High,No,Yes
+30,60000,F,New York,Studio,,,Yes,Single,3,,10000,Medium,No,No
+30,70000,Male,Los Angeles,2BHK,,700,Yes,Widowed,N/A,Self-Employed,5000,Medium,No,
+,60000,F,,3BHK,8GB,400,Yes,Married,,Business,150000,,No,Yes
+45,50000,Male,New York,2BHK,2GB,,Yes,Divorced,0,Salaried,5000,Low,No,Yes
+45,70000,F,Los Angeles,3BHK,32GB,Poor,Yes,Widowed,2,Self-Employed,20000,,No,Yes
+45,90000,M,New York,Studio,8GB,300,Yes,,3,Self-Employed,50000,,No,Yes
+45,N/A,F,,Studio,32GB,Poor,No,Single,0,Salaried,5000,High,No,
+,90000,Male,Chicago,4bhk,,700,Yes,,3,Self-Employed,20000,Very High,No,No
+40,90000,Male,New York,2BHK,16GB,700,Yes,Widowed,2,Salaried,Unknown,Medium,No,No
+,60000,,New York,3BHK,2GB,,Yes,Widowed,3,Salaried,20000,Low,No,Yes
+,,Male,New York,3BHK,,700,Yes,Widowed,,Unemployed,150000,Very High,No,No
+40,90000,,Chicago,4bhk,6GB,Excellent,Yes,,,,20000,Very High,No,Yes
+28,1500000,Male,Chicago,4bhk,8GB,700,Yes,Widowed,N/A,Self-Employed,150000,Low,Yes,
+,90000,Female,Los Angeles,Studio,,600,Yes,,N/A,Self-Employed,20000,Very High,No,No
+,70000,,Chicago,Studio,,Excellent,Yes,Widowed,3,Unemployed,10000,High,No,No
+,90000,Female,Los Angeles,4bhk,8GB,500,Yes,Divorced,0,Unemployed,20000,Very High,No,
+25,90000,Male,Los Angeles,3BHK,,Excellent,Yes,Widowed,,Unemployed,,High,No,
+35,80000,Female,New York,Studio,,,Yes,,0,Business,20000,Medium,No,
+28,90000,F,,4bhk,2GB,,Yes,Married,0,Business,10000,Medium,No,No
+,1500000,,Los Angeles,3BHK,8GB,700,Yes,Widowed,3,Business,10000,,No,
+35,70000,Male,Chicago,2BHK,6GB,700,Yes,Married,0,Salaried,Unknown,High,No,Yes
+30,60000,Female,Los Angeles,2BHK,6GB,Excellent,Yes,Divorced,,Self-Employed,150000,Medium,No,
+25,80000,,Chicago,Studio,8GB,400,No,Single,2,,50000,Very High,No,Yes
+30,50000,Other,Chicago,Studio,2GB,400,Yes,Divorced,N/A,Salaried,5000,Low,No,Yes
+28,70000,Female,,Studio,,300,Yes,Widowed,2,Self-Employed,5000,Low,No,Yes
+,60000,Male,Los Angeles,3BHK,4GB,500,Yes,Married,0,Self-Employed,20000,High,No,Yes
+40,50000,Male,New York,3BHK,16GB,600,Yes,Married,2,Unemployed,Unknown,,No,Yes
+Unknown,70000,Male,Los Angeles,4bhk,2GB,Excellent,Yes,,,Unemployed,20000,Very High,No,No
+30,90000,Male,Los Angeles,2BHK,,500,Yes,Married,,Salaried,5000,High,No,
+Unknown,90000,,New York,4bhk,2GB,,Yes,,0,Unemployed,150000,Low,No,No
+30,,F,Chicago,1BHK,2GB,400,Yes,Single,3,Self-Employed,150000,High,No,Yes
+,60000,Male,Chicago,4bhk,8GB,Poor,Yes,Widowed,2,Unemployed,150000,Very High,No,Yes
+30,90000,Female,New York,1BHK,8GB,600,No,,3,Business,10000,Medium,No,Yes
+30,N/A,M,Los Angeles,Studio,4GB,500,Yes,Single,3,Unemployed,50000,Very High,No,Yes
+,,Male,Los Angeles,3BHK,2GB,Excellent,Yes,Married,1,Self-Employed,Unknown,Medium,No,Yes
+Unknown,,Male,Los Angeles,Studio,2GB,400,Yes,Married,0,Salaried,10000,Medium,No,
+Unknown,,Male,Los Angeles,3BHK,16GB,Excellent,Yes,Single,N/A,,50000,Medium,No,
+25,60000,Male,Chicago,1BHK,6GB,Poor,Yes,Married,,Unemployed,Unknown,High,Yes,Yes
+Unknown,1500000,Male,Chicago,3BHK,,Poor,Yes,Single,,Self-Employed,Unknown,Low,No,
+,90000,Male,Chicago,Studio,2GB,Poor,Yes,,0,,5000,High,No,No
+28,70000,Male,Los Angeles,4bhk,2GB,800,Yes,,N/A,,10000,Low,No,Yes
+30,N/A,F,New York,1BHK,16GB,300,Yes,Single,,Business,Unknown,Very High,No,Yes
+,70000,,New York,4bhk,,600,Yes,,0,,,,No,
+,90000,Other,Chicago,1BHK,,,Yes,,,Self-Employed,150000,Very High,No,
+25,1500000,Female,Los Angeles,2BHK,32GB,Poor,Yes,,3,Self-Employed,Unknown,High,No,Yes
+45,80000,M,New York,4bhk,,400,Yes,Divorced,2,Unemployed,50000,High,No,Yes
+25,60000,F,Chicago,1BHK,16GB,,Yes,Widowed,2,Unemployed,5000,Low,No,No
+28,90000,Other,Los Angeles,3BHK,,700,Yes,Married,,Unemployed,20000,High,No,Yes
+30,70000,Female,Los Angeles,3BHK,2GB,Excellent,Yes,Divorced,1,,150000,Medium,No,Yes
+,1500000,Male,Los Angeles,1BHK,16GB,600,Yes,,N/A,,5000,High,No,
+28,70000,F,New York,3BHK,,600,Yes,Single,N/A,Business,20000,Low,No,No
+30,60000,Other,New York,3BHK,2GB,Poor,Yes,,N/A,Unemployed,10000,Low,No,Yes
+45,70000,Male,,Studio,,,Yes,Widowed,3,Salaried,10000,Medium,No,Yes
+,1500000,,Chicago,4bhk,2GB,500,Yes,,N/A,Business,Unknown,Low,No,Yes
+,1500000,Other,New York,4bhk,2GB,Poor,Yes,Single,2,Salaried,,,No,
+,80000,Other,New York,2BHK,,400,Yes,Widowed,3,,10000,Very High,No,Yes
+45,90000,Other,Chicago,2BHK,,Poor,Yes,,0,Business,Unknown,High,No,Yes
+Unknown,90000,Male,Los Angeles,3BHK,32GB,300,Yes,Widowed,N/A,Business,150000,,No,No
+25,1500000,Male,Los Angeles,2BHK,16GB,500,Yes,Married,N/A,Self-Employed,5000,High,No,
+40,60000,Male,Los Angeles,Studio,16GB,700,Yes,Married,0,,10000,,No,Yes
+Unknown,80000,Other,Chicago,4bhk,,,Yes,,N/A,,5000,High,No,
+Unknown,N/A,Female,Chicago,3BHK,16GB,500,Yes,Widowed,0,Business,5000,Medium,No,Yes
+40,50000,M,Chicago,2BHK,8GB,800,Yes,Single,3,,,Low,No,No
+25,70000,Male,Los Angeles,1BHK,2GB,800,Yes,,2,Business,10000,Low,No,No
+Unknown,1500000,F,Los Angeles,1BHK,16GB,500,Yes,Married,0,Self-Employed,5000,Medium,No,
+25,50000,M,Los Angeles,Studio,16GB,,Yes,Married,1,Business,,,No,Yes
+,90000,Male,New York,2BHK,8GB,,Yes,,0,,,Very High,No,
+,N/A,M,New York,2BHK,6GB,400,No,Widowed,N/A,,10000,,No,
+Unknown,90000,Female,Los Angeles,2BHK,2GB,500,Yes,Married,3,Business,,Low,No,Yes
+,60000,F,Chicago,Studio,16GB,,Yes,Widowed,,Business,10000,Very High,No,
+30,1500000,Male,,3BHK,16GB,,Yes,Married,3,Business,10000,High,No,Yes
+Unknown,80000,Other,,2BHK,2GB,Poor,Yes,Married,,Unemployed,20000,Very High,No,Yes
+,70000,Male,Chicago,2BHK,2GB,Poor,No,Divorced,0,,5000,,No,Yes
+Unknown,70000,Male,,2BHK,16GB,700,Yes,Married,2,,50000,Medium,No,Yes
+Unknown,80000,,,2BHK,,Excellent,Yes,Single,1,Unemployed,10000,High,No,No
+40,80000,Male,New York,4bhk,,,Yes,,3,Business,5000,,Yes,Yes
+25,70000,Other,Chicago,3BHK,16GB,Excellent,Yes,,N/A,Self-Employed,150000,High,No,Yes
+Unknown,N/A,,Chicago,Studio,16GB,Excellent,Yes,Widowed,,Business,,Very High,No,
+30,60000,Male,New York,2BHK,8GB,600,Yes,Married,N/A,Business,Unknown,Low,No,No
+30,N/A,Other,New York,Studio,8GB,400,Yes,Single,2,Unemployed,10000,,Yes,Yes
+Unknown,70000,Other,New York,4bhk,6GB,400,Yes,Widowed,,,,Medium,No,Yes
+25,90000,Female,Chicago,3BHK,2GB,800,Yes,Divorced,3,Business,,Very High,No,Yes
+,N/A,Male,New York,2BHK,16GB,600,Yes,Widowed,0,,,,No,
+,70000,F,New York,3BHK,,700,Yes,Widowed,N/A,Salaried,,Medium,No,Yes
+30,60000,,,4bhk,8GB,700,Yes,Married,2,,,,No,Yes
+30,N/A,Male,,3BHK,16GB,600,Yes,Divorced,3,Self-Employed,10000,Very High,No,Yes
+,80000,Male,,1BHK,32GB,Poor,Yes,Widowed,3,Self-Employed,150000,,No,Yes
+30,1500000,M,,Studio,8GB,500,Yes,Single,3,Business,50000,High,No,Yes
+30,90000,Male,New York,3BHK,8GB,,Yes,Single,3,,20000,Very High,No,Yes
+,90000,Other,New York,4bhk,16GB,700,Yes,,,Business,,,No,No
+40,50000,Other,Chicago,3BHK,8GB,Poor,No,Divorced,3,Unemployed,,Low,No,No
+35,60000,Male,,3BHK,16GB,,Yes,Divorced,N/A,Self-Employed,20000,,No,Yes
+45,60000,,Chicago,Studio,16GB,500,No,,2,Business,150000,High,No,Yes
+28,90000,Other,,1BHK,32GB,400,Yes,Widowed,,Unemployed,150000,Medium,No,
+,1500000,M,Los Angeles,2BHK,32GB,300,Yes,Divorced,3,Business,10000,Medium,No,No
+35,1500000,Male,New York,Studio,2GB,700,Yes,Single,1,,5000,Medium,No,
+,,Other,Chicago,Studio,6GB,600,Yes,Single,1,,Unknown,Low,No,
+Unknown,60000,M,Los Angeles,Studio,4GB,400,Yes,Married,2,,Unknown,High,No,Yes
+40,N/A,Male,Chicago,4bhk,4GB,Poor,Yes,Divorced,0,,5000,Very High,No,No
+Unknown,70000,Male,New York,2BHK,6GB,,Yes,Widowed,0,Salaried,10000,Medium,No,
+28,60000,F,New York,Studio,32GB,,Yes,,,Unemployed,Unknown,High,No,
+Unknown,90000,M,Chicago,4bhk,8GB,600,Yes,,,Unemployed,150000,,No,
+Unknown,90000,Female,New York,3BHK,4GB,400,Yes,Widowed,,,20000,Low,No,Yes
+35,1500000,Male,New York,Studio,,,Yes,Married,0,Salaried,5000,High,No,
+,60000,Male,New York,Studio,8GB,600,Yes,,1,,150000,High,No,Yes
+28,80000,Male,Los Angeles,3BHK,32GB,700,Yes,Divorced,0,Salaried,50000,Very High,No,No
+,N/A,Male,Los Angeles,3BHK,2GB,800,Yes,Married,N/A,,10000,High,No,Yes
+,,Female,Chicago,1BHK,2GB,,Yes,Divorced,3,Self-Employed,5000,Very High,No,
+30,70000,Male,Los Angeles,3BHK,2GB,Excellent,Yes,Single,,Self-Employed,Unknown,Low,No,Yes
+Unknown,N/A,Other,Los Angeles,Studio,16GB,500,Yes,Married,1,Business,10000,Low,No,No
+28,N/A,Male,New York,2BHK,8GB,300,Yes,,2,,20000,,No,No
+35,60000,,Chicago,1BHK,2GB,,Yes,Married,2,Unemployed,10000,Very High,No,
+,90000,Female,,4bhk,2GB,400,Yes,Married,3,Business,10000,Very High,No,Yes
+30,90000,M,Chicago,2BHK,,800,No,Married,1,Self-Employed,20000,Medium,No,Yes
+35,90000,F,New York,3BHK,,500,Yes,Married,0,,,Medium,No,Yes
+28,70000,Other,Chicago,2BHK,32GB,500,Yes,Divorced,0,Business,20000,,No,Yes
+,60000,F,,3BHK,2GB,300,Yes,Single,N/A,,150000,Low,No,
+30,90000,,Chicago,3BHK,2GB,600,Yes,Widowed,N/A,Self-Employed,10000,Medium,No,Yes
+40,1500000,F,Chicago,2BHK,16GB,Poor,Yes,Married,0,Business,20000,High,No,Yes
+,1500000,M,New York,Studio,2GB,600,Yes,,2,Self-Employed,,Low,No,
+,1500000,Male,New York,3BHK,16GB,300,Yes,Married,,Salaried,150000,High,No,
+40,60000,,Los Angeles,3BHK,2GB,800,Yes,,2,Self-Employed,5000,Very High,No,No
+Unknown,60000,,Los Angeles,2BHK,16GB,,Yes,Divorced,N/A,,20000,Low,No,Yes
+,70000,,Los Angeles,3BHK,8GB,700,Yes,,3,Unemployed,20000,,No,Yes
+30,1500000,Male,New York,Studio,8GB,600,Yes,Widowed,0,Self-Employed,10000,Very High,No,Yes
+28,,M,,3BHK,6GB,,Yes,Single,N/A,Unemployed,150000,Very High,No,
+,60000,M,,1BHK,8GB,300,Yes,,N/A,Salaried,5000,High,No,Yes
+45,60000,M,,3BHK,8GB,700,Yes,,,Business,50000,Very High,No,Yes
+30,1500000,Male,Chicago,Studio,8GB,500,Yes,Single,0,Business,50000,Medium,No,
+28,80000,M,New York,3BHK,2GB,Poor,Yes,Widowed,,Unemployed,Unknown,Low,No,Yes
+25,,M,New York,1BHK,6GB,,Yes,Married,0,Business,20000,Medium,No,
+Unknown,90000,,Chicago,4bhk,,800,Yes,,,Self-Employed,20000,High,No,
+30,90000,Male,Chicago,4bhk,2GB,,No,Single,2,Unemployed,5000,High,No,No
+Unknown,70000,Female,Chicago,Studio,6GB,,Yes,Divorced,3,,,Low,No,No
+Unknown,60000,Male,Los Angeles,3BHK,,400,Yes,Single,3,Self-Employed,50000,Very High,No,No
+30,70000,Male,Los Angeles,1BHK,,600,Yes,Divorced,0,Self-Employed,Unknown,,No,Yes
+30,90000,Male,Los Angeles,4bhk,16GB,,Yes,Widowed,1,Self-Employed,5000,High,No,Yes
+Unknown,60000,,Chicago,3BHK,16GB,700,Yes,Married,N/A,,20000,Low,No,No
+,80000,Other,Los Angeles,Studio,,,Yes,Single,N/A,Salaried,50000,,No,
+30,1500000,Male,Chicago,Studio,32GB,Excellent,Yes,,0,Business,150000,Very High,No,Yes
+40,N/A,,Chicago,Studio,16GB,800,No,Widowed,,Unemployed,Unknown,High,No,
+25,60000,,New York,3BHK,,700,Yes,Single,1,Salaried,10000,Low,No,
+40,N/A,Male,Los Angeles,Studio,32GB,500,Yes,,2,Unemployed,50000,Low,No,Yes
+30,60000,M,Chicago,4bhk,16GB,500,Yes,Single,,Business,Unknown,Low,No,Yes
+30,1500000,Male,New York,2BHK,32GB,Excellent,Yes,Divorced,,,5000,High,No,
+Unknown,70000,,,1BHK,16GB,Excellent,Yes,Single,0,Self-Employed,10000,,No,
+30,70000,,New York,2BHK,16GB,,Yes,Single,0,Self-Employed,Unknown,Low,No,Yes
+28,70000,Male,New York,2BHK,16GB,800,Yes,Single,N/A,,Unknown,Very High,No,Yes
+Unknown,70000,Male,,4bhk,2GB,Poor,Yes,Widowed,0,Salaried,20000,Low,No,Yes
+40,1500000,Male,New York,2BHK,6GB,500,Yes,Single,0,Salaried,,,No,No
+28,1500000,F,Chicago,2BHK,2GB,600,Yes,,0,Unemployed,50000,High,No,
+30,1500000,Female,Chicago,3BHK,4GB,700,No,Divorced,N/A,,20000,Low,No,No
+28,80000,Male,Chicago,3BHK,16GB,500,Yes,Divorced,2,Salaried,150000,Low,No,Yes
+Unknown,60000,Female,Los Angeles,Studio,2GB,500,Yes,Single,2,,10000,Very High,No,Yes
+25,80000,Male,New York,Studio,8GB,400,Yes,Widowed,0,Business,,Very High,No,
+28,60000,,Chicago,Studio,16GB,700,Yes,Widowed,N/A,Self-Employed,Unknown,Low,No,Yes
+45,80000,Other,Chicago,3BHK,2GB,800,Yes,,2,Self-Employed,20000,Low,No,
+Unknown,80000,M,Los Angeles,1BHK,,,Yes,Single,,Self-Employed,,Very High,No,
+,60000,,Los Angeles,Studio,16GB,700,Yes,Divorced,2,,150000,,Yes,Yes
+40,60000,,Los Angeles,2BHK,2GB,Excellent,Yes,Widowed,2,,50000,Medium,No,Yes
+,60000,,Los Angeles,4bhk,16GB,400,Yes,Single,N/A,Unemployed,150000,Medium,No,Yes
+Unknown,90000,,New York,Studio,8GB,,Yes,Widowed,,Self-Employed,10000,Low,No,
+Unknown,N/A,F,Chicago,3BHK,8GB,,Yes,Widowed,N/A,Unemployed,5000,Very High,No,Yes
+28,N/A,M,Los Angeles,Studio,8GB,600,Yes,Divorced,0,Self-Employed,20000,High,No,
+30,90000,F,Chicago,Studio,,,Yes,Married,3,Unemployed,10000,High,No,No
+28,,Male,Los Angeles,3BHK,6GB,400,Yes,,2,Unemployed,5000,Medium,No,Yes
+,,Male,Los Angeles,3BHK,16GB,Excellent,Yes,,3,Business,20000,,No,
+,60000,Male,New York,3BHK,,500,Yes,Divorced,N/A,Unemployed,10000,Medium,No,No
+28,60000,,New York,3BHK,16GB,700,Yes,Widowed,N/A,,150000,Low,No,Yes
+,70000,Male,Chicago,4bhk,,Poor,Yes,Single,N/A,Unemployed,10000,,No,Yes
+,80000,Male,New York,Studio,,,Yes,Widowed,3,Self-Employed,,High,No,
+,60000,Female,New York,3BHK,,,Yes,Divorced,N/A,Unemployed,150000,Very High,No,Yes
+,90000,M,New York,4bhk,8GB,Poor,Yes,,0,Salaried,20000,Very High,No,Yes
+,60000,Other,Los Angeles,Studio,,Poor,Yes,Widowed,N/A,Self-Employed,10000,Low,No,No
+45,70000,Female,Los Angeles,Studio,16GB,400,Yes,,1,Salaried,Unknown,Medium,No,Yes
+25,60000,Female,New York,2BHK,,Poor,Yes,Single,3,Self-Employed,20000,Low,Yes,
+Unknown,60000,,Los Angeles,4bhk,2GB,400,Yes,,1,,10000,Very High,No,
+Unknown,1500000,Female,New York,3BHK,2GB,,Yes,,N/A,,,High,No,Yes
+25,80000,Female,New York,3BHK,8GB,,Yes,Married,0,,5000,Very High,No,No
+,,Male,Los Angeles,4bhk,,300,Yes,Married,2,Salaried,5000,,No,
+45,1500000,Male,Chicago,3BHK,8GB,Excellent,Yes,Married,,Business,Unknown,Very High,No,
+Unknown,80000,M,Chicago,3BHK,32GB,500,Yes,,,Self-Employed,20000,Very High,No,Yes
+40,,Female,New York,2BHK,16GB,700,Yes,Divorced,N/A,,,,No,
+40,60000,,,4bhk,32GB,Poor,Yes,,0,Self-Employed,10000,Medium,No,No
+30,90000,Male,,Studio,6GB,500,Yes,Divorced,3,Salaried,10000,Very High,No,Yes
+40,90000,Female,New York,Studio,32GB,Excellent,Yes,Divorced,1,Business,5000,Low,No,Yes
+28,70000,F,,3BHK,,600,No,Married,1,Salaried,,Very High,No,No
+30,70000,F,New York,2BHK,2GB,700,No,Widowed,1,Self-Employed,150000,Low,No,No
+45,90000,,Chicago,3BHK,16GB,,Yes,Single,3,Business,Unknown,,No,Yes
+28,60000,,New York,Studio,16GB,500,Yes,Married,,Business,5000,Very High,No,No
+45,,,,4bhk,2GB,Poor,Yes,Married,0,Salaried,5000,,No,
+,70000,M,Chicago,2BHK,8GB,600,Yes,Widowed,3,,Unknown,,No,Yes
+Unknown,60000,Male,Chicago,Studio,2GB,700,Yes,Single,1,Self-Employed,20000,Medium,No,
+28,50000,Male,New York,3BHK,,Poor,No,,N/A,Unemployed,10000,Very High,No,Yes
+28,1500000,Male,Chicago,3BHK,32GB,Excellent,Yes,,2,Unemployed,20000,Low,No,No
+30,70000,F,Chicago,Studio,8GB,,Yes,Married,3,Salaried,,Low,No,No
+,90000,Male,New York,3BHK,32GB,Excellent,Yes,Single,3,Self-Employed,150000,Very High,No,No
+,1500000,F,Chicago,3BHK,,,Yes,Married,0,Self-Employed,50000,Medium,No,
+,60000,Male,,3BHK,2GB,700,Yes,Divorced,0,Salaried,50000,Medium,No,Yes
+30,90000,F,Los Angeles,2BHK,,700,Yes,Married,3,Self-Employed,50000,Medium,No,Yes
+28,80000,Other,Los Angeles,3BHK,16GB,700,Yes,Married,1,,Unknown,Low,No,
+28,N/A,Female,Los Angeles,3BHK,2GB,300,Yes,,2,Salaried,5000,,No,
+,70000,F,New York,3BHK,,500,Yes,,0,,150000,Medium,No,Yes
+30,1500000,,New York,Studio,6GB,700,Yes,,1,Self-Employed,20000,Low,No,
+30,N/A,F,Los Angeles,2BHK,8GB,400,Yes,Divorced,N/A,Salaried,10000,Low,No,Yes
+30,90000,Other,Chicago,4bhk,2GB,Poor,Yes,,0,Self-Employed,50000,,No,No
+,90000,Other,,Studio,2GB,700,Yes,Single,1,Salaried,20000,Very High,No,No
+45,50000,Male,Los Angeles,3BHK,8GB,Excellent,Yes,Widowed,1,Self-Employed,50000,Very High,No,
+Unknown,90000,Male,Los Angeles,1BHK,8GB,Excellent,Yes,Single,2,,150000,Medium,No,
+,60000,Male,Los Angeles,2BHK,8GB,600,No,Single,2,,50000,Medium,No,Yes
+Unknown,1500000,Male,New York,1BHK,32GB,700,No,,N/A,Self-Employed,10000,,No,Yes
+Unknown,60000,,,2BHK,,400,Yes,Widowed,1,Salaried,,Medium,No,Yes
+45,60000,,New York,2BHK,6GB,Excellent,Yes,Widowed,,Unemployed,,,No,Yes
+40,1500000,Male,,Studio,8GB,600,Yes,Widowed,1,,150000,Low,No,
+,1500000,Male,Los Angeles,2BHK,2GB,,Yes,Divorced,2,,,Medium,No,
+45,50000,Female,Chicago,Studio,16GB,,No,,,Unemployed,Unknown,Low,No,
+Unknown,80000,Male,Chicago,4bhk,16GB,600,Yes,Widowed,0,Self-Employed,5000,High,No,Yes
+40,80000,Male,New York,1BHK,2GB,700,Yes,Divorced,0,Salaried,Unknown,,No,
+30,N/A,,Los Angeles,3BHK,16GB,,Yes,Married,3,Self-Employed,20000,High,No,Yes
+,,Other,Los Angeles,4bhk,2GB,600,Yes,Married,2,Business,Unknown,Medium,No,Yes
+35,70000,F,New York,2BHK,,Poor,Yes,Divorced,3,,20000,Low,No,Yes
+28,90000,Male,Chicago,Studio,16GB,600,Yes,Divorced,,Business,20000,Medium,No,
+,60000,Male,Los Angeles,Studio,6GB,Poor,Yes,,2,,5000,High,No,No
+45,70000,Male,Los Angeles,2BHK,8GB,300,Yes,,N/A,,10000,Medium,No,
+,70000,Other,Chicago,3BHK,2GB,,Yes,Married,1,Business,150000,Very High,No,
+28,70000,M,Los Angeles,3BHK,,600,Yes,Widowed,N/A,Business,5000,High,No,Yes
+Unknown,1500000,Female,Chicago,Studio,6GB,800,Yes,Married,,Self-Employed,150000,Medium,No,No
+Unknown,1500000,F,,2BHK,2GB,300,Yes,Widowed,2,Business,,Low,No,
+30,,,Los Angeles,3BHK,,300,Yes,Widowed,,Self-Employed,,Medium,No,No
+30,,M,,1BHK,2GB,,Yes,,1,Self-Employed,Unknown,Low,No,
+30,90000,Other,New York,3BHK,2GB,,Yes,Single,0,Self-Employed,20000,Very High,No,No
+,90000,Male,New York,4bhk,6GB,,No,Single,0,,50000,Medium,No,No
+28,70000,M,,Studio,2GB,700,Yes,Divorced,,,50000,Very High,No,
+28,N/A,Female,Los Angeles,4bhk,,Poor,Yes,,3,Business,150000,High,No,
+,70000,Male,Chicago,3BHK,8GB,Poor,Yes,Widowed,2,,20000,Low,No,Yes
+30,70000,Male,,Studio,2GB,Excellent,Yes,Single,2,Business,150000,High,No,No
+Unknown,90000,Male,New York,Studio,,500,No,Widowed,0,,5000,Low,No,Yes
+Unknown,70000,M,New York,3BHK,32GB,Poor,Yes,Single,N/A,Salaried,10000,Very High,No,
+,1500000,Male,New York,3BHK,32GB,400,Yes,Single,1,Salaried,5000,,No,No
+Unknown,60000,Male,New York,3BHK,16GB,300,Yes,Single,N/A,Business,20000,Medium,No,Yes
+30,60000,Other,New York,3BHK,2GB,300,Yes,,N/A,,20000,Very High,No,
+,1500000,,New York,2BHK,,Poor,Yes,Married,,,10000,Low,No,No
+28,1500000,Male,New York,2BHK,6GB,400,Yes,Widowed,0,Self-Employed,150000,Low,No,No
+30,70000,,Los Angeles,3BHK,8GB,Excellent,Yes,,0,Unemployed,Unknown,Low,No,Yes
+,60000,F,New York,4bhk,16GB,,Yes,,0,Business,Unknown,Low,No,
+25,1500000,Male,New York,4bhk,6GB,700,Yes,,,Unemployed,10000,Medium,No,Yes
+Unknown,80000,Other,Chicago,2BHK,2GB,600,Yes,,3,Unemployed,Unknown,High,No,
+,80000,Female,Chicago,1BHK,,700,Yes,,N/A,Business,50000,,No,
+25,35000000,F,Los Angeles,Studio,2GB,700,Yes,Divorced,,,Unknown,Medium,No,Yes
+Unknown,60000,Male,New York,3BHK,,600,Yes,Widowed,2,Business,Unknown,Low,No,Yes
+28,80000,Male,New York,2BHK,,800,Yes,,1,Unemployed,Unknown,Medium,No,Yes
+,N/A,F,Chicago,4bhk,,Poor,Yes,Widowed,3,,50000,Very High,No,Yes
+40,60000,M,,3BHK,2GB,,Yes,Divorced,2,Salaried,150000,Low,No,No
+Unknown,60000,Male,Los Angeles,2BHK,,300,Yes,Divorced,N/A,Business,Unknown,,No,
+,1500000,F,New York,2BHK,2GB,400,Yes,Widowed,0,Business,,Low,No,No
+30,90000,F,Chicago,3BHK,8GB,700,Yes,Single,N/A,,50000,,No,Yes
+,60000,,New York,1BHK,16GB,600,Yes,Married,,Salaried,10000,,No,Yes
+,,Male,,Studio,8GB,300,Yes,Single,1,Salaried,5000,High,No,
+28,50000,,New York,Studio,2GB,600,Yes,Single,,,10000,High,No,
+Unknown,70000,Male,Chicago,Studio,16GB,500,No,Single,3,Self-Employed,5000,Medium,No,Yes
+,90000,F,Los Angeles,1BHK,16GB,Poor,Yes,,3,Business,10000,Medium,No,Yes
+25,70000,F,Los Angeles,4bhk,,600,Yes,Divorced,1,Business,,,No,Yes
+40,80000,M,Los Angeles,1BHK,2GB,Poor,Yes,Single,2,Unemployed,5000,Low,No,
+40,1500000,F,Chicago,3BHK,8GB,700,Yes,Divorced,2,,5000,Very High,No,No
+30,,Female,Chicago,2BHK,16GB,,Yes,Widowed,3,Unemployed,20000,Very High,No,Yes
+35,1500000,Male,New York,2BHK,8GB,Excellent,Yes,Married,3,Unemployed,5000,Low,No,
+28,80000,Female,New York,3BHK,8GB,Poor,Yes,Widowed,0,Salaried,5000,Low,No,
+,90000,Male,Chicago,3BHK,8GB,,Yes,Widowed,2,Business,20000,High,No,Yes
+35,80000,M,New York,4bhk,2GB,700,No,,1,Unemployed,Unknown,Very High,No,
+Unknown,1500000,Male,New York,3BHK,,600,Yes,Married,2,Salaried,Unknown,,No,
+25,60000,Other,Los Angeles,2BHK,2GB,400,Yes,Widowed,0,,20000,Medium,No,
+28,50000,,New York,3BHK,,,Yes,Widowed,,Unemployed,50000,High,No,Yes
+40,60000,M,Los Angeles,4bhk,2GB,600,No,Married,3,Business,5000,Very High,No,Yes
+45,1500000,Female,Los Angeles,1BHK,32GB,600,Yes,Married,3,Unemployed,5000,Low,No,
+25,N/A,Male,New York,3BHK,2GB,600,Yes,Widowed,0,,20000,Very High,No,Yes
+28,90000,M,Chicago,3BHK,8GB,,Yes,Married,1,Unemployed,20000,,No,Yes
+28,60000,Male,Los Angeles,3BHK,8GB,,Yes,Widowed,3,Business,50000,High,No,Yes
+28,60000,Female,Chicago,Studio,32GB,300,Yes,Widowed,N/A,Salaried,,Low,No,Yes
+,80000,Male,Los Angeles,2BHK,6GB,700,Yes,,3,Business,Unknown,,No,Yes
+28,90000,Male,New York,3BHK,32GB,,Yes,Single,N/A,Salaried,10000,Medium,No,Yes
+Unknown,90000,,Los Angeles,3BHK,2GB,,Yes,Widowed,0,Self-Employed,,High,No,Yes
+Unknown,1500000,M,Los Angeles,Studio,2GB,Excellent,Yes,Divorced,0,Business,150000,,Yes,Yes
+Unknown,70000,,New York,3BHK,16GB,700,No,Single,3,Business,Unknown,,No,No
+40,60000,Female,Los Angeles,2BHK,2GB,Excellent,Yes,Single,2,,5000,Low,No,No
+25,60000,Male,Chicago,3BHK,32GB,Excellent,Yes,Single,N/A,Unemployed,150000,Medium,No,No
+45,90000,Other,New York,1BHK,,Poor,Yes,,1,Salaried,,,No,No
+40,1500000,Female,New York,Studio,,700,Yes,Widowed,3,Salaried,20000,High,No,
+30,60000,Female,Chicago,Studio,6GB,Excellent,Yes,,1,,50000,,No,Yes
+,N/A,F,Chicago,Studio,,500,Yes,Widowed,3,,Unknown,Very High,No,
+Unknown,70000,Female,Chicago,Studio,,400,Yes,,2,Unemployed,50000,High,No,
+30,N/A,Other,Los Angeles,3BHK,2GB,500,Yes,,2,Unemployed,150000,High,No,
+,1500000,Other,New York,2BHK,16GB,,Yes,Divorced,2,Business,Unknown,,No,No
+Unknown,90000,Male,,2BHK,2GB,800,No,,,Self-Employed,,Low,No,Yes
+40,90000,Other,Chicago,Studio,,Excellent,Yes,Married,2,Unemployed,5000,High,No,
+40,N/A,Male,,4bhk,,,No,Divorced,0,,10000,Very High,No,No
+30,80000,Other,Los Angeles,4bhk,2GB,Poor,Yes,,0,Unemployed,50000,Low,No,No
+30,70000,Male,New York,1BHK,,800,Yes,Single,,Salaried,50000,Low,No,Yes
+45,90000,Male,Chicago,3BHK,8GB,400,Yes,Married,N/A,Self-Employed,10000,Low,No,Yes
+,90000,F,New York,2BHK,16GB,700,Yes,Married,1,Business,50000,High,No,Yes
+30,70000,Male,Chicago,3BHK,8GB,300,Yes,Married,3,Salaried,50000,Low,No,Yes
+45,60000,Male,Chicago,3BHK,32GB,700,Yes,Divorced,3,Salaried,Unknown,,No,
+40,90000,Male,,Studio,6GB,700,Yes,,,Self-Employed,Unknown,Low,No,Yes
+,90000,,Los Angeles,3BHK,,Excellent,Yes,,0,Business,10000,Very High,No,No
+30,90000,,New York,Studio,,300,Yes,Single,3,,150000,Medium,No,Yes
+40,N/A,Male,New York,Studio,16GB,500,Yes,Single,0,Business,5000,Very High,No,
+30,N/A,Female,New York,4bhk,8GB,700,No,Married,N/A,Unemployed,,High,No,Yes
+28,1500000,Other,Los Angeles,2BHK,8GB,800,Yes,Single,1,Salaried,,Low,No,Yes
+40,90000,Male,Los Angeles,3BHK,2GB,Excellent,No,Divorced,N/A,Unemployed,150000,Low,No,Yes
+,1500000,F,New York,3BHK,2GB,400,Yes,,,,50000,,Yes,Yes
+25,90000,Male,New York,2BHK,8GB,800,Yes,Married,2,Unemployed,5000,Low,No,No
+28,70000,Male,New York,1BHK,2GB,700,Yes,Single,2,Business,10000,Very High,No,Yes
+25,80000,Male,Los Angeles,1BHK,2GB,,Yes,Divorced,2,Unemployed,150000,High,No,Yes
+Unknown,1500000,,,4bhk,8GB,Poor,Yes,Divorced,N/A,,10000,Medium,No,
+Unknown,N/A,,Los Angeles,2BHK,2GB,600,No,Single,3,,Unknown,Low,No,Yes
+45,60000,Male,Los Angeles,1BHK,2GB,,Yes,,1,,50000,Medium,No,
+,60000,Male,Chicago,Studio,8GB,400,Yes,Single,2,Business,20000,Low,No,
+28,70000,F,New York,Studio,16GB,,Yes,Married,,,10000,High,No,Yes
+40,60000,Male,New York,4bhk,32GB,Poor,Yes,Single,,Salaried,150000,Very High,No,
+Unknown,90000,,Chicago,1BHK,,700,Yes,Divorced,2,,50000,High,No,
+,60000,F,New York,Studio,8GB,300,Yes,Single,2,Unemployed,5000,Medium,No,Yes
+,90000,M,New York,1BHK,4GB,300,Yes,,1,Unemployed,150000,Low,No,
+28,70000,,New York,Studio,16GB,,Yes,Widowed,2,Unemployed,Unknown,Medium,No,Yes
+,90000,,Chicago,3BHK,16GB,800,No,Single,1,Business,,Very High,No,No
+,70000,Female,New York,4bhk,,400,Yes,,,Unemployed,5000,High,No,No
+,70000,Other,Los Angeles,2BHK,16GB,Poor,Yes,,2,Business,10000,Medium,No,Yes
+Unknown,90000,Male,New York,Studio,,300,Yes,Divorced,N/A,Business,10000,Medium,No,
+,N/A,Male,,4bhk,16GB,Poor,Yes,,N/A,,5000,Very High,No,Yes
+30,60000,Male,Chicago,2BHK,8GB,,Yes,,,Salaried,10000,Low,No,
+35,90000,Male,Los Angeles,3BHK,,Poor,Yes,,1,,150000,Medium,No,Yes
+30,,Other,New York,Studio,2GB,700,Yes,,N/A,,50000,Very High,No,No
+40,1500000,,New York,3BHK,2GB,700,Yes,Married,1,Business,10000,Low,No,Yes
+45,90000,Male,Los Angeles,Studio,,800,Yes,Married,N/A,Business,Unknown,Low,No,Yes
+Unknown,70000,Male,New York,2BHK,8GB,Excellent,No,Divorced,N/A,Unemployed,50000,High,No,No
+28,N/A,Male,Chicago,Studio,2GB,800,Yes,Single,1,Unemployed,150000,Very High,No,Yes
+,90000,M,Los Angeles,2BHK,,500,Yes,,3,,20000,Low,No,
+Unknown,90000,Male,New York,Studio,32GB,Poor,Yes,Single,N/A,Self-Employed,10000,High,No,No
+30,1500000,,New York,1BHK,16GB,600,Yes,Single,2,Self-Employed,10000,,No,Yes
+40,70000,Female,New York,4bhk,,Poor,Yes,Divorced,,Unemployed,Unknown,Very High,No,Yes
+30,N/A,Female,New York,4bhk,16GB,400,Yes,,3,Self-Employed,150000,,No,No
+35,N/A,Male,Los Angeles,Studio,16GB,,Yes,,1,Unemployed,Unknown,Low,No,Yes
+,80000,Other,Chicago,4bhk,8GB,400,Yes,Widowed,3,Business,,Very High,No,Yes
+28,70000,Male,New York,3BHK,8GB,Excellent,Yes,Single,0,,150000,High,No,
+30,90000,,Los Angeles,3BHK,16GB,Excellent,Yes,Single,0,Salaried,5000,Low,No,No
+,90000,Other,Chicago,3BHK,2GB,800,Yes,Married,N/A,,5000,Very High,No,Yes
+,1500000,,Chicago,3BHK,32GB,,Yes,Widowed,N/A,Unemployed,5000,Very High,No,
+,90000,F,Los Angeles,1BHK,8GB,Poor,Yes,Married,2,Unemployed,Unknown,,No,
+30,90000,Other,Los Angeles,4bhk,8GB,Poor,Yes,Married,,,5000,Low,No,
+Unknown,60000,Female,New York,3BHK,16GB,500,Yes,Married,3,Unemployed,150000,High,No,Yes
+45,N/A,Female,Los Angeles,3BHK,,Poor,Yes,Divorced,0,Self-Employed,5000,High,No,
+28,80000,Other,Los Angeles,1BHK,8GB,600,Yes,Divorced,N/A,Self-Employed,20000,Low,No,
+40,N/A,,Los Angeles,2BHK,,500,Yes,Married,,Unemployed,5000,Low,No,Yes
+35,90000,Female,Los Angeles,Studio,8GB,400,Yes,Widowed,3,Unemployed,10000,Medium,No,No
+,50000,Male,Los Angeles,Studio,,Excellent,Yes,Single,N/A,Self-Employed,,,No,
+28,60000,,Los Angeles,1BHK,8GB,Poor,Yes,Widowed,N/A,Unemployed,Unknown,Low,Yes,Yes
+30,90000,Male,New York,3BHK,,Poor,Yes,,0,Unemployed,50000,Low,No,Yes
+30,1500000,Male,Chicago,Studio,8GB,Poor,Yes,Divorced,0,,,Medium,No,
+30,,,,3BHK,,,Yes,Single,N/A,Salaried,20000,Medium,No,No
+30,80000,Male,Los Angeles,Studio,8GB,Poor,No,Single,1,Self-Employed,Unknown,Very High,No,Yes
+30,1500000,M,Chicago,2BHK,8GB,500,Yes,,N/A,,150000,High,No,Yes
+40,1500000,Male,New York,3BHK,6GB,,Yes,,,Salaried,Unknown,,No,No
+,1500000,Male,Chicago,3BHK,32GB,600,Yes,Married,N/A,Unemployed,10000,Very High,No,Yes
+,1500000,Male,New York,4bhk,,300,Yes,Divorced,2,Unemployed,150000,Low,No,Yes
+28,1500000,Other,Chicago,3BHK,6GB,Excellent,Yes,Divorced,2,,,Medium,No,Yes
+30,70000,Other,Chicago,Studio,,Excellent,Yes,Widowed,2,Unemployed,,High,No,No
+30,60000,Other,New York,1BHK,2GB,700,Yes,Married,1,Business,5000,Very High,No,
+Unknown,70000,,,1BHK,16GB,700,Yes,Married,1,,150000,High,No,No
+30,60000,Female,New York,4bhk,,400,Yes,Married,N/A,Salaried,10000,Medium,No,No
+,N/A,Male,New York,4bhk,16GB,,Yes,Married,2,,5000,Very High,No,Yes
+,70000,Other,Los Angeles,2BHK,8GB,Excellent,Yes,Divorced,1,Self-Employed,5000,Very High,No,Yes
+40,90000,Female,Los Angeles,Studio,,700,Yes,Divorced,0,,Unknown,High,No,Yes
+30,90000,Male,Chicago,3BHK,2GB,600,No,Married,N/A,Unemployed,,Medium,No,
+28,90000,Male,New York,2BHK,2GB,Excellent,Yes,Widowed,,Unemployed,5000,Low,No,Yes
+28,1500000,F,Chicago,3BHK,2GB,,Yes,Single,3,Business,20000,Very High,No,Yes
+Unknown,,Male,Chicago,Studio,2GB,,No,Single,N/A,Business,20000,Low,No,Yes
+30,70000,F,Los Angeles,Studio,2GB,600,Yes,Widowed,3,Business,,Medium,No,
+30,60000,F,Chicago,3BHK,8GB,700,Yes,Married,2,Salaried,20000,Very High,No,Yes
+Unknown,60000,Other,New York,Studio,16GB,500,Yes,Divorced,3,Business,Unknown,Very High,No,
+,70000,Male,,2BHK,8GB,,Yes,Single,2,Salaried,10000,Low,No,
+30,90000,M,Los Angeles,Studio,16GB,400,Yes,,0,Business,50000,,No,No
+,80000,Male,Chicago,Studio,4GB,400,Yes,,3,Salaried,5000,Low,No,Yes
+30,70000,Male,New York,1BHK,8GB,Excellent,Yes,Widowed,N/A,,50000,Low,No,Yes
+30,60000,,Los Angeles,2BHK,2GB,700,Yes,Married,2,,10000,,Yes,Yes
+,90000,Male,New York,2BHK,,300,Yes,Single,N/A,Unemployed,10000,Medium,No,Yes
+,60000,Female,New York,2BHK,,Poor,Yes,Married,1,Salaried,Unknown,Medium,No,
+Unknown,90000,M,Chicago,1BHK,8GB,700,Yes,Single,2,Self-Employed,20000,Very High,No,Yes
+,70000,Female,Chicago,3BHK,8GB,400,Yes,Widowed,3,Unemployed,20000,High,No,Yes
+25,60000,Other,Los Angeles,Studio,2GB,,Yes,Widowed,2,,10000,High,No,
+Unknown,80000,Other,New York,Studio,8GB,500,Yes,,N/A,Salaried,Unknown,Very High,No,No
+45,1500000,Male,New York,3BHK,8GB,500,Yes,Married,0,Business,Unknown,High,No,
+,60000,Male,Chicago,3BHK,16GB,Excellent,Yes,,2,Self-Employed,,Low,No,Yes
+25,60000,Male,New York,1BHK,8GB,700,Yes,Married,3,,150000,Low,No,No
+,80000,Male,New York,Studio,8GB,Excellent,Yes,,1,Unemployed,5000,,No,No
+Unknown,70000,Male,Chicago,3BHK,2GB,500,Yes,Divorced,,Salaried,150000,,No,Yes
+28,70000,Other,New York,3BHK,8GB,,Yes,Divorced,0,Self-Employed,20000,Very High,No,
+Unknown,80000,Male,Los Angeles,1BHK,8GB,500,Yes,Divorced,1,Salaried,10000,Very High,No,No
+40,70000,Other,Chicago,3BHK,2GB,400,Yes,Divorced,2,Business,,Very High,No,
+,60000,Male,New York,2BHK,2GB,,Yes,Single,N/A,Unemployed,50000,Low,No,No
+45,90000,Male,Chicago,4bhk,,700,Yes,Divorced,N/A,Salaried,20000,High,No,No
+28,60000,,Chicago,3BHK,8GB,300,Yes,Widowed,3,,5000,Very High,No,
+28,1500000,F,Chicago,3BHK,8GB,Poor,Yes,Widowed,N/A,Unemployed,Unknown,Very High,No,
+28,1500000,M,Los Angeles,3BHK,16GB,Poor,Yes,Single,0,,10000,Low,No,
+30,60000,F,Los Angeles,2BHK,2GB,400,Yes,Divorced,N/A,Salaried,20000,Low,Yes,Yes
+30,80000,Male,Los Angeles,Studio,32GB,500,Yes,Divorced,3,Unemployed,50000,Low,No,Yes
+,70000,Male,New York,Studio,8GB,400,No,Divorced,,,5000,High,No,Yes
+40,90000,,Los Angeles,Studio,16GB,700,Yes,,2,Business,5000,Very High,No,No
+Unknown,70000,M,Los Angeles,Studio,2GB,500,Yes,Married,2,Business,,Medium,No,Yes
+30,90000,,New York,2BHK,,,Yes,,N/A,Salaried,20000,Medium,No,
+40,N/A,M,,3BHK,6GB,400,Yes,Married,1,Unemployed,50000,Very High,No,Yes
+,N/A,Other,Chicago,Studio,2GB,700,Yes,Divorced,2,Self-Employed,5000,Very High,No,No
+28,80000,F,Chicago,4bhk,,,Yes,Divorced,,Unemployed,10000,Very High,No,No
+,1500000,Male,Chicago,Studio,16GB,700,Yes,,N/A,Business,5000,Very High,No,Yes
+,90000,M,Los Angeles,2BHK,2GB,Poor,Yes,,3,,50000,High,No,
+28,90000,F,Los Angeles,4bhk,2GB,300,Yes,Married,,Self-Employed,Unknown,Medium,No,Yes
+28,1500000,Other,New York,2BHK,8GB,,Yes,Widowed,N/A,Salaried,Unknown,,No,
+30,90000,Female,Chicago,Studio,,Excellent,Yes,Married,,Self-Employed,,Medium,No,Yes
+30,60000,M,New York,3BHK,,300,Yes,,2,Salaried,20000,Medium,No,Yes
+,1500000,Other,New York,2BHK,2GB,800,Yes,,3,Self-Employed,50000,Low,No,No
+,70000,Male,,2BHK,2GB,,Yes,Single,N/A,Salaried,,Very High,No,Yes
+Unknown,80000,Male,New York,4bhk,8GB,400,Yes,,0,Salaried,150000,Very High,No,Yes
+Unknown,1500000,Male,New York,3BHK,8GB,800,Yes,Single,3,Self-Employed,5000,Very High,No,Yes
+25,90000,,Chicago,3BHK,8GB,300,Yes,Widowed,0,Self-Employed,150000,Low,No,Yes
+Unknown,N/A,Female,New York,2BHK,8GB,600,Yes,Married,,Salaried,5000,High,No,Yes
+,90000,F,New York,1BHK,6GB,800,Yes,Married,1,Business,Unknown,High,Yes,
+Unknown,90000,,New York,2BHK,2GB,,Yes,Single,3,Self-Employed,,,No,Yes
+30,90000,M,New York,3BHK,,600,No,Married,,Unemployed,Unknown,High,No,
+,90000,Male,Los Angeles,3BHK,8GB,600,Yes,,0,,10000,High,No,No
+Unknown,60000,Other,Chicago,4bhk,,300,Yes,Divorced,2,Salaried,150000,Very High,No,Yes
+,1500000,Male,Los Angeles,Studio,8GB,600,Yes,Single,2,Salaried,150000,Medium,No,Yes
+30,60000,Male,New York,3BHK,8GB,800,Yes,Married,1,,Unknown,High,No,
+,90000,Male,Chicago,Studio,16GB,700,Yes,Single,3,Business,10000,High,No,
+,80000,Male,New York,2BHK,2GB,700,Yes,Single,3,,5000,Low,No,
+30,60000,,New York,Studio,16GB,Poor,Yes,Divorced,3,Self-Employed,,,No,Yes
+28,80000,F,Los Angeles,2BHK,32GB,400,Yes,,,,10000,Low,No,
+28,60000,Male,Los Angeles,3BHK,32GB,,Yes,Single,1,Salaried,,Very High,No,Yes
+25,,,New York,3BHK,16GB,,Yes,Married,3,,150000,Medium,No,Yes
+45,60000,Other,Chicago,1BHK,2GB,400,Yes,Widowed,,Unemployed,,,No,Yes
+40,N/A,Male,Los Angeles,2BHK,8GB,500,Yes,Single,2,Self-Employed,150000,Low,No,
+30,,Female,Los Angeles,2BHK,32GB,,Yes,Single,0,,10000,High,No,No
+Unknown,70000,Female,Los Angeles,2BHK,16GB,600,Yes,Divorced,,Salaried,150000,High,No,
+40,60000,Other,New York,2BHK,8GB,300,Yes,,2,Self-Employed,20000,,No,Yes
+,90000,Other,New York,4bhk,,Excellent,Yes,Widowed,2,Salaried,150000,High,No,
+40,60000,F,Los Angeles,2BHK,16GB,600,No,Married,0,Business,Unknown,Low,Yes,Yes
+,90000,Female,New York,3BHK,2GB,600,Yes,Widowed,2,Unemployed,10000,Low,No,Yes
+Unknown,60000,Other,New York,3BHK,8GB,500,Yes,Married,1,Business,5000,High,No,No
+,90000,M,,2BHK,2GB,500,Yes,,0,Unemployed,,High,No,No
+,1500000,,New York,Studio,32GB,300,Yes,Married,2,,50000,Very High,No,
+25,70000,M,Los Angeles,Studio,32GB,,No,Divorced,N/A,Self-Employed,10000,Medium,No,Yes
+40,70000,Male,Los Angeles,2BHK,,300,Yes,Divorced,,,Unknown,,No,Yes
+45,90000,F,,3BHK,,700,Yes,Divorced,2,Unemployed,150000,Low,No,Yes
+Unknown,1500000,,Los Angeles,Studio,2GB,500,Yes,Divorced,1,Unemployed,,,No,Yes
+45,80000,Other,New York,3BHK,16GB,300,Yes,Widowed,3,Unemployed,20000,Very High,No,
+Unknown,90000,Male,Los Angeles,1BHK,8GB,500,Yes,,2,Salaried,5000,Low,No,Yes
+28,90000,Male,Los Angeles,Studio,2GB,400,Yes,Married,3,Self-Employed,20000,Very High,No,No
+,80000,Female,New York,2BHK,2GB,800,Yes,Married,N/A,,50000,Very High,No,Yes
+Unknown,90000,Male,Chicago,3BHK,,Excellent,No,Divorced,2,,10000,High,No,
+40,60000,Other,Chicago,Studio,2GB,Excellent,Yes,Divorced,0,Business,,,No,No
+28,80000,Male,Chicago,1BHK,,,Yes,Single,3,Unemployed,10000,,No,
+Unknown,N/A,,New York,3BHK,16GB,400,No,,N/A,Unemployed,Unknown,High,No,Yes
+30,90000,Other,New York,3BHK,32GB,Poor,Yes,Widowed,0,Unemployed,10000,,No,Yes
+30,80000,Male,New York,3BHK,,800,Yes,Married,0,,5000,High,No,
+,70000,Male,Los Angeles,3BHK,2GB,Poor,Yes,Single,0,Business,50000,Low,No,
+30,N/A,Male,Los Angeles,2BHK,8GB,,Yes,Single,0,Salaried,20000,Very High,No,
+Unknown,90000,Female,Los Angeles,2BHK,,,Yes,Married,2,Self-Employed,50000,Very High,No,Yes
+45,N/A,Other,New York,1BHK,6GB,,Yes,Widowed,,Salaried,,,No,Yes
+28,N/A,F,New York,Studio,32GB,400,Yes,Single,2,,10000,Medium,No,No
+30,90000,Male,Chicago,Studio,2GB,300,Yes,Single,2,Unemployed,,Very High,No,
+28,70000,Male,Chicago,2BHK,8GB,Poor,Yes,,N/A,Self-Employed,20000,High,No,
+Unknown,1500000,M,New York,3BHK,,,Yes,Widowed,N/A,,,Medium,No,No
+,90000,Male,New York,3BHK,8GB,Poor,Yes,Single,,,Unknown,Medium,No,No
+28,N/A,Other,New York,Studio,2GB,500,Yes,Widowed,N/A,,50000,Very High,No,
+30,1500000,Male,Los Angeles,3BHK,,300,Yes,Married,1,Self-Employed,20000,Very High,No,No
+Unknown,60000,Female,Los Angeles,3BHK,6GB,500,Yes,Divorced,,Self-Employed,20000,Very High,No,
+28,70000,,Los Angeles,Studio,16GB,700,Yes,Single,N/A,Business,150000,High,No,Yes
+Unknown,N/A,Male,Los Angeles,4bhk,6GB,Excellent,Yes,,,Business,20000,Medium,No,No
+Unknown,70000,F,,3BHK,16GB,,Yes,Married,2,Salaried,150000,,No,Yes
+Unknown,1500000,Male,,Studio,2GB,700,Yes,Widowed,2,Self-Employed,5000,High,No,Yes
+Unknown,N/A,Female,Los Angeles,3BHK,16GB,700,Yes,Married,,Self-Employed,150000,Low,No,No
+Unknown,90000,,Chicago,2BHK,16GB,400,Yes,Single,1,Self-Employed,50000,Very High,No,
+,1500000,,Los Angeles,2BHK,32GB,Poor,Yes,Widowed,1,Business,,Medium,No,
+,N/A,Other,Chicago,2BHK,4GB,600,Yes,Divorced,,,150000,High,No,Yes
+28,80000,Female,New York,1BHK,32GB,,Yes,Married,N/A,Unemployed,20000,Low,No,Yes
+40,1500000,Male,,1BHK,8GB,400,Yes,Single,3,Business,50000,High,No,Yes
+,80000,Male,Chicago,3BHK,,Excellent,Yes,,1,Self-Employed,150000,High,No,Yes
+30,,Male,New York,3BHK,,700,Yes,Widowed,0,Business,150000,,No,Yes
+Unknown,80000,Male,New York,Studio,8GB,800,Yes,Married,2,Salaried,20000,,No,
+Unknown,60000,Male,Chicago,3BHK,,,Yes,Married,,Self-Employed,Unknown,High,No,Yes
+,1500000,,Los Angeles,2BHK,,,Yes,Divorced,0,Salaried,Unknown,Low,No,Yes
+45,90000,Male,Los Angeles,3BHK,32GB,600,Yes,Divorced,,Self-Employed,150000,Medium,No,
+Unknown,N/A,Other,Los Angeles,4bhk,8GB,400,Yes,,2,Business,Unknown,Medium,No,Yes
+28,,Female,Los Angeles,1BHK,,Excellent,Yes,,2,,10000,Very High,No,Yes
+30,70000,,Los Angeles,2BHK,,Poor,Yes,Single,1,Unemployed,20000,Very High,No,Yes
+,1500000,Male,New York,2BHK,,300,Yes,Single,1,Salaried,10000,Medium,No,
+,90000,Female,New York,2BHK,32GB,400,Yes,,0,Business,50000,High,No,Yes
+40,50000,Male,Chicago,2BHK,16GB,,Yes,,,,10000,High,No,
+,1500000,Female,Los Angeles,4bhk,,Excellent,Yes,Widowed,2,Business,50000,,No,Yes
+25,90000,,,4bhk,,400,Yes,Divorced,0,Salaried,150000,,No,
+40,70000,Male,New York,1BHK,32GB,300,Yes,Single,3,Unemployed,50000,Very High,No,
+Unknown,1500000,,Chicago,Studio,16GB,600,Yes,Divorced,0,Business,50000,Medium,No,
+35,90000,Male,Los Angeles,4bhk,16GB,300,Yes,Divorced,N/A,Self-Employed,,High,No,Yes
+,70000,Male,Los Angeles,3BHK,,400,Yes,,0,,10000,Medium,No,
+Unknown,90000,,Chicago,1BHK,2GB,700,Yes,Widowed,N/A,Business,,Low,No,Yes
+25,60000,F,New York,2BHK,2GB,700,Yes,Married,N/A,,150000,Medium,No,Yes
+30,,,Chicago,4bhk,,Excellent,Yes,Widowed,N/A,Self-Employed,20000,Low,No,
+40,1500000,M,New York,2BHK,,,Yes,Widowed,3,Unemployed,10000,,Yes,No
+28,60000,Male,Los Angeles,Studio,32GB,300,Yes,Divorced,0,Unemployed,20000,,No,Yes
+25,80000,Male,New York,2BHK,16GB,400,Yes,Widowed,0,Self-Employed,20000,Very High,No,Yes
+40,1500000,,New York,3BHK,2GB,600,Yes,Single,3,,50000,Medium,No,Yes
+45,80000,Male,New York,4bhk,6GB,,Yes,Divorced,2,Business,10000,Medium,No,No
+,90000,Other,Los Angeles,1BHK,32GB,400,Yes,Single,1,Self-Employed,20000,Low,No,Yes
+Unknown,60000,Other,Los Angeles,3BHK,8GB,Excellent,Yes,Married,0,Salaried,Unknown,,No,No
+,90000,Female,Los Angeles,Studio,,300,Yes,Divorced,1,,20000,Low,No,Yes
+,70000,Male,Los Angeles,3BHK,2GB,,Yes,Married,,Unemployed,Unknown,,No,Yes
+Unknown,60000,Other,Chicago,Studio,8GB,600,Yes,Divorced,,Self-Employed,10000,Low,No,Yes
+45,60000,Other,,Studio,16GB,,Yes,,3,Unemployed,150000,,No,Yes
+,50000,Female,Chicago,4bhk,,300,Yes,Widowed,,,,Low,No,Yes
+28,90000,Male,,4bhk,8GB,,Yes,,,Unemployed,10000,,No,
+Unknown,60000,Male,,4bhk,8GB,,Yes,Married,2,Self-Employed,,Low,No,
+45,90000,Female,Los Angeles,Studio,16GB,,Yes,Widowed,2,,,Medium,No,
+35,90000,Male,New York,3BHK,,400,Yes,Divorced,2,Salaried,10000,Very High,No,Yes
+Unknown,,Male,,3BHK,8GB,,Yes,Widowed,,Self-Employed,20000,Low,No,No
+30,80000,Male,New York,2BHK,,800,No,Single,3,Business,5000,Very High,No,
+28,N/A,Female,Chicago,4bhk,8GB,600,Yes,Widowed,N/A,Self-Employed,20000,Medium,No,No
+,90000,Male,Los Angeles,4bhk,,700,Yes,Single,N/A,,20000,Medium,No,No
+25,70000,M,,2BHK,,300,Yes,Widowed,1,Self-Employed,150000,,No,
+45,N/A,,,Studio,2GB,,Yes,Single,N/A,Salaried,50000,Very High,No,No
+,70000,,New York,Studio,2GB,,Yes,Married,N/A,Salaried,50000,High,No,
+30,70000,Other,Los Angeles,1BHK,2GB,400,Yes,,2,Business,20000,,No,
+30,70000,,Los Angeles,1BHK,2GB,,Yes,Divorced,2,Unemployed,Unknown,Very High,No,No
+28,1500000,Female,Los Angeles,4bhk,,800,Yes,Widowed,,,150000,Low,No,No
+,1500000,M,Los Angeles,3BHK,8GB,,Yes,,1,,,Low,No,Yes
+,70000,,,2BHK,,600,Yes,Divorced,0,Unemployed,50000,Medium,No,
+28,1500000,Male,Chicago,1BHK,32GB,,Yes,Divorced,1,Salaried,20000,High,No,Yes
+25,N/A,F,,2BHK,4GB,800,Yes,Single,1,Salaried,150000,Low,No,Yes
+40,90000,Male,Chicago,3BHK,2GB,500,Yes,Married,3,Self-Employed,5000,Very High,No,
+40,70000,,Chicago,Studio,8GB,Poor,Yes,Married,,Business,Unknown,Very High,No,Yes
+Unknown,80000,F,Los Angeles,1BHK,16GB,400,Yes,,3,Business,10000,Low,No,Yes
+,1500000,Male,New York,3BHK,,Excellent,Yes,Married,1,Business,20000,Very High,No,
+25,1500000,,Los Angeles,Studio,16GB,300,Yes,Widowed,1,Self-Employed,150000,Very High,No,Yes
+,70000,,New York,Studio,2GB,600,Yes,Married,1,Business,20000,Medium,No,
+28,1500000,Male,New York,Studio,32GB,800,Yes,,N/A,Unemployed,,High,No,Yes
+Unknown,70000,Male,New York,3BHK,6GB,Excellent,Yes,Married,3,Self-Employed,Unknown,Medium,No,
+45,N/A,,Chicago,Studio,,700,Yes,Widowed,1,Unemployed,50000,High,No,No
+28,1500000,M,Los Angeles,3BHK,16GB,500,Yes,Single,2,Self-Employed,50000,Very High,No,Yes
+30,80000,Other,New York,1BHK,8GB,,No,,,Business,50000,High,No,
+40,60000,Female,Chicago,2BHK,2GB,300,Yes,Single,,Unemployed,10000,Very High,No,
+28,1500000,,New York,3BHK,8GB,,Yes,Single,2,Unemployed,150000,Very High,No,
+30,N/A,,Chicago,Studio,6GB,700,Yes,Single,,Unemployed,Unknown,Medium,No,
+40,1500000,Female,Los Angeles,3BHK,8GB,400,Yes,Divorced,N/A,Self-Employed,Unknown,Medium,No,Yes
+25,60000,Female,Los Angeles,4bhk,16GB,400,Yes,Divorced,N/A,,50000,,No,Yes
+25,90000,Male,Chicago,3BHK,16GB,700,Yes,Single,0,Business,50000,Low,No,Yes
+,80000,Other,Chicago,Studio,16GB,Poor,Yes,,0,Unemployed,,,No,No
+Unknown,80000,Other,,4bhk,,500,Yes,Widowed,0,,5000,,No,Yes
+45,90000,Other,,3BHK,8GB,,No,Widowed,,Business,5000,High,No,No
+Unknown,80000,Male,New York,3BHK,,300,Yes,Married,N/A,Business,20000,Very High,No,No
+45,60000,Male,New York,4bhk,2GB,,Yes,,N/A,Unemployed,20000,Very High,No,
+30,N/A,,Los Angeles,1BHK,6GB,400,Yes,Divorced,N/A,Unemployed,Unknown,Very High,No,Yes
+28,90000,M,Chicago,1BHK,,400,Yes,Single,2,Self-Employed,Unknown,Low,Yes,
+30,90000,,New York,3BHK,8GB,300,Yes,Married,N/A,,10000,High,No,No
+,1500000,M,Chicago,1BHK,2GB,600,Yes,Widowed,2,,10000,High,No,No
+30,90000,Male,New York,3BHK,,700,Yes,Divorced,0,Unemployed,5000,Very High,No,
+,70000,M,Chicago,Studio,16GB,Poor,Yes,Divorced,0,Business,20000,,No,Yes
+45,70000,,Los Angeles,Studio,8GB,,Yes,Single,,Unemployed,5000,Low,No,Yes
+25,,Male,New York,Studio,2GB,700,Yes,Widowed,0,Business,5000,,No,Yes
+Unknown,1500000,Female,Los Angeles,3BHK,4GB,500,Yes,,,Business,20000,Medium,No,No
+40,N/A,Other,Chicago,Studio,8GB,600,Yes,Divorced,1,Unemployed,150000,High,No,Yes
+30,80000,Male,Los Angeles,Studio,32GB,700,Yes,Single,1,Salaried,10000,High,No,
+Unknown,1500000,Male,,1BHK,8GB,400,Yes,,3,,,,No,No
+,90000,Male,,4bhk,8GB,700,Yes,Widowed,,Business,,Low,No,Yes
+,1500000,,Los Angeles,Studio,2GB,700,Yes,Divorced,3,Business,,High,No,Yes
+30,90000,Male,Chicago,4bhk,2GB,600,Yes,,3,Salaried,20000,,No,Yes
+40,N/A,M,New York,2BHK,16GB,500,Yes,,1,Self-Employed,50000,Low,No,
+Unknown,60000,F,Los Angeles,2BHK,4GB,300,Yes,,,Salaried,50000,,No,Yes
+25,70000,F,New York,3BHK,16GB,300,Yes,Divorced,1,Salaried,50000,Low,No,No
+,1500000,,Los Angeles,Studio,32GB,700,Yes,Divorced,3,Business,Unknown,Very High,No,No
+,,M,New York,3BHK,16GB,,Yes,Married,,,10000,Low,No,Yes
+25,80000,Female,New York,3BHK,,700,Yes,Widowed,3,Salaried,10000,Medium,No,Yes
+,,Male,New York,3BHK,8GB,400,Yes,Single,N/A,Self-Employed,150000,Very High,No,Yes
+40,70000,F,Chicago,4bhk,2GB,,Yes,,,Unemployed,150000,,No,
+30,,,Chicago,3BHK,2GB,400,Yes,Married,,Salaried,Unknown,Very High,No,
+Unknown,70000,Other,Chicago,Studio,2GB,600,Yes,Single,3,Salaried,5000,Very High,No,
+30,90000,F,Los Angeles,2BHK,8GB,400,Yes,Married,N/A,Self-Employed,150000,,No,Yes
+Unknown,,Other,New York,2BHK,8GB,700,Yes,Divorced,2,,,,No,Yes
+35,1500000,F,Los Angeles,Studio,8GB,,Yes,,1,Salaried,50000,Medium,No,
+30,70000,Male,Los Angeles,3BHK,8GB,Poor,Yes,Single,3,Salaried,,,No,
+28,60000,,,2BHK,8GB,Excellent,Yes,Single,,,50000,High,No,
+30,60000,Female,New York,1BHK,4GB,700,Yes,Single,1,Self-Employed,,High,No,
+,80000,Other,New York,3BHK,16GB,700,Yes,Single,1,Salaried,5000,Medium,No,Yes
+,60000,F,Chicago,Studio,16GB,700,Yes,Single,1,,,Low,No,
+25,1500000,F,New York,4bhk,2GB,,Yes,Married,2,Salaried,,Low,No,Yes
+,90000,Male,,3BHK,,400,Yes,,0,Unemployed,20000,High,No,
+30,1500000,,New York,1BHK,2GB,Excellent,Yes,Divorced,3,Business,,,No,
+Unknown,90000,Male,Los Angeles,1BHK,16GB,500,Yes,Divorced,0,Unemployed,20000,Medium,No,
+,N/A,Male,New York,2BHK,8GB,Excellent,Yes,Divorced,0,Salaried,10000,Low,No,Yes
+,1500000,Male,New York,3BHK,2GB,300,Yes,Divorced,0,Self-Employed,Unknown,Low,No,
+30,70000,Male,New York,3BHK,32GB,600,Yes,Married,1,Business,,Very High,No,
+,N/A,,New York,3BHK,32GB,700,Yes,Widowed,N/A,Unemployed,10000,High,No,Yes
+,60000,Female,New York,3BHK,8GB,600,Yes,,1,,150000,,No,Yes
+30,60000,Male,Chicago,3BHK,16GB,Excellent,Yes,Single,1,Self-Employed,150000,Medium,No,No
+30,60000,Other,New York,Studio,16GB,300,Yes,Widowed,,Unemployed,20000,Low,No,Yes
+,60000,Male,Los Angeles,4bhk,2GB,700,No,Divorced,,,,Very High,No,No
+40,1500000,Male,New York,3BHK,8GB,700,Yes,Widowed,0,Salaried,,High,No,
+,N/A,,Los Angeles,2BHK,8GB,300,Yes,,1,,5000,High,No,
+,60000,M,Chicago,3BHK,8GB,Excellent,Yes,Single,0,Unemployed,10000,Medium,No,No
+Unknown,90000,,New York,4bhk,2GB,300,Yes,Single,,Unemployed,50000,Low,No,
+30,90000,Male,Los Angeles,Studio,2GB,600,Yes,,N/A,Salaried,50000,Medium,No,Yes
+28,80000,M,New York,Studio,8GB,Poor,Yes,,3,,5000,Medium,No,
+28,50000,Other,Los Angeles,4bhk,32GB,700,Yes,Divorced,0,,20000,Very High,No,Yes
+,1500000,Male,Chicago,1BHK,32GB,400,Yes,Single,N/A,Salaried,50000,High,No,No
+,1500000,Male,,1BHK,16GB,300,Yes,Widowed,3,,50000,,No,
+25,1500000,Male,New York,2BHK,4GB,400,Yes,Married,2,Salaried,150000,High,No,Yes
+28,90000,Male,Chicago,Studio,8GB,,Yes,Married,0,Self-Employed,150000,High,No,Yes
+28,60000,Female,Los Angeles,3BHK,32GB,500,Yes,,0,Unemployed,Unknown,Very High,No,Yes
+25,N/A,Male,Los Angeles,3BHK,2GB,500,Yes,Divorced,2,Self-Employed,10000,,No,Yes
+40,90000,F,,1BHK,,,No,Married,2,Business,20000,Low,No,
+30,,,Los Angeles,2BHK,8GB,400,Yes,Single,0,Business,,,No,Yes
+30,1500000,F,New York,2BHK,8GB,300,Yes,,2,Business,10000,Low,No,
+,80000,Male,New York,4bhk,,700,Yes,Widowed,1,Salaried,20000,,Yes,
+Unknown,90000,,New York,3BHK,16GB,600,Yes,,3,,50000,Medium,No,Yes
+Unknown,90000,Male,New York,4bhk,2GB,400,Yes,Widowed,3,Self-Employed,Unknown,,No,Yes
+Unknown,70000,Female,Los Angeles,3BHK,2GB,,Yes,,3,Self-Employed,10000,Very High,No,
+40,70000,Male,New York,1BHK,32GB,Excellent,Yes,,1,Self-Employed,50000,Low,No,
+,60000,Male,,Studio,2GB,600,No,,2,Self-Employed,20000,High,No,Yes
+28,60000,Male,Los Angeles,1BHK,8GB,,Yes,Widowed,N/A,Business,10000,Very High,No,No
+40,,Other,Los Angeles,1BHK,8GB,600,Yes,Widowed,2,Self-Employed,,Low,No,Yes
+30,,,,3BHK,2GB,300,Yes,,0,,10000,Low,No,
+,70000,,Chicago,2BHK,2GB,Excellent,No,Married,,Business,50000,High,No,Yes
+40,60000,Male,Los Angeles,Studio,2GB,500,Yes,Divorced,3,Self-Employed,10000,Medium,No,Yes
+,70000,F,Los Angeles,2BHK,,,Yes,Divorced,2,Salaried,,Very High,No,Yes
+28,60000,Male,Los Angeles,1BHK,8GB,500,Yes,Divorced,N/A,Unemployed,Unknown,High,No,
+40,60000,F,New York,3BHK,8GB,800,Yes,Widowed,0,Unemployed,Unknown,High,No,Yes
+,70000,Female,Los Angeles,1BHK,32GB,400,Yes,Widowed,1,Unemployed,50000,Medium,No,Yes
+Unknown,60000,F,New York,Studio,8GB,300,Yes,Married,1,Business,20000,Very High,No,
+,1500000,,,Studio,32GB,,Yes,Divorced,N/A,Self-Employed,50000,High,No,Yes
+25,90000,Other,,Studio,8GB,800,Yes,Divorced,0,Business,Unknown,Medium,No,Yes
+40,80000,,,3BHK,2GB,,Yes,,3,,5000,Very High,Yes,Yes
+Unknown,70000,Female,New York,4bhk,8GB,Poor,Yes,Widowed,2,Salaried,5000,,No,
+,60000,,New York,1BHK,8GB,500,Yes,Divorced,0,Salaried,10000,Low,No,Yes
+30,50000,Male,Los Angeles,2BHK,8GB,Poor,Yes,Married,1,Unemployed,,Medium,No,Yes
+25,70000,,,1BHK,2GB,Excellent,Yes,Married,N/A,Unemployed,150000,Low,No,Yes
+,,,Los Angeles,Studio,16GB,Excellent,Yes,Divorced,N/A,Unemployed,150000,,No,Yes
+28,1500000,Male,Chicago,3BHK,32GB,800,Yes,Widowed,2,Self-Employed,150000,High,No,
+,80000,Male,New York,Studio,8GB,500,Yes,Married,N/A,,10000,High,No,Yes
+40,90000,,New York,Studio,,700,Yes,,N/A,,5000,Very High,No,
+25,1500000,M,New York,2BHK,16GB,Excellent,Yes,Married,0,,Unknown,Medium,No,Yes
+30,1500000,F,Chicago,3BHK,8GB,800,Yes,Single,3,,10000,Medium,No,Yes
+25,60000,Male,New York,Studio,2GB,Excellent,Yes,Single,2,Unemployed,150000,Very High,No,Yes
+30,1500000,Male,New York,3BHK,8GB,700,Yes,Widowed,0,Salaried,150000,Low,No,No
+45,90000,F,New York,Studio,,Poor,Yes,Divorced,3,Unemployed,50000,High,No,Yes
+Unknown,80000,Other,New York,2BHK,16GB,500,Yes,Widowed,0,,150000,High,No,Yes
+,1500000,,Los Angeles,3BHK,2GB,700,Yes,Widowed,,Unemployed,,Medium,No,Yes
+,60000,,Chicago,2BHK,8GB,800,Yes,Widowed,0,,150000,Medium,No,Yes
+35,1500000,,New York,Studio,2GB,400,Yes,Widowed,N/A,Business,50000,Very High,No,Yes
+25,60000,Female,Chicago,Studio,32GB,400,Yes,,3,Salaried,150000,,No,No
+Unknown,,M,New York,Studio,32GB,800,Yes,,2,Business,,Low,No,Yes
+,1500000,Male,New York,3BHK,2GB,700,Yes,Married,2,Self-Employed,Unknown,,No,Yes
+25,90000,Male,New York,3BHK,8GB,800,Yes,Single,3,Unemployed,10000,,No,Yes
+Unknown,1500000,Other,Chicago,4bhk,6GB,700,Yes,Widowed,N/A,Self-Employed,,Medium,No,Yes
+25,80000,Male,New York,2BHK,,Excellent,Yes,Married,1,Unemployed,50000,Medium,No,
+,1500000,Male,Los Angeles,3BHK,8GB,700,Yes,Single,0,Business,10000,Medium,No,Yes
+Unknown,N/A,Male,Chicago,1BHK,6GB,600,Yes,Divorced,N/A,,10000,,No,No
+30,N/A,M,Los Angeles,Studio,16GB,600,Yes,,,,50000,Low,No,
+,90000,,New York,3BHK,16GB,Poor,Yes,Single,3,Unemployed,5000,Medium,No,
+30,1500000,F,Los Angeles,4bhk,,300,Yes,Divorced,0,,150000,High,No,Yes
+,60000,,Los Angeles,3BHK,,Poor,Yes,Single,2,Business,,Low,No,
+40,90000,Female,Los Angeles,4bhk,8GB,Excellent,Yes,,1,,50000,High,No,Yes
+30,90000,Male,Chicago,2BHK,,700,Yes,,,Business,Unknown,Low,No,No
+Unknown,50000,,New York,2BHK,8GB,Poor,Yes,Married,2,Self-Employed,20000,Medium,No,No
+40,60000,Male,Los Angeles,3BHK,2GB,500,Yes,Widowed,3,Business,50000,Very High,No,
+,1500000,Male,Los Angeles,4bhk,16GB,400,Yes,Single,0,Salaried,150000,Medium,No,
+30,60000,Male,Chicago,Studio,2GB,300,Yes,Single,3,Salaried,150000,,No,
+28,70000,Male,,2BHK,2GB,600,Yes,Divorced,0,Salaried,10000,,No,Yes
+,1500000,,,3BHK,8GB,400,Yes,,N/A,Unemployed,10000,Low,No,Yes
+45,N/A,F,Los Angeles,Studio,2GB,,Yes,Single,1,Unemployed,50000,,No,Yes
+28,90000,,,Studio,8GB,Poor,Yes,,N/A,Unemployed,20000,Medium,No,Yes
+Unknown,N/A,Male,New York,Studio,8GB,,Yes,Single,N/A,Business,50000,High,No,Yes
+40,80000,M,Los Angeles,1BHK,16GB,700,Yes,Married,3,Unemployed,20000,Medium,No,Yes
+30,1500000,F,,2BHK,2GB,Excellent,Yes,Widowed,1,Self-Employed,20000,Low,No,
+Unknown,60000,Male,Los Angeles,2BHK,8GB,300,Yes,Single,0,Salaried,150000,,No,Yes
+28,70000,Male,Chicago,2BHK,8GB,300,Yes,,0,Business,150000,High,Yes,Yes
+30,90000,Other,Chicago,4bhk,,Poor,Yes,Married,,Salaried,150000,Very High,No,
+30,1500000,Other,Los Angeles,3BHK,2GB,400,No,Single,2,Unemployed,Unknown,High,No,Yes
+45,1500000,,,2BHK,,800,Yes,Divorced,,Business,150000,High,No,No
+,70000,F,New York,4bhk,8GB,400,Yes,Widowed,,,,Medium,No,Yes
+40,N/A,Other,Chicago,Studio,8GB,Poor,Yes,Single,0,Self-Employed,10000,Very High,No,Yes
+40,,Male,Chicago,3BHK,16GB,Poor,Yes,Married,3,Unemployed,10000,Low,No,
+Unknown,1500000,F,Chicago,Studio,2GB,500,Yes,Divorced,N/A,Unemployed,20000,Low,No,
+40,60000,Male,New York,1BHK,8GB,700,Yes,Married,N/A,Self-Employed,10000,High,No,Yes
+Unknown,1500000,Female,New York,Studio,16GB,Excellent,Yes,Married,N/A,Self-Employed,5000,High,No,
+Unknown,70000,Male,New York,3BHK,16GB,,Yes,Divorced,1,,20000,,No,No
+28,90000,Other,New York,4bhk,,Poor,Yes,Married,0,Unemployed,10000,Very High,No,Yes
+28,70000,Male,New York,Studio,8GB,300,Yes,Divorced,3,Unemployed,5000,High,No,No
+,60000,Other,Chicago,Studio,32GB,500,Yes,Single,1,Salaried,Unknown,,No,
+35,90000,F,New York,3BHK,2GB,500,Yes,Divorced,2,Business,10000,Very High,No,
+Unknown,70000,Female,Los Angeles,3BHK,,,Yes,Divorced,3,Business,5000,Low,No,
+35,90000,Other,New York,1BHK,8GB,400,Yes,Widowed,,Salaried,50000,,No,No
+Unknown,80000,Male,Los Angeles,4bhk,2GB,600,Yes,Divorced,3,Business,,Very High,No,Yes
+,60000,Other,New York,3BHK,16GB,700,Yes,Divorced,3,Self-Employed,50000,,No,Yes
+,N/A,,Los Angeles,3BHK,6GB,700,Yes,Single,N/A,Business,5000,High,No,No
+25,70000,Male,New York,3BHK,8GB,Poor,Yes,Widowed,3,Business,20000,Medium,No,No
+Unknown,1500000,Male,Los Angeles,2BHK,16GB,,Yes,,,Salaried,150000,Low,No,Yes
+28,90000,Female,Chicago,Studio,8GB,700,Yes,Single,,,150000,High,No,
+30,70000,Female,Chicago,3BHK,,400,Yes,Single,0,Business,150000,High,No,No
+25,70000,Male,New York,Studio,2GB,Excellent,Yes,,3,Business,20000,Very High,No,Yes
+Unknown,70000,,Chicago,3BHK,4GB,Excellent,Yes,Divorced,N/A,,10000,,No,No
+Unknown,60000,Male,New York,Studio,16GB,,Yes,Married,3,Salaried,150000,Low,No,
+25,90000,M,,1BHK,4GB,400,Yes,Widowed,2,,50000,High,No,
+Unknown,70000,M,,3BHK,,400,Yes,Married,2,Salaried,20000,Very High,No,Yes
+45,90000,Male,New York,Studio,32GB,,Yes,,N/A,Self-Employed,20000,Low,No,Yes
+40,70000,,Chicago,3BHK,8GB,,Yes,Single,0,Salaried,150000,,No,
+,,Other,New York,Studio,32GB,700,Yes,Single,0,Self-Employed,50000,High,No,
+30,60000,,,4bhk,8GB,600,Yes,Widowed,,Self-Employed,Unknown,High,No,Yes
+28,1500000,Other,,3BHK,8GB,Excellent,Yes,Single,,Salaried,20000,High,No,Yes
+Unknown,N/A,,,4bhk,16GB,400,Yes,Single,1,Unemployed,150000,Low,Yes,No
+40,1500000,F,,2BHK,2GB,Poor,Yes,Widowed,N/A,Salaried,,Low,No,Yes
+40,1500000,Male,Chicago,3BHK,32GB,Excellent,Yes,Widowed,3,Business,5000,Low,No,
+Unknown,90000,Female,Los Angeles,3BHK,16GB,Excellent,Yes,,N/A,Business,10000,Low,No,Yes
+Unknown,,Male,New York,Studio,,400,Yes,Single,1,Unemployed,20000,Very High,Yes,Yes
+Unknown,60000,,Chicago,3BHK,32GB,,Yes,Single,,Self-Employed,,Medium,No,
+28,90000,Other,Los Angeles,3BHK,16GB,Excellent,Yes,,N/A,Unemployed,,Very High,No,
+30,60000,Female,New York,Studio,16GB,Poor,Yes,Divorced,N/A,Business,20000,High,No,Yes
+30,60000,,,Studio,,400,Yes,Divorced,,Unemployed,Unknown,Very High,Yes,No
+Unknown,90000,M,Chicago,Studio,2GB,,Yes,Divorced,1,Salaried,5000,,No,Yes
+25,50000,,New York,2BHK,16GB,300,Yes,,,Unemployed,10000,Low,No,
+25,60000,,,Studio,,700,No,Single,0,Self-Employed,20000,,No,No
+Unknown,90000,,New York,2BHK,8GB,,Yes,,3,Salaried,10000,,No,Yes
+25,N/A,,Chicago,3BHK,6GB,700,Yes,,,,50000,High,No,Yes
+25,1500000,Female,Chicago,4bhk,6GB,Excellent,Yes,Divorced,1,Business,,Low,No,Yes
+,,Male,New York,3BHK,32GB,Poor,Yes,Married,2,Business,,,No,
+25,1500000,Female,New York,2BHK,16GB,700,Yes,Single,0,Unemployed,20000,High,No,No
+30,N/A,Male,,Studio,8GB,400,Yes,Divorced,2,Salaried,20000,Low,No,No
+25,N/A,Male,Los Angeles,4bhk,16GB,,Yes,Married,,,50000,Medium,No,Yes
+35,80000,Male,Los Angeles,2BHK,16GB,Excellent,Yes,Married,0,Salaried,Unknown,High,No,No
+Unknown,,Other,Los Angeles,2BHK,32GB,400,Yes,Widowed,3,Business,20000,Very High,No,Yes
+30,80000,Other,New York,Studio,16GB,700,Yes,Single,,Salaried,,Low,No,Yes
+30,1500000,,Chicago,2BHK,16GB,500,Yes,Married,3,,10000,,No,
+,60000,,Los Angeles,1BHK,2GB,400,Yes,Divorced,N/A,Unemployed,5000,,No,Yes
+28,80000,Male,New York,1BHK,,800,Yes,Widowed,2,Self-Employed,150000,Very High,No,
+40,90000,Other,New York,3BHK,6GB,400,Yes,Single,0,Salaried,10000,Very High,No,
+25,90000,,,4bhk,8GB,700,No,,3,Self-Employed,Unknown,,No,Yes
+Unknown,1500000,Female,New York,3BHK,,600,Yes,Divorced,1,Business,5000,Low,No,
+40,N/A,Other,New York,2BHK,,700,Yes,Married,3,Unemployed,10000,High,No,Yes
+30,70000,Male,New York,Studio,2GB,,Yes,Married,1,Unemployed,10000,Very High,No,
+Unknown,90000,Other,Los Angeles,Studio,2GB,Poor,Yes,Divorced,,Salaried,50000,Very High,No,Yes
+35,60000,,Los Angeles,2BHK,2GB,600,Yes,Married,0,Unemployed,150000,Very High,No,Yes
+Unknown,1500000,,Chicago,3BHK,,700,Yes,Widowed,3,Salaried,Unknown,Medium,No,Yes
+,50000,Male,,4bhk,16GB,Poor,Yes,Single,3,Salaried,,Low,No,No
+45,90000,Male,Chicago,1BHK,2GB,400,Yes,Widowed,0,Self-Employed,50000,Low,No,
+35,50000,Female,Los Angeles,Studio,2GB,700,Yes,Married,3,Unemployed,5000,Low,No,Yes
+45,60000,Female,New York,4bhk,32GB,600,Yes,,1,Salaried,150000,Low,No,Yes
+,90000,Male,New York,Studio,8GB,400,Yes,Single,3,Self-Employed,,Low,No,
+,60000,M,,3BHK,2GB,700,Yes,Single,2,,50000,,No,Yes
+28,N/A,M,Los Angeles,2BHK,16GB,800,Yes,Divorced,,Self-Employed,150000,Very High,No,Yes
+28,60000,M,,3BHK,16GB,500,Yes,Divorced,N/A,Self-Employed,Unknown,,No,Yes
+45,N/A,F,New York,2BHK,2GB,,Yes,,1,Salaried,20000,Medium,No,
+40,50000,Male,New York,3BHK,8GB,800,Yes,Single,2,Business,20000,High,No,Yes
+30,90000,,Los Angeles,2BHK,32GB,Excellent,Yes,,,Business,5000,Very High,No,Yes
+25,90000,Female,Los Angeles,3BHK,4GB,400,Yes,Divorced,0,Business,20000,Medium,No,Yes
+30,90000,Male,New York,3BHK,8GB,Poor,Yes,Divorced,1,Self-Employed,50000,,No,Yes
+40,N/A,Male,New York,1BHK,2GB,Poor,Yes,Single,N/A,Salaried,5000,High,No,Yes
+30,1500000,F,Chicago,1BHK,2GB,600,Yes,Widowed,,Unemployed,,Medium,No,No
+Unknown,70000,M,New York,3BHK,8GB,500,Yes,Married,N/A,Self-Employed,Unknown,High,No,Yes
+25,70000,Male,Los Angeles,4bhk,16GB,Excellent,Yes,Divorced,0,Self-Employed,5000,Medium,No,Yes
+25,N/A,F,Chicago,Studio,8GB,Poor,Yes,Divorced,0,Salaried,,,No,Yes
+Unknown,N/A,Male,Chicago,Studio,8GB,,Yes,Widowed,1,,5000,High,No,Yes
+45,90000,,New York,1BHK,16GB,400,Yes,Widowed,3,Self-Employed,10000,Medium,No,Yes
+35,80000,Male,Chicago,Studio,2GB,600,Yes,,0,,10000,,No,Yes
+28,,Male,,3BHK,,Poor,Yes,,,,5000,Very High,No,Yes
+,50000,Female,,4bhk,,Excellent,Yes,Married,3,Business,150000,,No,Yes
+28,50000,F,Los Angeles,Studio,6GB,Excellent,Yes,Married,2,Salaried,20000,,No,Yes
+30,90000,F,New York,2BHK,2GB,700,Yes,Single,N/A,,10000,Very High,No,Yes
+35,50000,Female,Los Angeles,2BHK,4GB,600,Yes,,3,Salaried,150000,,No,
+30,80000,F,New York,Studio,16GB,,Yes,Divorced,N/A,Business,150000,Very High,No,
+Unknown,70000,M,New York,3BHK,4GB,400,Yes,,3,Salaried,Unknown,Very High,No,
+Unknown,90000,Female,Chicago,3BHK,,Poor,Yes,Divorced,2,Self-Employed,,Very High,No,No
+,60000,Male,Los Angeles,Studio,,Poor,Yes,Widowed,0,,50000,Medium,No,Yes
+,1500000,F,New York,2BHK,,500,Yes,,2,Salaried,10000,High,No,
+25,70000,Male,Los Angeles,2BHK,2GB,600,Yes,Widowed,0,Unemployed,5000,Medium,No,Yes
+30,70000,Male,Chicago,3BHK,32GB,700,Yes,Married,0,Salaried,20000,Very High,No,Yes
+,90000,Other,Chicago,1BHK,8GB,600,Yes,Married,N/A,,50000,High,No,
+28,1500000,,Los Angeles,2BHK,2GB,500,Yes,Single,,Business,,High,No,
+,60000,F,New York,4bhk,8GB,500,Yes,,2,Business,150000,Very High,Yes,Yes
+,,Male,Chicago,Studio,16GB,700,Yes,Widowed,3,,,High,No,Yes
+,90000,Female,Los Angeles,3BHK,2GB,Excellent,Yes,Divorced,2,Self-Employed,10000,High,No,Yes
+30,80000,Other,New York,Studio,6GB,,Yes,Married,N/A,Self-Employed,,Medium,No,Yes
+Unknown,70000,Male,,3BHK,,,Yes,Married,0,Business,,High,No,
+45,50000,Other,New York,4bhk,8GB,300,Yes,Divorced,N/A,Business,20000,Very High,No,
+30,80000,Male,New York,Studio,32GB,,Yes,Widowed,1,,150000,Low,No,
+40,N/A,Male,Los Angeles,1BHK,,800,Yes,Widowed,1,Self-Employed,20000,Low,No,Yes
+28,N/A,,New York,Studio,16GB,Poor,Yes,,3,Business,20000,Low,No,No
+Unknown,1500000,Male,Los Angeles,2BHK,6GB,,Yes,,N/A,Self-Employed,5000,Very High,No,Yes
+,1500000,Male,Chicago,2BHK,8GB,800,Yes,Single,3,Business,,Low,No,
+30,90000,Other,Chicago,3BHK,16GB,300,No,Married,3,Salaried,,Medium,No,No
+30,90000,M,New York,3BHK,16GB,Excellent,Yes,,1,Unemployed,,Very High,No,Yes
+45,,,Chicago,3BHK,32GB,500,Yes,Widowed,3,Salaried,Unknown,Very High,No,
+,60000,Male,New York,2BHK,,Excellent,Yes,Divorced,1,Business,20000,Very High,No,
+Unknown,90000,,Los Angeles,4bhk,8GB,Poor,Yes,Widowed,0,Unemployed,50000,High,No,
+Unknown,80000,Male,New York,2BHK,8GB,300,Yes,Married,N/A,Unemployed,10000,High,No,Yes
+28,80000,F,Chicago,1BHK,8GB,300,Yes,Widowed,3,Business,150000,High,No,
+Unknown,90000,Male,New York,Studio,32GB,300,Yes,Single,1,Business,50000,,No,Yes
+,50000,Other,New York,4bhk,8GB,Excellent,Yes,Married,2,Self-Employed,150000,Medium,No,
+25,70000,Female,,3BHK,4GB,,Yes,Divorced,3,Business,5000,Very High,No,
+,80000,M,Los Angeles,4bhk,16GB,Poor,No,Single,,,5000,Very High,No,
+,90000,,Chicago,2BHK,8GB,400,Yes,Married,0,Business,150000,High,No,
+45,70000,Female,Los Angeles,3BHK,4GB,Excellent,Yes,Divorced,0,,,Very High,No,Yes
+40,70000,Male,New York,Studio,16GB,800,No,Single,2,Business,50000,Very High,No,Yes
+Unknown,1500000,Other,New York,3BHK,,500,Yes,Single,1,Self-Employed,,Low,No,
+40,90000,,,Studio,,Poor,Yes,Married,3,,Unknown,Very High,No,Yes
+,1500000,Other,,Studio,16GB,600,Yes,,1,Salaried,5000,,No,
+28,1500000,Female,Chicago,3BHK,6GB,300,Yes,Single,0,,5000,High,No,Yes
+30,,F,,3BHK,,Excellent,Yes,Single,1,Self-Employed,50000,Medium,No,No
+28,90000,Male,Los Angeles,4bhk,6GB,,Yes,Divorced,0,,5000,Medium,No,Yes
+30,N/A,Male,Chicago,Studio,32GB,300,Yes,Widowed,1,Business,Unknown,Low,No,Yes
+30,70000,Male,Los Angeles,Studio,8GB,500,Yes,Married,2,Business,Unknown,Medium,No,Yes
+,1500000,Other,Chicago,1BHK,2GB,800,Yes,Married,N/A,Self-Employed,Unknown,Medium,No,
+30,60000,,Los Angeles,2BHK,,300,Yes,,2,Unemployed,10000,High,No,
+30,N/A,,Chicago,2BHK,,400,Yes,,2,Business,Unknown,High,No,Yes
+28,70000,Female,Los Angeles,Studio,8GB,600,No,Married,N/A,Salaried,Unknown,,No,Yes
+28,1500000,Other,Chicago,2BHK,8GB,500,Yes,,N/A,Self-Employed,10000,Low,No,Yes
+30,1500000,F,Los Angeles,3BHK,8GB,600,Yes,Divorced,3,,,Medium,No,No
+,60000,,Chicago,Studio,8GB,,Yes,Married,3,,20000,,No,Yes
+25,70000,Male,,Studio,2GB,,Yes,,2,Salaried,5000,Low,No,
+45,80000,M,New York,1BHK,8GB,400,Yes,Married,2,Business,Unknown,Medium,No,No
+30,1500000,Female,Chicago,3BHK,16GB,600,Yes,Widowed,0,Self-Employed,5000,Medium,No,Yes
+,90000,F,New York,Studio,2GB,600,Yes,Single,0,Salaried,50000,High,No,Yes
+45,90000,,New York,Studio,16GB,400,Yes,Married,3,Business,5000,Very High,No,
+30,80000,Male,Chicago,Studio,,700,Yes,Single,,Self-Employed,150000,Low,No,
+,60000,F,Los Angeles,4bhk,2GB,600,Yes,,,,,Medium,No,
+Unknown,60000,,New York,Studio,2GB,500,Yes,Single,3,Self-Employed,10000,Low,No,
+30,80000,Male,Chicago,3BHK,2GB,Poor,Yes,Married,0,Unemployed,5000,,No,
+30,N/A,Male,New York,4bhk,2GB,400,Yes,Widowed,0,Self-Employed,5000,,No,
+45,90000,Other,New York,3BHK,4GB,Poor,Yes,,,Unemployed,5000,Very High,No,Yes
+,90000,M,New York,Studio,2GB,400,Yes,Married,1,Self-Employed,20000,Medium,Yes,
+45,N/A,Male,Los Angeles,2BHK,6GB,800,Yes,,1,Unemployed,20000,High,No,No
+,80000,,Los Angeles,2BHK,,300,Yes,Divorced,0,,50000,Medium,No,Yes
+28,1500000,,New York,Studio,16GB,300,Yes,Single,1,Business,10000,Low,No,No
+30,N/A,,Chicago,1BHK,8GB,400,Yes,Divorced,N/A,Unemployed,5000,,No,Yes
+28,70000,Male,,3BHK,,Poor,Yes,Married,3,Unemployed,5000,Low,No,Yes
+40,90000,M,,3BHK,2GB,500,Yes,Widowed,3,,5000,Very High,No,Yes
+,70000,Male,Chicago,3BHK,,300,Yes,,0,Unemployed,5000,,No,
+45,80000,F,,3BHK,16GB,,Yes,Single,2,Salaried,20000,High,No,Yes
+,N/A,Female,New York,Studio,,400,Yes,,,,,,No,
+30,60000,Other,New York,3BHK,2GB,,Yes,Married,0,Salaried,,Medium,No,Yes
+30,70000,,New York,2BHK,16GB,300,Yes,,1,,50000,Medium,No,
+25,N/A,Male,Los Angeles,Studio,8GB,Excellent,Yes,Single,,Unemployed,150000,,No,
+30,80000,Male,Los Angeles,1BHK,6GB,800,Yes,Married,2,Salaried,Unknown,Very High,No,No
+30,60000,Male,Chicago,Studio,8GB,400,Yes,,1,Unemployed,10000,Medium,No,No
+28,60000,Male,Los Angeles,2BHK,,,Yes,Widowed,N/A,,,Medium,No,
+,60000,Male,Los Angeles,1BHK,8GB,Poor,Yes,Married,1,Unemployed,150000,High,No,
+Unknown,90000,,Los Angeles,Studio,16GB,CorruptedEntry,Yes,Married,N/A,Salaried,5000,,No,
+28,1500000,Other,,3BHK,32GB,300,Yes,Widowed,,Salaried,,Medium,No,Yes
+30,70000,,New York,4bhk,8GB,800,Yes,Divorced,N/A,Unemployed,50000,Very High,No,Yes
+28,80000,Other,Los Angeles,3BHK,32GB,,Yes,Single,,Self-Employed,Unknown,Low,No,No
+30,N/A,Male,Chicago,1BHK,16GB,400,Yes,Divorced,,,,,No,Yes
+Unknown,90000,Male,Los Angeles,2BHK,16GB,300,Yes,,,,50000,High,No,
+Unknown,N/A,Other,Chicago,Studio,4GB,800,Yes,Widowed,,Unemployed,20000,Medium,No,
+,1500000,Other,Chicago,3BHK,6GB,600,Yes,Divorced,,Self-Employed,Unknown,Very High,No,Yes
+45,60000,Other,Chicago,2BHK,16GB,300,Yes,Married,1,Salaried,50000,,No,Yes
+30,70000,,Los Angeles,3BHK,6GB,,No,,,Business,150000,Very High,No,Yes
+28,90000,Female,New York,2BHK,6GB,,Yes,,1,Business,,Very High,No,No
+,,F,New York,4bhk,2GB,300,Yes,Divorced,,Unemployed,20000,High,No,Yes
+45,60000,Female,Chicago,Studio,2GB,500,Yes,Divorced,N/A,Self-Employed,150000,,No,No
+Unknown,1500000,F,New York,2BHK,16GB,Poor,Yes,Widowed,,Self-Employed,50000,Medium,No,Yes
+30,N/A,Male,Chicago,3BHK,2GB,400,Yes,Single,2,,50000,High,No,Yes
+28,70000,Other,New York,3BHK,2GB,,No,Divorced,,Salaried,150000,Medium,No,No
+Unknown,80000,,Los Angeles,Studio,2GB,800,Yes,Divorced,,Self-Employed,,Low,No,No
+25,60000,Female,Los Angeles,2BHK,32GB,500,Yes,Married,N/A,Business,Unknown,Very High,No,No
+,60000,Male,Chicago,2BHK,32GB,400,Yes,,3,Salaried,20000,Low,No,Yes
+Unknown,1500000,Other,Los Angeles,Studio,8GB,300,No,Single,N/A,Salaried,5000,Very High,No,
+,70000,M,Los Angeles,4bhk,16GB,800,Yes,Married,2,Unemployed,10000,High,No,
+30,N/A,,New York,2BHK,6GB,600,Yes,Widowed,3,Self-Employed,Unknown,Medium,No,Yes
+28,70000,,,1BHK,16GB,800,Yes,Widowed,0,Unemployed,20000,Medium,No,Yes
+28,90000,Male,,Studio,2GB,300,No,Divorced,0,Self-Employed,150000,High,No,No
+,90000,Female,New York,4bhk,16GB,600,Yes,Divorced,2,,50000,,No,
+40,70000,Male,Chicago,Studio,,,Yes,Widowed,N/A,Unemployed,150000,Low,No,Yes
+25,60000,Male,Chicago,2BHK,2GB,700,Yes,Divorced,1,Unemployed,20000,Low,No,Yes
+30,N/A,Male,New York,2BHK,16GB,800,No,Single,2,Business,150000,Medium,No,No
+Unknown,90000,Male,New York,3BHK,,600,Yes,Divorced,3,Unemployed,150000,Medium,No,Yes
+,60000,F,Chicago,Studio,,Excellent,Yes,,3,Self-Employed,10000,Medium,No,Yes
+25,1500000,Male,Los Angeles,1BHK,16GB,800,Yes,Divorced,,Business,,High,No,Yes
+,1500000,Male,Chicago,3BHK,2GB,300,Yes,Married,0,Unemployed,10000,,No,
+35,70000,Male,New York,1BHK,,Poor,Yes,Single,3,Unemployed,5000,Low,No,Yes
+,60000,F,Chicago,4bhk,16GB,700,Yes,Married,2,,5000,Very High,No,Yes
+28,,F,Chicago,Studio,6GB,600,Yes,Married,3,Unemployed,10000,High,No,Yes
+30,1500000,M,Los Angeles,3BHK,,500,No,,2,Salaried,Unknown,Low,No,Yes
+30,70000,Male,New York,2BHK,32GB,,Yes,Single,1,Business,Unknown,,No,No
+30,1500000,Female,Los Angeles,2BHK,,Poor,Yes,Single,,Salaried,150000,High,No,Yes
+,90000,,New York,1BHK,16GB,,Yes,Single,0,Business,150000,Low,No,
+,70000,Female,Chicago,Studio,6GB,600,Yes,Single,3,,50000,High,No,No
+28,N/A,,Chicago,2BHK,2GB,600,Yes,Single,2,Unemployed,5000,Low,No,No
+,1500000,Male,Los Angeles,2BHK,,400,Yes,,N/A,Unemployed,50000,Low,No,Yes
+Unknown,70000,,,1BHK,,Excellent,Yes,Divorced,0,Unemployed,5000,,No,Yes
+40,80000,Male,New York,Studio,6GB,600,Yes,Married,1,Business,10000,Very High,No,No
+30,70000,M,Chicago,1BHK,2GB,700,No,Single,2,Unemployed,Unknown,,No,Yes
+Unknown,,Female,Los Angeles,1BHK,2GB,800,Yes,Divorced,,Salaried,150000,Low,No,Yes
+30,90000,M,New York,4bhk,2GB,Excellent,Yes,Divorced,,Unemployed,Unknown,High,No,Yes
+,60000,,Chicago,Studio,,500,Yes,Married,1,,10000,,No,Yes
+30,60000,Other,Chicago,Studio,16GB,800,Yes,,1,Salaried,50000,Very High,No,Yes
+28,70000,Male,Chicago,4bhk,,600,Yes,Widowed,,Unemployed,50000,Low,No,Yes
+45,70000,F,New York,2BHK,,400,Yes,Widowed,3,Unemployed,20000,,Yes,
+,80000,Male,Chicago,Studio,8GB,300,Yes,Divorced,3,Self-Employed,150000,,No,Yes
+40,90000,M,New York,3BHK,2GB,300,Yes,Married,2,Business,150000,,Yes,Yes
+30,,F,New York,3BHK,16GB,700,No,Widowed,N/A,Salaried,150000,,No,
+Unknown,,F,New York,1BHK,16GB,Poor,Yes,Divorced,2,Self-Employed,5000,High,No,
+Unknown,80000,,New York,3BHK,6GB,400,Yes,,N/A,,50000,Very High,No,Yes
+Unknown,60000,Male,New York,4bhk,32GB,Excellent,Yes,Widowed,1,Business,10000,Very High,No,
+35,1500000,Male,Chicago,4bhk,8GB,400,Yes,Divorced,0,Salaried,50000,Low,No,Yes
+35,N/A,,Chicago,3BHK,32GB,,Yes,Divorced,2,Unemployed,Unknown,Medium,No,Yes
+45,60000,Male,Chicago,Studio,2GB,400,Yes,Single,2,Salaried,5000,High,No,Yes
+Unknown,N/A,Female,,2BHK,16GB,700,Yes,,N/A,Unemployed,150000,Low,No,Yes
+30,90000,M,New York,3BHK,2GB,Excellent,No,Single,1,Business,,Low,No,
+45,90000,F,Los Angeles,3BHK,32GB,400,Yes,Married,1,Unemployed,20000,,No,Yes
+Unknown,70000,Other,Chicago,Studio,8GB,800,Yes,Single,N/A,,5000,Medium,No,Yes
+25,1500000,M,New York,Studio,8GB,700,Yes,Single,1,Unemployed,Unknown,Medium,No,No
+40,60000,Male,New York,2BHK,2GB,300,Yes,Widowed,,,150000,High,No,Yes
+Unknown,70000,,,3BHK,2GB,,No,Divorced,3,Business,Unknown,Medium,No,Yes
+35,N/A,Female,Chicago,2BHK,,800,Yes,,,Business,Unknown,Low,No,Yes
+28,80000,Male,Chicago,3BHK,,,Yes,Single,0,Salaried,150000,Medium,No,Yes
+30,,Male,Los Angeles,3BHK,,,Yes,,2,,Unknown,Medium,No,No
+,70000,F,Chicago,4bhk,4GB,500,Yes,Single,0,,10000,Very High,No,
+Unknown,90000,Male,New York,1BHK,8GB,400,Yes,Married,2,Self-Employed,20000,Low,No,No
+30,70000,Male,New York,3BHK,32GB,400,Yes,Single,3,Self-Employed,,Medium,No,Yes
+,60000,Female,New York,3BHK,16GB,800,Yes,Widowed,1,Self-Employed,Unknown,Medium,No,
+Unknown,70000,Other,New York,4bhk,2GB,,Yes,Divorced,,Unemployed,Unknown,,No,
+Unknown,,Male,Chicago,3BHK,32GB,400,Yes,Married,N/A,Self-Employed,50000,Medium,No,Yes
+,60000,Other,New York,2BHK,16GB,300,Yes,Single,,,20000,Medium,No,
+,50000,F,Los Angeles,3BHK,,700,Yes,,3,Unemployed,5000,Very High,No,No
+25,,M,New York,2BHK,,700,Yes,Married,0,Business,20000,Low,No,
+30,90000,,New York,1BHK,6GB,300,Yes,Married,N/A,Salaried,20000,High,No,Yes
+40,90000,,New York,3BHK,8GB,800,Yes,Single,1,Self-Employed,150000,Low,No,Yes
+25,,Male,Chicago,1BHK,8GB,500,Yes,Married,3,Business,150000,,No,Yes
+Unknown,90000,Male,New York,4bhk,,500,Yes,,N/A,,150000,Low,No,Yes
+40,60000,,Los Angeles,1BHK,2GB,600,Yes,Married,3,Salaried,,Medium,No,No
+30,70000,Male,New York,Studio,6GB,700,Yes,,3,Business,20000,,No,Yes
+,90000,Male,New York,Studio,,,Yes,Single,1,Salaried,,Low,No,Yes
+28,60000,Other,,3BHK,4GB,600,Yes,Divorced,2,Self-Employed,Unknown,,No,No
+,90000,Male,Los Angeles,3BHK,8GB,700,Yes,Married,N/A,,150000,High,No,Yes
+30,1500000,Male,,4bhk,8GB,600,Yes,Divorced,1,Salaried,Unknown,Low,No,Yes
+28,60000,Male,Chicago,3BHK,6GB,Excellent,Yes,,3,Business,150000,Medium,No,Yes
+,60000,,,Studio,2GB,500,Yes,Married,1,Self-Employed,10000,,No,Yes
+30,1500000,,Chicago,2BHK,32GB,500,Yes,Widowed,2,Self-Employed,,Very High,No,
+,80000,Male,Los Angeles,3BHK,16GB,700,Yes,Divorced,,Business,,,Yes,Yes
+40,80000,,Los Angeles,2BHK,2GB,300,Yes,Married,N/A,Business,5000,Very High,No,No
+35,1500000,Male,New York,3BHK,,800,Yes,Divorced,2,Salaried,50000,Medium,No,No
+,60000,Female,New York,1BHK,,Poor,Yes,Married,0,Unemployed,20000,High,No,Yes
+30,80000,,Los Angeles,4bhk,16GB,,Yes,Single,N/A,Self-Employed,5000,Very High,No,No
+Unknown,90000,Other,Chicago,Studio,16GB,500,Yes,Divorced,2,Salaried,,High,No,Yes
+,80000,Male,New York,1BHK,2GB,300,Yes,Widowed,3,Business,5000,,No,Yes
+30,90000,Other,New York,1BHK,32GB,700,Yes,Widowed,N/A,Salaried,10000,Medium,No,No
+Unknown,1500000,M,New York,2BHK,6GB,300,Yes,,N/A,Business,50000,Very High,No,Yes
+,60000,Male,Chicago,3BHK,6GB,500,Yes,Married,1,,,,No,Yes
+Unknown,1500000,M,New York,2BHK,16GB,Poor,Yes,Divorced,3,Business,,Low,No,Yes
+30,1500000,Male,New York,Studio,6GB,300,Yes,,0,Business,20000,,No,Yes
+Unknown,70000,,Los Angeles,4bhk,32GB,400,Yes,Divorced,,Business,150000,High,No,
+Unknown,1500000,Male,Los Angeles,Studio,2GB,500,Yes,Married,2,Unemployed,50000,Medium,No,Yes
+28,,F,Los Angeles,Studio,4GB,400,Yes,Widowed,1,Business,10000,Medium,No,Yes
+30,1500000,Male,Los Angeles,1BHK,16GB,700,Yes,Single,2,Self-Employed,Unknown,,No,Yes
+,90000,F,New York,Studio,2GB,,Yes,Widowed,0,Self-Employed,5000,Low,No,Yes
+45,70000,M,Chicago,3BHK,8GB,,Yes,,0,Salaried,20000,High,No,
+25,60000,M,Los Angeles,3BHK,,,Yes,Single,N/A,Unemployed,,,No,
+30,60000,F,New York,2BHK,,700,Yes,,0,Salaried,Unknown,,No,No
+,1500000,,Chicago,1BHK,8GB,700,Yes,Married,2,Self-Employed,10000,Medium,No,No
+Unknown,70000,F,Chicago,2BHK,2GB,400,Yes,Single,3,Self-Employed,50000,High,No,No
+45,N/A,,New York,4bhk,8GB,Poor,Yes,,3,,5000,Low,No,Yes
+,90000,Other,Chicago,1BHK,2GB,Excellent,Yes,Married,N/A,Business,20000,Medium,No,No
+40,,Male,Los Angeles,1BHK,6GB,400,Yes,Widowed,,Self-Employed,,,No,Yes
+30,70000,Male,Los Angeles,1BHK,2GB,400,No,Married,2,Salaried,,Medium,No,
+28,60000,Male,New York,3BHK,2GB,700,Yes,Divorced,2,Salaried,Unknown,Medium,No,
+,80000,Other,Chicago,Studio,2GB,Excellent,Yes,Married,0,Business,Unknown,Very High,No,No
+Unknown,90000,M,Los Angeles,4bhk,16GB,600,Yes,Married,2,Business,5000,Medium,No,
+,1500000,M,New York,3BHK,16GB,,Yes,Divorced,1,,50000,Medium,No,Yes
+Unknown,90000,Other,Los Angeles,Studio,2GB,700,No,,,Unemployed,10000,High,No,Yes
+,60000,F,Chicago,3BHK,16GB,600,No,,0,Salaried,150000,Medium,No,Yes
+,1500000,,New York,2BHK,32GB,,Yes,Married,1,Business,50000,Low,No,
+Unknown,60000,Other,New York,3BHK,,700,Yes,Divorced,N/A,Salaried,50000,,No,Yes
+,,M,,1BHK,4GB,Excellent,Yes,Divorced,3,Business,50000,High,No,No
+45,,Male,New York,2BHK,4GB,600,Yes,Widowed,N/A,Self-Employed,150000,Medium,No,
+28,50000,Female,New York,3BHK,8GB,700,Yes,,3,Salaried,5000,Low,No,Yes
+,80000,M,New York,1BHK,16GB,Excellent,Yes,Single,N/A,Self-Employed,150000,,Yes,No
+40,80000,Male,New York,3BHK,2GB,,Yes,,2,Salaried,5000,High,No,Yes
+,60000,Male,Los Angeles,3BHK,8GB,400,Yes,,1,Unemployed,150000,Low,No,Yes
+Unknown,60000,,New York,4bhk,16GB,300,Yes,Widowed,3,,10000,Medium,No,Yes
+,90000,,New York,3BHK,8GB,700,Yes,Single,0,Self-Employed,50000,Very High,No,No
+Unknown,70000,,Chicago,3BHK,8GB,500,Yes,Widowed,1,Business,5000,Very High,No,
+28,80000,Male,Chicago,Studio,16GB,,Yes,Single,0,Unemployed,150000,High,No,Yes
+30,90000,F,Los Angeles,3BHK,8GB,,Yes,Married,1,Salaried,10000,Low,No,Yes
+Unknown,1500000,F,Chicago,2BHK,32GB,800,Yes,Single,1,Self-Employed,150000,,No,No
+30,90000,Female,New York,3BHK,4GB,300,Yes,Widowed,N/A,Salaried,,Low,No,Yes
+30,60000,Male,Los Angeles,3BHK,,Excellent,Yes,,3,Salaried,10000,Very High,No,
+,1500000,,Chicago,2BHK,16GB,500,Yes,Single,3,Salaried,50000,High,No,
+,1500000,M,Chicago,4bhk,,800,Yes,Single,1,,20000,Medium,No,
+30,90000,F,New York,1BHK,2GB,500,Yes,Divorced,2,,50000,Low,No,
+,70000,Other,New York,2BHK,,400,Yes,,2,Business,20000,Very High,No,Yes
+35,80000,,Los Angeles,2BHK,,Poor,Yes,Married,0,Self-Employed,10000,,No,Yes
+28,1500000,,Los Angeles,1BHK,2GB,800,Yes,Widowed,0,Unemployed,,High,No,No
+28,,Male,New York,Studio,2GB,Excellent,Yes,Married,N/A,Unemployed,,Medium,No,Yes
+,70000,Male,Chicago,Studio,32GB,,Yes,,1,Unemployed,5000,Low,No,Yes
+28,70000,Male,New York,3BHK,32GB,,Yes,Single,0,Salaried,,,No,
+40,80000,Other,Los Angeles,3BHK,16GB,Poor,Yes,Single,0,,Unknown,Medium,No,Yes
+28,60000,Male,Los Angeles,Studio,,300,Yes,,,Self-Employed,10000,Very High,No,Yes
+30,90000,Other,New York,Studio,16GB,800,Yes,Single,1,Salaried,5000,Very High,No,Yes
+40,80000,Male,New York,Studio,16GB,,Yes,Single,N/A,,,,No,Yes
+,,Male,Chicago,Studio,32GB,400,Yes,Single,0,,10000,Very High,No,No
+,N/A,Other,Chicago,2BHK,2GB,400,Yes,Widowed,N/A,Self-Employed,50000,High,No,
+30,60000,,New York,4bhk,32GB,800,Yes,Widowed,3,Self-Employed,,,No,Yes
+28,50000,Male,,Studio,,Excellent,Yes,Divorced,N/A,Self-Employed,150000,Very High,No,No
+,1500000,,Los Angeles,4bhk,6GB,,Yes,Married,2,Salaried,20000,Low,No,Yes
+25,70000,M,,4bhk,6GB,700,Yes,,2,Business,10000,Very High,No,
+Unknown,50000,Male,,Studio,,700,Yes,,N/A,Self-Employed,5000,High,No,
+,N/A,Male,Chicago,2BHK,8GB,,Yes,,2,Business,50000,Medium,No,
+30,1500000,M,Chicago,Studio,6GB,300,No,Divorced,3,Salaried,Unknown,Medium,No,Yes
+,70000,Male,New York,3BHK,8GB,800,Yes,Widowed,1,Business,50000,Very High,No,Yes
+28,90000,Male,Chicago,4bhk,8GB,Poor,Yes,Divorced,2,Unemployed,,Medium,No,
+30,N/A,,Los Angeles,2BHK,,,Yes,,2,Business,20000,Very High,No,No
+35,N/A,Female,New York,1BHK,,Excellent,Yes,Married,N/A,Self-Employed,50000,High,No,Yes
+28,70000,,Chicago,4bhk,8GB,,Yes,Single,3,Salaried,Unknown,Medium,No,
+40,N/A,Male,New York,1BHK,32GB,600,Yes,Widowed,1,Self-Employed,150000,Low,No,
+,1500000,F,,1BHK,16GB,400,Yes,Widowed,N/A,Unemployed,5000,Very High,No,No
+28,90000,,Chicago,3BHK,,500,Yes,Divorced,N/A,Self-Employed,10000,Medium,No,Yes
+,N/A,F,Los Angeles,1BHK,,Poor,Yes,Widowed,,Self-Employed,20000,High,No,
+28,N/A,F,New York,3BHK,2GB,400,Yes,,3,Self-Employed,Unknown,High,No,
+45,1500000,Female,Los Angeles,2BHK,8GB,,Yes,,1,,,Low,No,No
+,80000,Male,Chicago,3BHK,2GB,Excellent,Yes,Divorced,3,Unemployed,,High,No,Yes
+40,80000,Male,Los Angeles,Studio,,300,Yes,,1,Self-Employed,,High,No,
+35,N/A,Female,New York,2BHK,32GB,Poor,Yes,Married,3,Self-Employed,20000,Medium,No,Yes
+Unknown,1500000,Male,New York,2BHK,2GB,400,Yes,Divorced,N/A,Self-Employed,50000,Very High,No,Yes
+45,90000,,New York,2BHK,8GB,Poor,Yes,Married,N/A,Salaried,20000,,No,
+40,1500000,Female,Chicago,1BHK,2GB,,Yes,Single,0,,,High,No,No
+25,N/A,Male,Los Angeles,2BHK,2GB,Excellent,Yes,Married,2,Salaried,150000,High,No,Yes
+30,70000,Male,New York,Studio,8GB,Excellent,Yes,Single,,,Unknown,,No,Yes
+,90000,Male,New York,2BHK,,600,Yes,Single,3,Self-Employed,10000,High,No,Yes
+30,80000,Male,New York,2BHK,16GB,400,Yes,Married,,Unemployed,10000,Medium,No,Yes
+Unknown,60000,Female,Chicago,4bhk,16GB,Excellent,Yes,Divorced,0,Business,20000,Medium,No,Yes
+30,60000,,New York,Studio,16GB,Excellent,Yes,,2,Business,,,No,Yes
+30,80000,,New York,Studio,16GB,400,Yes,,3,Self-Employed,5000,High,No,
+30,60000,Female,Los Angeles,3BHK,16GB,Excellent,Yes,Single,1,Salaried,150000,High,No,Yes
+Unknown,1500000,M,Los Angeles,3BHK,32GB,Excellent,Yes,Single,2,Unemployed,20000,Very High,No,Yes
+Unknown,50000,Male,Los Angeles,2BHK,8GB,700,Yes,Divorced,N/A,,,High,No,
+,,,Los Angeles,3BHK,16GB,600,No,Widowed,0,Self-Employed,50000,Medium,No,No
+30,70000,M,Los Angeles,3BHK,2GB,Excellent,Yes,Married,2,Unemployed,10000,Low,No,Yes
+30,60000,Female,Los Angeles,2BHK,16GB,700,Yes,Single,2,Unemployed,10000,Low,No,No
+Unknown,90000,Male,New York,3BHK,8GB,500,Yes,,N/A,,150000,Low,No,
+,60000,Male,Chicago,4bhk,2GB,400,Yes,Divorced,3,Unemployed,10000,Low,No,Yes
+25,60000,Male,,Studio,2GB,700,Yes,Married,1,Salaried,5000,High,Yes,
+28,70000,Male,Chicago,2BHK,2GB,300,Yes,Divorced,N/A,Salaried,,High,No,Yes
+,60000,Male,New York,Studio,32GB,,Yes,Married,1,Salaried,,Very High,No,
+30,1500000,,New York,Studio,16GB,700,Yes,Married,3,Unemployed,150000,High,No,
+,70000,Male,Los Angeles,4bhk,,Excellent,Yes,Single,2,Salaried,,Low,No,
+30,80000,Male,Chicago,4bhk,,400,Yes,Divorced,1,,150000,,No,Yes
+45,90000,,Los Angeles,3BHK,8GB,600,Yes,Divorced,0,Unemployed,,,No,
+Unknown,,Male,,Studio,8GB,,Yes,,0,Business,5000,Medium,No,No
+28,60000,Female,Chicago,Studio,32GB,700,No,,N/A,Unemployed,Unknown,Medium,No,No
+Unknown,70000,,New York,Studio,2GB,500,Yes,Single,3,,20000,High,No,Yes
+25,70000,,Chicago,3BHK,,300,Yes,Single,N/A,Business,20000,,No,
+35,70000,Male,New York,3BHK,8GB,Excellent,Yes,Widowed,N/A,Unemployed,,Low,No,Yes
+30,90000,Other,Los Angeles,4bhk,2GB,,Yes,,,Salaried,50000,Low,No,No
+25,,F,Los Angeles,4bhk,16GB,,Yes,Married,N/A,Self-Employed,10000,Low,Yes,No
+30,90000,Male,New York,Studio,32GB,,Yes,Divorced,,Self-Employed,5000,High,No,Yes
+25,60000,,New York,3BHK,8GB,Excellent,Yes,Single,0,Salaried,50000,High,No,Yes
+Unknown,70000,Male,Chicago,2BHK,2GB,400,Yes,Divorced,0,Self-Employed,50000,Very High,No,
+25,1500000,Male,Chicago,1BHK,2GB,,Yes,Divorced,N/A,Self-Employed,,Low,No,
+30,90000,Male,Los Angeles,3BHK,2GB,,Yes,Widowed,0,Salaried,5000,Low,No,Yes
+30,N/A,Female,,Studio,8GB,600,Yes,,3,Salaried,20000,High,No,Yes
+45,70000,Male,,Studio,,,Yes,Single,,Unemployed,10000,High,No,
+,90000,Female,Los Angeles,3BHK,8GB,Excellent,Yes,Divorced,,Unemployed,20000,Very High,No,
+Unknown,1500000,F,Los Angeles,4bhk,8GB,400,No,Single,N/A,Salaried,50000,Very High,No,Yes
+40,60000,F,New York,2BHK,8GB,600,Yes,Married,0,,10000,Medium,No,Yes
+45,1500000,F,Chicago,4bhk,6GB,Excellent,No,Widowed,1,Self-Employed,Unknown,,No,
+Unknown,N/A,Male,Los Angeles,Studio,16GB,,Yes,Married,,Unemployed,50000,Low,No,Yes
+,60000,Male,,3BHK,16GB,400,Yes,Single,N/A,Self-Employed,20000,Low,No,
+35,80000,Female,New York,3BHK,2GB,500,Yes,Single,N/A,Business,20000,Very High,No,
+30,1500000,,Los Angeles,3BHK,32GB,400,Yes,,3,Salaried,,Very High,No,Yes
+28,70000,M,,4bhk,8GB,,Yes,Divorced,2,,20000,Medium,No,No
+40,80000,Male,Los Angeles,4bhk,8GB,,No,Divorced,2,Business,5000,,No,Yes
+40,90000,F,,4bhk,8GB,,Yes,Married,,Business,50000,Medium,No,Yes
+25,N/A,Male,New York,Studio,,600,Yes,Widowed,3,Business,150000,,No,Yes
+Unknown,70000,Male,Chicago,Studio,8GB,800,Yes,Divorced,3,Salaried,150000,Low,No,Yes
+,1500000,,Los Angeles,Studio,2GB,400,Yes,,3,Unemployed,10000,Medium,No,No
+Unknown,1500000,M,New York,3BHK,,600,No,Married,,Salaried,20000,Very High,No,No
+30,70000,M,Chicago,3BHK,32GB,,Yes,Married,2,Unemployed,,Medium,No,No
+25,70000,F,New York,Studio,,,Yes,,3,Business,,Medium,No,Yes
+25,60000,Female,Los Angeles,2BHK,16GB,Excellent,Yes,Widowed,0,Business,20000,Low,No,No
+,90000,F,New York,3BHK,,Excellent,Yes,,N/A,,5000,Very High,No,
+,1500000,,Los Angeles,Studio,,,Yes,Widowed,N/A,Unemployed,,Very High,No,No
+,90000,M,New York,4bhk,16GB,300,Yes,,1,Business,150000,High,No,
+28,90000,Male,Chicago,1BHK,,400,Yes,,1,Self-Employed,10000,High,No,Yes
+,70000,Male,Chicago,1BHK,6GB,300,Yes,Single,,,50000,High,No,No
+40,60000,Female,Los Angeles,1BHK,,500,Yes,Married,,Salaried,Unknown,Low,No,Yes
+28,1500000,Male,,3BHK,2GB,,Yes,,N/A,,5000,Medium,No,Yes
+Unknown,90000,Male,Los Angeles,Studio,6GB,700,Yes,,0,Self-Employed,,Very High,No,Yes
+,70000,F,Chicago,3BHK,,,Yes,Divorced,2,Unemployed,50000,Very High,No,
+,60000,Male,New York,2BHK,2GB,Excellent,Yes,Married,2,Salaried,Unknown,Medium,No,No
+Unknown,90000,Male,Los Angeles,3BHK,16GB,Excellent,Yes,Divorced,,Salaried,20000,Very High,No,Yes
+,,Male,Los Angeles,Studio,8GB,Excellent,Yes,Married,0,Unemployed,20000,Medium,No,
+,N/A,Other,New York,2BHK,32GB,300,No,Divorced,,,10000,Low,No,
+28,90000,Female,Los Angeles,3BHK,4GB,500,Yes,,2,Business,Unknown,Low,No,No
+45,,,Los Angeles,1BHK,,300,Yes,,,,20000,Low,No,Yes
+28,60000,,New York,3BHK,2GB,,Yes,Single,3,Self-Employed,20000,Medium,No,No
+28,1500000,,Chicago,Studio,,300,Yes,Divorced,,Business,150000,Medium,No,Yes
+25,90000,Female,,2BHK,8GB,600,Yes,Widowed,N/A,,,,No,Yes
+45,50000,Other,,3BHK,16GB,800,Yes,Single,,Unemployed,10000,Very High,No,Yes
+,70000,Male,,3BHK,,700,Yes,Divorced,N/A,Self-Employed,50000,Very High,No,Yes
+40,90000,Male,,1BHK,,300,Yes,Divorced,0,Self-Employed,20000,,No,
+,90000,Other,Chicago,3BHK,32GB,Poor,Yes,Single,2,Self-Employed,150000,,No,No
+,60000,F,Chicago,3BHK,2GB,Poor,Yes,,1,Business,5000,Low,No,No
+,80000,,New York,4bhk,8GB,400,Yes,Divorced,1,Salaried,5000,,No,
+,90000,,Chicago,2BHK,32GB,,Yes,,2,Business,50000,Medium,No,
+,N/A,F,New York,1BHK,32GB,,Yes,Single,1,,Unknown,High,No,No
+25,1500000,,Los Angeles,Studio,2GB,Poor,Yes,,,Salaried,10000,Medium,No,Yes
+Unknown,60000,F,Los Angeles,3BHK,16GB,300,Yes,Married,0,,150000,,No,Yes
+30,90000,Male,New York,3BHK,16GB,800,Yes,Widowed,0,Salaried,,Very High,No,
+25,70000,Other,,3BHK,2GB,300,Yes,Divorced,2,Business,150000,Medium,No,No
+,90000,Male,,4bhk,,500,Yes,Widowed,1,Self-Employed,5000,Very High,No,
+,90000,F,Chicago,1BHK,,,Yes,,,Unemployed,5000,Medium,No,
+28,90000,Male,Chicago,3BHK,,Poor,Yes,Divorced,0,Self-Employed,50000,Very High,No,No
+30,N/A,F,Chicago,2BHK,8GB,700,Yes,,0,Business,Unknown,Medium,No,Yes
+28,60000,Male,Los Angeles,3BHK,2GB,700,Yes,Married,3,Salaried,Unknown,Very High,No,Yes
+30,90000,F,Los Angeles,Studio,8GB,Poor,Yes,Single,3,Self-Employed,50000,High,No,Yes
+28,50000,,New York,Studio,,700,Yes,Divorced,0,Business,150000,Low,No,Yes
+28,N/A,Male,New York,3BHK,32GB,300,Yes,Married,2,,5000,Medium,No,Yes
+30,70000,Other,New York,Studio,,800,Yes,Married,N/A,Unemployed,150000,High,No,Yes
+Unknown,60000,Other,New York,3BHK,2GB,,Yes,Divorced,N/A,Self-Employed,150000,Low,No,No
+,70000,,,2BHK,2GB,500,Yes,,,Salaried,10000,Medium,No,No
+30,70000,F,Chicago,2BHK,8GB,500,Yes,Married,0,,5000,High,No,Yes
+25,90000,Male,New York,3BHK,2GB,Poor,Yes,Widowed,0,Business,Unknown,High,No,
+,N/A,Female,,2BHK,8GB,Excellent,Yes,Married,0,Unemployed,,High,No,
+Unknown,60000,Other,Chicago,4bhk,2GB,400,No,,2,Salaried,150000,,No,
+30,70000,Other,,3BHK,8GB,800,Yes,,3,Business,5000,Very High,No,No
+30,60000,Male,New York,3BHK,16GB,,Yes,Widowed,0,Business,150000,Low,No,Yes
+Unknown,N/A,,New York,4bhk,8GB,Poor,Yes,Married,0,Self-Employed,10000,Very High,No,Yes
+,60000,F,Los Angeles,Studio,16GB,700,Yes,,1,Self-Employed,20000,Very High,Yes,
+40,80000,,,4bhk,8GB,300,Yes,Divorced,2,Salaried,5000,Very High,No,Yes
+30,50000,Male,New York,Studio,16GB,Excellent,Yes,Single,,Business,50000,High,No,
+30,N/A,Male,Chicago,2BHK,,600,Yes,Single,0,Self-Employed,20000,Very High,No,Yes
+25,80000,Other,,1BHK,6GB,Excellent,Yes,Single,1,Unemployed,150000,,No,
+30,1500000,Female,,Studio,32GB,Poor,Yes,Married,N/A,Unemployed,50000,Medium,No,
+28,70000,,Chicago,3BHK,16GB,,Yes,Widowed,,Business,50000,High,No,Yes
+45,1500000,,New York,Studio,,400,No,,0,Self-Employed,50000,Low,No,Yes
+,60000,Male,Chicago,Studio,32GB,500,Yes,Divorced,0,Salaried,5000,Medium,No,Yes
+28,70000,,Los Angeles,4bhk,2GB,400,Yes,Divorced,1,Salaried,Unknown,Medium,No,No
+Unknown,50000,M,New York,3BHK,2GB,800,No,Married,2,Salaried,150000,Medium,No,No
+,1500000,,New York,Studio,8GB,500,Yes,Single,0,Unemployed,20000,Very High,No,Yes
+30,,Male,Chicago,1BHK,,500,Yes,Married,N/A,Self-Employed,10000,Very High,No,Yes
+45,70000,Male,New York,2BHK,16GB,300,Yes,Widowed,0,Self-Employed,Unknown,High,No,Yes
+Unknown,,Male,New York,3BHK,8GB,Poor,No,Widowed,N/A,Unemployed,150000,Very High,No,Yes
+28,90000,Male,New York,3BHK,16GB,500,Yes,,,Salaried,5000,Very High,No,Yes
+30,80000,Male,New York,3BHK,16GB,600,Yes,,,Salaried,50000,Very High,No,No
+25,,Male,,2BHK,4GB,,Yes,Widowed,3,Business,10000,High,No,
+45,80000,F,New York,Studio,2GB,300,Yes,Widowed,3,,150000,High,No,Yes
+28,90000,Female,Chicago,2BHK,8GB,600,Yes,Widowed,N/A,Self-Employed,20000,,No,No
+,90000,F,Los Angeles,4bhk,8GB,Excellent,Yes,Married,2,Self-Employed,150000,,No,No
+28,60000,F,Chicago,Studio,,,Yes,Widowed,0,Self-Employed,Unknown,,No,Yes
+,70000,Male,Los Angeles,3BHK,6GB,400,Yes,Divorced,0,,,,No,
+,80000,,,1BHK,32GB,Poor,Yes,Single,3,Business,Unknown,Medium,No,Yes
+28,60000,,New York,4bhk,2GB,600,No,Widowed,N/A,,150000,Medium,Yes,No
+28,N/A,Female,Los Angeles,4bhk,2GB,300,Yes,Single,0,Salaried,10000,,No,
+,90000,,Chicago,3BHK,,500,Yes,Married,0,Salaried,150000,,No,No
+28,70000,Female,Chicago,2BHK,16GB,,Yes,Single,2,Self-Employed,150000,Low,No,No
+25,50000,Male,Chicago,3BHK,4GB,800,Yes,Married,1,Unemployed,5000,Medium,No,Yes
+,1500000,F,New York,1BHK,32GB,600,Yes,Divorced,3,Self-Employed,20000,Low,No,Yes
+,1500000,,Los Angeles,3BHK,8GB,,Yes,Married,3,Unemployed,10000,Low,No,Yes
+Unknown,80000,Other,Los Angeles,Studio,8GB,600,Yes,Married,1,,150000,Very High,No,Yes
+30,90000,Male,New York,Studio,8GB,700,Yes,,0,Salaried,50000,High,No,Yes
+40,N/A,Other,,3BHK,8GB,Excellent,Yes,Widowed,2,Unemployed,20000,Medium,No,
+,70000,Male,Chicago,2BHK,8GB,500,Yes,Widowed,2,,Unknown,,No,
+,70000,,,2BHK,8GB,700,Yes,Divorced,3,Salaried,10000,,No,
+28,60000,Other,,Studio,32GB,400,Yes,Divorced,2,Unemployed,Unknown,High,No,No
+25,80000,,New York,Studio,,600,Yes,Widowed,,Self-Employed,150000,Medium,No,Yes
+28,1500000,Female,Los Angeles,1BHK,32GB,700,Yes,,1,Self-Employed,Unknown,,No,Yes
+28,1500000,Male,Chicago,Studio,32GB,700,Yes,Widowed,0,Self-Employed,Unknown,,No,No
+30,1500000,,Los Angeles,3BHK,,500,Yes,,,,5000,Very High,No,Yes
+28,N/A,Female,New York,2BHK,8GB,700,Yes,Divorced,1,Self-Employed,Unknown,Low,No,No
+25,70000,,New York,Studio,16GB,Poor,Yes,Single,N/A,Business,50000,,No,
+25,N/A,Male,Los Angeles,3BHK,32GB,500,Yes,Divorced,3,Salaried,50000,Medium,No,Yes
+,N/A,Other,Los Angeles,Studio,2GB,400,Yes,Divorced,2,,20000,High,No,No
+,60000,Other,Los Angeles,4bhk,,,Yes,Married,N/A,Self-Employed,150000,Very High,No,
+28,90000,Female,Los Angeles,2BHK,2GB,,Yes,Married,2,Salaried,,Medium,Yes,Yes
+28,80000,Female,New York,2BHK,2GB,600,Yes,Married,,Unemployed,Unknown,Very High,No,Yes
+35,N/A,Male,Los Angeles,3BHK,,300,Yes,Married,0,Self-Employed,Unknown,Low,No,Yes
+30,80000,M,Los Angeles,Studio,8GB,,No,,0,Salaried,10000,,No,Yes
+Unknown,1500000,Male,Los Angeles,2BHK,2GB,700,Yes,Widowed,0,Business,5000,Medium,No,Yes
+,50000,,Chicago,4bhk,8GB,500,No,Single,2,Unemployed,,High,No,Yes
+28,90000,,New York,Studio,16GB,300,Yes,Divorced,N/A,Business,20000,Low,No,
+28,70000,F,Chicago,4bhk,8GB,,Yes,,0,Salaried,,Low,No,
+,60000,Female,Los Angeles,Studio,16GB,400,No,Single,N/A,Business,Unknown,Very High,No,
+30,90000,F,Los Angeles,2BHK,8GB,300,Yes,,2,Salaried,10000,Low,No,No
+,90000,M,New York,Studio,8GB,,Yes,,,Salaried,150000,Medium,No,Yes
+28,60000,Male,Chicago,2BHK,2GB,Poor,No,Divorced,N/A,Business,5000,Very High,No,
+28,1500000,M,Chicago,1BHK,,,Yes,Widowed,,Salaried,150000,Low,Yes,
+30,70000,Male,Chicago,Studio,,300,Yes,Married,2,Self-Employed,20000,High,No,Yes
+30,90000,Male,Los Angeles,3BHK,32GB,400,Yes,Widowed,2,Salaried,,Medium,No,
+40,80000,Other,Los Angeles,4bhk,2GB,,Yes,Divorced,3,,20000,High,No,
+Unknown,1500000,Other,New York,Studio,,700,Yes,Divorced,2,Salaried,Unknown,High,No,
+45,90000,Female,Los Angeles,2BHK,32GB,700,Yes,Divorced,2,,20000,Very High,No,Yes
+28,N/A,Female,Los Angeles,2BHK,4GB,400,Yes,Single,1,Salaried,150000,,No,No
+30,,,Chicago,1BHK,16GB,600,Yes,Widowed,0,Salaried,10000,Very High,No,Yes
+,80000,,Los Angeles,3BHK,4GB,500,Yes,Widowed,3,Business,20000,Medium,No,Yes
+28,90000,,New York,2BHK,32GB,600,Yes,,3,Self-Employed,50000,Medium,No,
+,70000,Male,New York,3BHK,16GB,600,Yes,,3,Self-Employed,10000,Very High,No,
+30,80000,Other,Los Angeles,2BHK,8GB,700,Yes,,1,Unemployed,,,No,Yes
+,80000,,New York,3BHK,2GB,300,Yes,Divorced,,Business,5000,Very High,No,No
+30,90000,Male,New York,2BHK,32GB,Excellent,Yes,Widowed,2,Business,5000,Medium,No,
+28,1500000,Male,,4bhk,,500,No,Divorced,0,Self-Employed,Unknown,,No,Yes
+28,70000,F,Los Angeles,3BHK,16GB,Poor,Yes,Single,N/A,Business,Unknown,Medium,No,
+,N/A,,New York,Studio,,400,Yes,,,Self-Employed,50000,,No,No
+Unknown,1500000,Male,Los Angeles,Studio,32GB,600,Yes,Divorced,2,Business,,,No,Yes
+,N/A,Female,Chicago,4bhk,8GB,700,Yes,Divorced,1,Salaried,150000,Very High,No,
+28,90000,Other,Chicago,Studio,8GB,Excellent,Yes,Single,2,Self-Employed,5000,Very High,No,Yes
+Unknown,90000,Other,New York,Studio,8GB,,Yes,Married,2,Self-Employed,5000,Very High,No,Yes
+Unknown,70000,F,Chicago,1BHK,8GB,Excellent,Yes,Widowed,1,,5000,,No,No
+,90000,Other,New York,Studio,,500,Yes,Married,3,Business,150000,,No,No
+30,70000,,Chicago,3BHK,16GB,700,Yes,,3,Business,5000,Medium,No,No
+30,N/A,,Chicago,3BHK,32GB,Excellent,Yes,Divorced,0,Self-Employed,20000,High,No,
+28,60000,,Chicago,3BHK,2GB,400,Yes,Single,0,Salaried,,Very High,No,Yes
+30,,Female,New York,3BHK,6GB,500,Yes,Single,3,Salaried,10000,Medium,Yes,Yes
+30,70000,Male,,3BHK,16GB,,Yes,Widowed,,Salaried,10000,Medium,No,
+,70000,Male,Los Angeles,4bhk,,400,Yes,Married,N/A,Business,50000,Low,No,
+,90000,Male,Chicago,1BHK,2GB,300,Yes,Widowed,2,,20000,Very High,No,No
+,,Male,Los Angeles,3BHK,2GB,300,No,Divorced,N/A,Self-Employed,5000,Medium,No,Yes
+28,90000,Male,,2BHK,,Excellent,Yes,Widowed,2,Unemployed,5000,Low,No,Yes
+Unknown,60000,Female,New York,Studio,8GB,Poor,Yes,Single,3,,Unknown,Very High,No,
+,N/A,Other,New York,Studio,8GB,400,Yes,Single,0,Unemployed,Unknown,,No,No
+30,60000,Male,Chicago,2BHK,,600,No,,,,50000,Low,No,No
+Unknown,60000,Male,New York,4bhk,6GB,700,Yes,,0,Salaried,5000,,No,
+40,70000,Other,Chicago,Studio,16GB,700,Yes,Divorced,N/A,Business,50000,High,No,Yes
+30,50000,,New York,1BHK,6GB,500,Yes,Married,0,Unemployed,20000,High,No,Yes
+40,1500000,F,Chicago,Studio,16GB,400,Yes,Widowed,3,,10000,High,No,Yes
+,70000,,Chicago,Studio,8GB,Excellent,Yes,Divorced,,Business,5000,High,No,No
+30,90000,Male,New York,Studio,16GB,600,No,,N/A,Unemployed,,Medium,No,
+,1500000,Female,New York,3BHK,8GB,800,Yes,Widowed,,Self-Employed,150000,High,No,No
+30,1500000,Male,New York,3BHK,2GB,300,Yes,,2,,20000,Medium,No,
+40,1500000,Male,Chicago,4bhk,,700,Yes,Widowed,0,Self-Employed,5000,Medium,No,Yes
+28,70000,M,New York,3BHK,16GB,700,No,Married,,Salaried,150000,Very High,No,
+25,60000,F,Los Angeles,2BHK,8GB,800,Yes,Divorced,1,Self-Employed,,Medium,No,Yes
+,N/A,Other,Los Angeles,Studio,,600,Yes,Widowed,0,Self-Employed,Unknown,Medium,No,
+Unknown,1500000,M,New York,2BHK,16GB,400,Yes,Single,2,,50000,High,No,Yes
+35,70000,F,Los Angeles,4bhk,4GB,700,Yes,Single,,Salaried,Unknown,Medium,No,
+,70000,Female,Chicago,Studio,2GB,Excellent,Yes,Widowed,N/A,Self-Employed,10000,,No,Yes
+35,N/A,Female,New York,2BHK,,700,Yes,Widowed,2,Business,Unknown,High,No,Yes
+,60000,Male,Los Angeles,3BHK,2GB,300,Yes,Widowed,1,Unemployed,5000,Low,No,Yes
+Unknown,N/A,Female,Chicago,Studio,8GB,400,Yes,Single,,Self-Employed,,High,No,Yes
+,1500000,Male,New York,4bhk,8GB,400,Yes,Single,3,Salaried,Unknown,Medium,No,
+25,70000,,Chicago,2BHK,32GB,400,Yes,Widowed,0,Self-Employed,5000,,No,
+30,80000,M,Los Angeles,3BHK,2GB,600,No,,N/A,Unemployed,10000,High,No,Yes
+40,50000,F,Los Angeles,4bhk,32GB,,No,,3,Salaried,150000,,No,Yes
+30,70000,M,Chicago,Studio,16GB,Excellent,Yes,Married,,,,Low,No,No
+28,1500000,Male,,2BHK,16GB,500,Yes,Divorced,,Salaried,Unknown,Low,No,Yes
+25,90000,,Chicago,2BHK,8GB,,Yes,,2,,50000,Very High,No,No
+28,70000,Male,Chicago,4bhk,,600,Yes,Single,,Salaried,50000,Very High,No,No
+25,60000,Female,Chicago,3BHK,8GB,400,Yes,,N/A,Unemployed,,High,No,
+40,70000,M,Los Angeles,Studio,32GB,800,Yes,Married,3,Unemployed,50000,Very High,No,Yes
+,N/A,Male,Los Angeles,Studio,8GB,700,Yes,Married,N/A,Salaried,Unknown,,No,
+Unknown,N/A,Female,Chicago,3BHK,32GB,300,Yes,Divorced,1,Self-Employed,Unknown,Very High,No,Yes
+Unknown,60000,Female,Chicago,2BHK,4GB,500,Yes,,1,Unemployed,,,No,No
+Unknown,60000,Other,New York,3BHK,2GB,,Yes,Single,0,,Unknown,Very High,No,No
+Unknown,,,Los Angeles,3BHK,8GB,,Yes,Single,0,,150000,Very High,No,Yes
+25,60000,F,New York,3BHK,16GB,500,Yes,Widowed,1,Business,5000,Very High,No,
+30,N/A,Female,,Studio,8GB,700,Yes,Single,,,10000,Medium,No,
+Unknown,50000,,Chicago,4bhk,,Excellent,Yes,Divorced,N/A,Business,150000,Medium,No,
+30,1500000,,New York,3BHK,8GB,300,Yes,Divorced,1,Salaried,150000,Very High,No,No
+,1500000,,Los Angeles,Studio,4GB,300,Yes,Single,0,Salaried,50000,,No,
+,70000,Male,Los Angeles,Studio,6GB,300,No,Single,1,Salaried,5000,High,No,Yes
+30,70000,Other,Los Angeles,1BHK,2GB,Excellent,Yes,Widowed,,Self-Employed,,Low,No,Yes
+28,80000,Male,Los Angeles,Studio,2GB,Poor,Yes,Single,1,Self-Employed,50000,Medium,No,
+,60000,,,3BHK,8GB,,Yes,Widowed,N/A,Business,5000,Very High,No,Yes
+40,90000,,New York,3BHK,16GB,700,Yes,Widowed,3,,Unknown,Low,No,
+35,70000,,Chicago,2BHK,8GB,Excellent,Yes,Single,,,,Medium,No,Yes
+28,90000,,Chicago,2BHK,32GB,800,Yes,Married,0,Salaried,,High,No,Yes
+30,,,Chicago,Studio,8GB,300,Yes,Married,N/A,Unemployed,50000,,No,Yes
+25,,Female,Los Angeles,1BHK,2GB,,Yes,Widowed,1,Self-Employed,Unknown,Very High,No,No
+Unknown,90000,Male,New York,3BHK,2GB,600,Yes,Single,1,Self-Employed,50000,High,No,Yes
+,70000,Male,Los Angeles,Studio,2GB,600,Yes,Married,3,Salaried,20000,Medium,No,Yes
+30,1500000,Female,Chicago,2BHK,,Poor,Yes,Single,0,Self-Employed,5000,Very High,No,Yes
+Unknown,60000,F,Los Angeles,Studio,8GB,Poor,Yes,Single,0,Salaried,20000,Low,No,
+,80000,F,,1BHK,2GB,500,Yes,Single,2,Business,5000,,Yes,No
+40,90000,,New York,2BHK,16GB,300,Yes,,0,,10000,Medium,No,
+Unknown,50000,Male,Chicago,4bhk,2GB,Excellent,Yes,Single,3,Unemployed,150000,,No,
+30,80000,F,New York,Studio,16GB,400,Yes,,2,,,Very High,No,
+Unknown,60000,,Chicago,Studio,,400,Yes,Widowed,2,,50000,High,No,Yes
+45,80000,F,New York,3BHK,,Poor,Yes,Married,1,Business,10000,,No,No
+Unknown,1500000,Female,New York,4bhk,8GB,,Yes,Married,1,Self-Employed,10000,Low,No,Yes
+30,90000,,New York,2BHK,,Excellent,Yes,Married,0,Unemployed,,Medium,No,Yes
+,80000,,New York,Studio,32GB,300,Yes,Married,2,Self-Employed,,Low,No,Yes
+45,70000,M,Los Angeles,3BHK,2GB,Excellent,Yes,Married,1,,5000,,No,Yes
+Unknown,N/A,Female,Chicago,4bhk,2GB,300,Yes,Married,3,Salaried,20000,High,No,Yes
+30,90000,Female,New York,2BHK,8GB,,Yes,Married,1,,Unknown,High,No,No
+30,N/A,Male,Los Angeles,4bhk,32GB,,Yes,Widowed,,Self-Employed,5000,Low,No,Yes
+30,80000,M,Chicago,1BHK,8GB,700,No,Single,,,Unknown,Very High,No,Yes
+,1500000,Male,Chicago,2BHK,6GB,Excellent,Yes,Divorced,1,Salaried,10000,Very High,No,Yes
+Unknown,90000,M,New York,Studio,,600,Yes,,2,Business,Unknown,High,No,Yes
+,90000,F,Chicago,Studio,16GB,300,Yes,Divorced,2,Self-Employed,20000,Low,No,Yes
+,60000,F,Chicago,Studio,8GB,400,Yes,Divorced,N/A,,5000,Low,No,No
+30,N/A,Male,Chicago,2BHK,32GB,600,Yes,Single,,Self-Employed,,Low,No,Yes
+Unknown,50000,Other,New York,4bhk,8GB,Excellent,Yes,Single,3,Business,20000,,No,Yes
+30,1500000,Female,Los Angeles,4bhk,2GB,500,Yes,Single,2,,150000,Very High,No,Yes
+Unknown,1500000,M,,Studio,2GB,700,Yes,Married,0,,20000,Very High,No,Yes
+Unknown,,F,New York,Studio,2GB,700,Yes,Widowed,,Self-Employed,150000,,No,Yes
+30,70000,Male,New York,1BHK,8GB,Poor,Yes,Married,3,Self-Employed,5000,Medium,No,Yes
+35,90000,Other,New York,4bhk,,700,Yes,Widowed,3,Salaried,,,No,
+30,1500000,Male,New York,Studio,8GB,Poor,Yes,Widowed,2,Business,20000,Low,No,No
+30,,,New York,Studio,,,Yes,Divorced,3,Salaried,150000,,No,
+,90000,Male,Chicago,3BHK,32GB,Excellent,Yes,Divorced,2,,,Low,No,No
+,70000,,Los Angeles,4bhk,2GB,400,No,Widowed,1,Self-Employed,50000,High,No,
+,N/A,Female,Los Angeles,2BHK,,400,Yes,Widowed,,,50000,Low,No,No
+,70000,Female,,2BHK,6GB,400,Yes,Married,N/A,,50000,Very High,No,
+Unknown,1500000,Male,New York,2BHK,16GB,300,Yes,Married,1,Unemployed,Unknown,,No,
+,90000,,Chicago,Studio,,400,Yes,Divorced,,Unemployed,20000,Low,No,Yes
+,70000,Male,Chicago,3BHK,16GB,Excellent,Yes,Single,2,,5000,Medium,No,Yes
+25,90000,,Los Angeles,1BHK,16GB,300,Yes,Widowed,,Self-Employed,5000,High,No,
+45,80000,M,New York,3BHK,16GB,,Yes,Married,2,,Unknown,Medium,No,
+28,N/A,M,New York,3BHK,8GB,Excellent,Yes,Divorced,1,Unemployed,5000,Medium,No,No
+45,90000,Female,Chicago,1BHK,,500,Yes,Married,0,Self-Employed,150000,Medium,No,Yes
+Unknown,90000,Other,Chicago,4bhk,,,Yes,Widowed,0,,50000,High,No,No
+25,90000,F,Chicago,4bhk,16GB,300,Yes,Widowed,,Business,20000,High,No,
+45,70000,,Chicago,2BHK,2GB,Poor,Yes,,0,Business,5000,High,No,Yes
+Unknown,1500000,Male,New York,3BHK,,700,Yes,Single,2,,5000,High,No,Yes
+Unknown,1500000,Female,New York,3BHK,2GB,400,Yes,,3,Self-Employed,10000,Medium,No,Yes
+35,N/A,Male,Chicago,Studio,,500,Yes,Divorced,2,,10000,Very High,No,Yes
+,90000,Other,Los Angeles,1BHK,2GB,500,Yes,Married,3,,10000,Very High,No,Yes
+30,1500000,Female,Los Angeles,4bhk,,Excellent,No,Divorced,1,Unemployed,20000,High,No,Yes
+40,N/A,F,New York,1BHK,16GB,,Yes,Widowed,N/A,Business,50000,,No,
+45,70000,Male,Chicago,2BHK,4GB,Excellent,No,,3,Unemployed,,Low,No,Yes
+35,90000,,New York,1BHK,2GB,Excellent,Yes,,0,Unemployed,50000,,No,Yes
+,80000,,New York,4bhk,4GB,,Yes,,2,,50000,,No,Yes
+45,N/A,,Chicago,2BHK,4GB,Poor,Yes,Divorced,1,Unemployed,20000,,No,No
+Unknown,80000,Male,Los Angeles,Studio,16GB,400,No,Widowed,0,Business,150000,Very High,No,No
+30,N/A,Female,Chicago,Studio,6GB,Poor,Yes,Married,1,Unemployed,150000,Low,No,Yes
+,60000,Female,Chicago,3BHK,8GB,700,Yes,Married,N/A,Business,20000,,No,Yes
+,90000,M,Chicago,2BHK,6GB,400,Yes,Divorced,2,Unemployed,10000,High,No,No
+Unknown,N/A,F,Los Angeles,1BHK,,Excellent,Yes,,,Business,5000,Very High,No,Yes
+45,90000,Other,Los Angeles,Studio,2GB,,Yes,Single,2,Unemployed,Unknown,High,No,Yes
+,1500000,Male,New York,3BHK,8GB,400,Yes,Divorced,N/A,Unemployed,Unknown,High,No,Yes
+,90000,Male,New York,3BHK,,500,Yes,Divorced,2,Self-Employed,,,No,No
+Unknown,N/A,,New York,Studio,,600,Yes,Widowed,,Business,5000,High,No,Yes
+40,90000,Male,Chicago,3BHK,,400,Yes,Married,3,Business,,Low,No,Yes
+28,90000,,New York,Studio,32GB,Poor,Yes,Divorced,1,Business,10000,High,No,
+30,1500000,Male,Los Angeles,Studio,2GB,400,Yes,Divorced,,Salaried,,,No,
+,60000,Male,Los Angeles,Studio,2GB,800,Yes,,0,Unemployed,5000,High,No,
+40,60000,,,2BHK,8GB,300,Yes,,N/A,Business,5000,Very High,No,
+Unknown,80000,Male,Los Angeles,Studio,8GB,500,Yes,Single,3,Salaried,Unknown,Very High,Yes,No
+Unknown,60000,M,New York,4bhk,6GB,300,Yes,Widowed,0,Self-Employed,150000,Very High,No,
+40,60000,F,Chicago,2BHK,,,Yes,Single,0,Business,10000,Medium,No,No
+30,60000,M,Chicago,2BHK,8GB,,No,,N/A,Business,20000,Very High,No,Yes
+25,70000,,Los Angeles,2BHK,16GB,600,Yes,Married,3,Salaried,,Very High,No,Yes
+30,70000,Female,New York,3BHK,16GB,Excellent,No,,0,Unemployed,Unknown,Medium,No,Yes
+28,,Male,New York,3BHK,6GB,700,Yes,Widowed,0,Self-Employed,,Very High,No,No
+40,1500000,,Los Angeles,3BHK,6GB,400,Yes,,3,Business,,,No,
+Unknown,90000,,New York,Studio,16GB,,Yes,Widowed,2,Unemployed,20000,Very High,No,
+Unknown,70000,Male,New York,1BHK,2GB,800,Yes,Widowed,0,Self-Employed,10000,Very High,No,Yes
+,90000,Male,Chicago,4bhk,,500,Yes,Widowed,1,,5000,Medium,No,Yes
+30,60000,Other,Los Angeles,Studio,8GB,400,Yes,Widowed,3,,50000,,No,Yes
+30,70000,Male,Los Angeles,Studio,6GB,Excellent,Yes,Widowed,0,Self-Employed,,High,No,Yes
+30,60000,Male,Los Angeles,3BHK,2GB,700,Yes,Married,N/A,Salaried,50000,Low,No,
+Unknown,,F,New York,1BHK,2GB,300,Yes,Single,,Self-Employed,10000,,No,No
+30,70000,Male,New York,3BHK,16GB,700,Yes,Divorced,1,Self-Employed,50000,High,No,
+30,90000,,New York,3BHK,2GB,Poor,Yes,Single,,Salaried,,,No,Yes
+25,N/A,Female,Chicago,2BHK,,700,Yes,Widowed,,Salaried,20000,High,No,
+28,90000,Other,New York,3BHK,,,Yes,Married,0,Unemployed,50000,High,No,Yes
+,1500000,,Los Angeles,Studio,16GB,600,No,,1,Unemployed,10000,,No,Yes
+25,1500000,Male,Chicago,1BHK,8GB,700,Yes,Married,1,Salaried,10000,Medium,No,Yes
+25,,,New York,1BHK,2GB,600,Yes,Widowed,2,,150000,,No,No
+30,50000,M,New York,4bhk,2GB,700,Yes,Married,,,150000,,No,
+,70000,M,,2BHK,16GB,600,Yes,Married,1,Self-Employed,20000,High,No,Yes
+28,N/A,Male,Los Angeles,Studio,,800,Yes,Widowed,2,Business,50000,Low,No,
+40,70000,Female,New York,4bhk,8GB,500,Yes,Married,3,Self-Employed,50000,High,No,Yes
+28,,,Los Angeles,Studio,,,Yes,Divorced,2,Self-Employed,150000,Very High,No,No
+30,1500000,Male,Chicago,3BHK,32GB,Excellent,Yes,Divorced,N/A,Business,5000,,Yes,Yes
+25,1500000,Female,Los Angeles,Studio,,700,Yes,Married,0,Salaried,Unknown,,No,
+,70000,Male,New York,Studio,4GB,600,Yes,,3,,10000,Medium,No,
+30,80000,Male,New York,3BHK,,300,Yes,Widowed,3,Self-Employed,5000,High,No,Yes
+,80000,Male,Chicago,4bhk,2GB,400,Yes,Divorced,N/A,Business,10000,Medium,No,
+Unknown,90000,Male,New York,Studio,32GB,,Yes,,2,Unemployed,5000,,No,Yes
+40,1500000,Other,Chicago,3BHK,16GB,Excellent,Yes,Married,0,Self-Employed,150000,High,No,No
+28,,Male,Los Angeles,2BHK,8GB,Excellent,Yes,,2,,150000,High,No,Yes
+,90000,,Chicago,2BHK,2GB,300,Yes,Single,1,Salaried,Unknown,Very High,No,Yes
+25,N/A,Male,New York,4bhk,2GB,Excellent,Yes,Divorced,2,Self-Employed,5000,Very High,No,No
+Unknown,N/A,,Los Angeles,2BHK,2GB,Poor,No,Married,3,Self-Employed,10000,Low,No,
+40,60000,,New York,4bhk,32GB,,Yes,Widowed,0,Business,50000,Very High,No,Yes
+Unknown,1500000,F,Chicago,4bhk,16GB,400,Yes,Married,2,Unemployed,10000,High,No,
+28,70000,M,Chicago,1BHK,8GB,800,Yes,Widowed,0,Unemployed,,Very High,No,
+40,70000,Female,Chicago,2BHK,8GB,400,Yes,Married,0,Salaried,150000,Low,No,
+Unknown,60000,Other,Chicago,4bhk,4GB,700,No,,1,,20000,,No,Yes
+45,1500000,Male,Los Angeles,3BHK,8GB,Poor,Yes,,1,Salaried,20000,Very High,No,Yes
+40,90000,Male,Los Angeles,1BHK,32GB,,Yes,,3,Self-Employed,150000,High,No,Yes
+28,90000,Other,Chicago,1BHK,8GB,300,Yes,Single,N/A,Self-Employed,,,No,No
+,1500000,F,New York,Studio,16GB,Poor,Yes,Widowed,0,Unemployed,20000,High,No,Yes
+30,90000,Other,Chicago,2BHK,8GB,400,Yes,,N/A,,150000,,No,
+Unknown,90000,,New York,2BHK,8GB,Poor,Yes,Single,3,Business,20000,High,No,
+28,N/A,,Chicago,3BHK,32GB,400,Yes,Widowed,0,,150000,Very High,No,No
+28,80000,M,Los Angeles,1BHK,2GB,300,Yes,Married,0,Self-Employed,Unknown,Very High,No,No
+30,N/A,Female,,Studio,16GB,,Yes,Single,,Business,50000,Low,No,No
+,90000,Other,New York,Studio,16GB,500,Yes,Divorced,N/A,,50000,,Yes,Yes
+30,1500000,F,New York,Studio,32GB,800,Yes,Single,2,,10000,Low,No,Yes
+30,90000,,Chicago,Studio,,700,No,Single,1,Business,,Medium,No,No
+30,N/A,Male,New York,1BHK,8GB,Excellent,Yes,Widowed,2,Self-Employed,150000,Very High,No,
+40,N/A,M,Los Angeles,1BHK,8GB,400,Yes,Married,N/A,,5000,,No,Yes
+28,1500000,Male,Chicago,3BHK,,Poor,Yes,Divorced,1,Business,10000,Low,No,No
+,1500000,,New York,Studio,32GB,Excellent,Yes,,2,Self-Employed,10000,Low,No,No
+28,80000,Female,New York,3BHK,8GB,400,Yes,,,Business,150000,Medium,No,No
+25,70000,Male,Chicago,3BHK,8GB,500,Yes,Single,1,Business,150000,Low,No,Yes
+,N/A,Other,Chicago,3BHK,16GB,800,Yes,Widowed,0,,10000,High,No,Yes
+Unknown,90000,Other,Los Angeles,4bhk,16GB,300,Yes,Widowed,2,Self-Employed,10000,Very High,No,Yes
+30,90000,Male,Chicago,2BHK,,400,Yes,,1,,50000,Low,No,
+Unknown,1500000,,,1BHK,2GB,Excellent,Yes,Divorced,,Salaried,5000,Low,No,
+30,90000,,Chicago,3BHK,2GB,Poor,Yes,Married,1,Salaried,10000,Medium,No,
+40,90000,M,Chicago,3BHK,8GB,,Yes,Divorced,1,Self-Employed,50000,High,No,
+35,1500000,Male,New York,3BHK,6GB,500,Yes,Married,,Business,10000,Low,No,Yes
+Unknown,90000,,New York,Studio,,Excellent,Yes,,2,,20000,Very High,No,Yes
+30,N/A,Female,,Studio,16GB,800,Yes,Married,3,,10000,Very High,No,Yes
+,70000,Female,,2BHK,8GB,400,Yes,Widowed,2,Self-Employed,150000,Low,No,No
+Unknown,70000,Male,New York,4bhk,,300,Yes,Single,N/A,Self-Employed,,High,No,No
+Unknown,80000,Female,Los Angeles,Studio,8GB,Poor,Yes,Single,,Salaried,,Very High,No,Yes
+30,60000,F,Los Angeles,2BHK,16GB,500,Yes,,2,Unemployed,10000,Very High,No,Yes
+40,90000,Male,Los Angeles,4bhk,,Excellent,Yes,Widowed,1,Self-Employed,Unknown,High,No,
+30,90000,Male,Chicago,1BHK,6GB,Poor,Yes,Divorced,,Unemployed,20000,High,No,Yes
+,N/A,Male,New York,3BHK,,,Yes,Widowed,0,Self-Employed,5000,Low,No,No
+40,70000,Male,New York,Studio,2GB,Poor,Yes,Single,2,Business,10000,,No,
+,90000,M,Los Angeles,3BHK,8GB,,Yes,Single,,Business,5000,Medium,No,
+,80000,Male,New York,Studio,2GB,,Yes,Widowed,2,Salaried,20000,,No,Yes
+,N/A,F,,Studio,6GB,,Yes,Widowed,,Salaried,10000,,No,Yes
+30,1500000,Male,Los Angeles,4bhk,,500,Yes,Single,1,Unemployed,Unknown,Very High,No,Yes
+,1500000,F,Chicago,3BHK,6GB,Excellent,No,Divorced,0,Self-Employed,50000,High,No,Yes
+,90000,M,,Studio,,Excellent,Yes,,0,,Unknown,Very High,No,
+,1500000,Female,Los Angeles,Studio,,600,Yes,,N/A,Salaried,150000,Medium,No,
+45,90000,Male,Chicago,3BHK,2GB,600,Yes,Widowed,,,Unknown,Low,No,Yes
+40,70000,Male,Chicago,4bhk,,500,Yes,,2,,50000,Medium,No,
+30,60000,,Chicago,4bhk,16GB,300,Yes,Single,0,Self-Employed,150000,Very High,No,
+,70000,Male,Los Angeles,2BHK,8GB,Poor,Yes,Single,0,Unemployed,50000,Very High,No,Yes
+30,60000,Male,,3BHK,8GB,700,Yes,Widowed,3,Self-Employed,,Very High,No,
+Unknown,80000,F,New York,2BHK,4GB,Excellent,Yes,Widowed,3,Salaried,50000,Very High,No,No
+28,60000,Male,New York,2BHK,8GB,700,Yes,Widowed,0,,10000,,No,Yes
+Unknown,70000,,Los Angeles,4bhk,2GB,500,Yes,Divorced,,Self-Employed,5000,Low,No,
+,60000,F,Chicago,3BHK,2GB,Excellent,Yes,,N/A,Self-Employed,,,No,Yes
+30,60000,Other,New York,1BHK,,600,Yes,Widowed,0,Self-Employed,,Very High,No,
+Unknown,90000,,New York,Studio,2GB,500,Yes,Married,1,Salaried,5000,High,No,Yes
+Unknown,90000,Other,Los Angeles,Studio,2GB,,Yes,Married,2,Unemployed,,,No,Yes
+30,60000,M,,2BHK,2GB,600,Yes,Single,N/A,Self-Employed,50000,Very High,No,No
+,,,New York,1BHK,,Excellent,Yes,,1,Salaried,Unknown,Very High,No,Yes
+28,90000,Male,Chicago,3BHK,8GB,,Yes,Widowed,N/A,,20000,Low,No,
+Unknown,1500000,Female,Los Angeles,3BHK,8GB,Poor,Yes,Married,1,Business,50000,Medium,No,
+40,1500000,,Los Angeles,3BHK,16GB,800,Yes,,2,Salaried,150000,,No,Yes
+,50000,F,New York,1BHK,2GB,,Yes,Single,2,Business,150000,,No,Yes
+30,70000,Female,Los Angeles,1BHK,16GB,,Yes,Divorced,3,Self-Employed,Unknown,,No,No
+Unknown,70000,Male,New York,4bhk,4GB,800,Yes,,,Self-Employed,Unknown,Very High,No,
+30,50000,Male,,2BHK,2GB,,Yes,,1,Salaried,,Low,No,Yes
+Unknown,90000,Female,New York,1BHK,6GB,500,Yes,Divorced,3,Business,10000,Very High,No,Yes
+30,80000,Male,,3BHK,8GB,,Yes,,1,Self-Employed,10000,Very High,No,No
+28,N/A,Male,Chicago,Studio,4GB,700,Yes,Single,3,,,High,No,Yes
+28,1500000,,Los Angeles,3BHK,,400,Yes,Single,2,Unemployed,,Low,No,
+25,90000,M,Chicago,3BHK,,700,No,Divorced,N/A,Unemployed,Invalid#99,,No,No
+,,Other,Los Angeles,3BHK,8GB,Poor,Yes,Widowed,3,Self-Employed,5000,Medium,No,Yes
+,N/A,Female,,2BHK,,,Yes,Married,1,Business,20000,,No,Yes
+Unknown,80000,Other,Los Angeles,4bhk,6GB,300,Yes,Widowed,1,Self-Employed,20000,Very High,No,Yes
+45,80000,Male,New York,4bhk,32GB,400,Yes,,,Business,20000,Low,No,
+45,90000,Female,New York,Studio,8GB,600,Yes,Married,2,,20000,Low,No,
+45,80000,Other,New York,1BHK,16GB,800,Yes,Divorced,1,Business,Unknown,Low,No,
+,50000,,Los Angeles,3BHK,6GB,Excellent,No,Divorced,0,Self-Employed,Unknown,High,No,No
+,,M,Los Angeles,3BHK,,Poor,Yes,Married,N/A,,5000,,No,
+,1500000,Male,Los Angeles,2BHK,4GB,,Yes,Single,3,Salaried,10000,High,No,
+45,1500000,Male,Chicago,4bhk,2GB,Poor,Yes,Married,,Unemployed,,Medium,No,
+28,90000,,New York,1BHK,,500,Yes,,N/A,Self-Employed,150000,Very High,No,
+28,60000,M,Chicago,2BHK,16GB,600,Yes,Single,2,Self-Employed,10000,High,No,Yes
+28,80000,Other,New York,2BHK,16GB,,Yes,Divorced,,Self-Employed,50000,High,No,Yes
+Unknown,1500000,Female,Chicago,4bhk,8GB,300,Yes,Married,3,,Unknown,Very High,No,Yes
+,1500000,,New York,3BHK,16GB,Poor,Yes,Widowed,3,Salaried,20000,Low,No,Yes
+,1500000,Male,Chicago,2BHK,8GB,,Yes,Widowed,0,Business,20000,Very High,No,No
+Unknown,90000,Male,Los Angeles,3BHK,2GB,600,Yes,,2,Salaried,50000,,No,
+,1500000,Male,New York,Studio,8GB,Excellent,Yes,Widowed,,,10000,Very High,No,Yes
+30,90000,Male,Chicago,2BHK,6GB,,Yes,Married,,Self-Employed,20000,Low,No,No
+Unknown,90000,Male,New York,4bhk,8GB,700,Yes,Married,1,Unemployed,10000,Very High,No,Yes
+30,N/A,F,Chicago,4bhk,16GB,600,Yes,Widowed,0,Self-Employed,,High,No,Yes
+30,N/A,Male,New York,4bhk,2GB,300,Yes,Married,0,Business,50000,Medium,No,Yes
+30,1500000,Male,Los Angeles,2BHK,8GB,500,No,,,Unemployed,150000,High,No,
+40,N/A,Other,New York,Studio,2GB,,Yes,Single,,Self-Employed,10000,Medium,No,Yes
+40,1500000,F,Chicago,2BHK,8GB,500,Yes,,N/A,Unemployed,,Very High,No,Yes
+30,90000,Male,Los Angeles,Studio,4GB,,Yes,,N/A,Salaried,10000,,No,
+45,90000,Female,,3BHK,16GB,,Yes,Married,N/A,,10000,Very High,No,Yes
+25,70000,Male,Los Angeles,3BHK,2GB,,Yes,Single,0,Self-Employed,20000,Low,No,Yes
+25,90000,Male,,3BHK,8GB,,Yes,Married,1,Business,5000,Very High,No,
+40,N/A,Male,Chicago,2BHK,2GB,Excellent,Yes,Divorced,3,Salaried,Unknown,Medium,No,No
+45,,Other,Chicago,4bhk,2GB,500,Yes,Married,N/A,Self-Employed,10000,High,No,Yes
+,60000,,New York,4bhk,,Excellent,Yes,Married,1,Salaried,10000,,No,Yes
+,N/A,Male,Chicago,4bhk,,400,Yes,Married,2,Business,10000,Very High,No,
+35,60000,,New York,Studio,8GB,,Yes,Single,N/A,Self-Employed,5000,Very High,No,Yes
+45,70000,M,Chicago,Studio,,700,No,Married,3,Business,,High,No,No
+30,70000,,Chicago,3BHK,2GB,800,Yes,Single,2,Unemployed,150000,,No,No
+Unknown,90000,F,New York,Studio,2GB,,Yes,Widowed,2,Business,150000,Very High,No,Yes
+,1500000,,Chicago,1BHK,,700,Yes,Divorced,3,Unemployed,50000,Very High,No,Yes
+30,80000,Other,Los Angeles,1BHK,,400,Yes,Single,N/A,Self-Employed,20000,Medium,No,Yes
+,N/A,M,New York,1BHK,,700,No,Widowed,0,Unemployed,5000,Medium,No,Yes
+28,60000,Male,New York,2BHK,2GB,400,Yes,Single,3,Self-Employed,,Low,No,Yes
+,90000,Male,Los Angeles,2BHK,,700,Yes,Single,3,Self-Employed,10000,High,No,Yes
+Unknown,90000,M,New York,2BHK,16GB,,Yes,Divorced,3,,,,No,Yes
+30,N/A,Male,Los Angeles,Studio,,300,Yes,,2,Self-Employed,5000,Very High,No,No
+28,1500000,F,Los Angeles,3BHK,,700,Yes,,1,Unemployed,5000,Very High,No,
+25,,Female,Los Angeles,Studio,6GB,400,Yes,Single,0,,5000,Low,No,Yes
+28,70000,,Los Angeles,2BHK,2GB,600,Yes,Married,N/A,,50000,Very High,No,
+45,1500000,Other,Chicago,4bhk,16GB,Excellent,Yes,Widowed,N/A,Self-Employed,Unknown,High,No,Yes
+,70000,Other,Chicago,3BHK,2GB,700,Yes,Married,1,Business,20000,Low,No,
+45,60000,F,New York,2BHK,,800,Yes,Married,3,Business,50000,High,No,
+,90000,M,,Studio,2GB,700,Yes,Single,0,,50000,Low,No,Yes
+30,70000,M,Los Angeles,3BHK,2GB,600,Yes,Single,N/A,Self-Employed,Unknown,Very High,No,
+30,,Other,,4bhk,,600,Yes,Single,,Business,50000,Low,No,
+28,80000,M,,2BHK,4GB,700,Yes,Single,N/A,Self-Employed,5000,Medium,No,Yes
+28,90000,M,New York,3BHK,6GB,400,Yes,,3,Self-Employed,5000,,No,Yes
+,,Female,Los Angeles,2BHK,2GB,,No,Single,,,,Very High,No,Yes
+,60000,Female,Chicago,3BHK,16GB,500,Yes,,1,,10000,,No,
+45,90000,Other,Los Angeles,1BHK,4GB,700,Yes,,0,Salaried,50000,Very High,No,
+,1500000,Male,Los Angeles,3BHK,8GB,400,Yes,Single,1,Business,10000,,No,Yes
+25,70000,Male,Los Angeles,Studio,16GB,300,Yes,Divorced,1,Business,20000,Medium,No,No
+Unknown,60000,,New York,3BHK,,500,Yes,Widowed,0,Business,150000,,No,Yes
+,70000,F,New York,1BHK,16GB,400,Yes,Married,0,Unemployed,5000,Low,No,
+45,80000,,New York,4bhk,,600,Yes,,N/A,Self-Employed,,,No,
+30,,M,Los Angeles,3BHK,2GB,,Yes,Widowed,N/A,,20000,Very High,No,No
+30,1500000,Male,New York,3BHK,32GB,400,Yes,Divorced,0,Business,,High,No,Yes
+Unknown,1500000,F,Los Angeles,3BHK,16GB,500,Yes,Married,,Salaried,150000,,No,
+30,N/A,Male,Chicago,2BHK,16GB,600,Yes,Married,2,Business,150000,,Yes,Yes
+30,70000,Other,Los Angeles,4bhk,6GB,400,Yes,,N/A,Self-Employed,Unknown,,No,Yes
+45,90000,M,Chicago,1BHK,4GB,500,No,Single,2,Self-Employed,5000,Very High,No,No
+28,90000,Male,Los Angeles,1BHK,16GB,300,Yes,Divorced,,,20000,,No,Yes
+28,80000,M,Chicago,3BHK,,,Yes,,0,Unemployed,Unknown,Very High,No,Yes
+30,70000,Female,Chicago,Studio,16GB,400,Yes,Divorced,,,150000,Very High,No,
+Unknown,1500000,,New York,3BHK,6GB,Excellent,Yes,Single,N/A,Business,20000,High,No,No
+,70000,M,New York,Studio,4GB,,Yes,Single,1,Salaried,,Low,No,Yes
+45,90000,Male,New York,1BHK,,Poor,Yes,,0,,Unknown,Very High,No,Yes
+,50000,Male,New York,3BHK,16GB,,Yes,Single,3,Unemployed,Unknown,Medium,No,
+28,N/A,F,Los Angeles,2BHK,2GB,,Yes,Widowed,2,,5000,,No,
+28,60000,Female,New York,Studio,2GB,300,No,Married,,Self-Employed,10000,Medium,No,
+30,90000,F,Chicago,4bhk,32GB,600,Yes,,0,Business,,,No,Yes
+35,80000,F,Los Angeles,3BHK,2GB,500,Yes,Divorced,,Business,,High,No,Yes
+Unknown,80000,,New York,2BHK,2GB,400,Yes,Widowed,0,Business,Unknown,Very High,No,Yes
+45,90000,,,4bhk,,300,Yes,,N/A,Business,Unknown,Low,No,
+,70000,Male,Chicago,1BHK,,800,Yes,Single,N/A,Business,5000,Very High,No,Yes
+28,1500000,,New York,4bhk,32GB,,Yes,Single,N/A,Business,10000,,Yes,Yes
+28,60000,Male,Los Angeles,2BHK,2GB,500,Yes,Single,,Salaried,,Low,No,Yes
+35,90000,Female,New York,2BHK,2GB,Excellent,Yes,Single,3,Unemployed,150000,Very High,No,Yes
+30,70000,,New York,3BHK,,500,Yes,Divorced,N/A,Business,50000,Low,No,Yes
+,70000,M,Los Angeles,3BHK,2GB,600,Yes,Widowed,0,Unemployed,50000,,No,No
+30,90000,,Chicago,3BHK,4GB,600,Yes,Married,N/A,Business,10000,High,No,No
+,1500000,Other,Los Angeles,Studio,8GB,700,No,Divorced,1,,20000,High,No,Yes
+30,70000,,New York,4bhk,16GB,500,Yes,Divorced,N/A,Business,5000,Very High,No,Yes
+28,N/A,Male,Chicago,4bhk,,Excellent,Yes,Married,,Self-Employed,10000,Medium,No,Yes
+28,90000,Male,Los Angeles,1BHK,,Poor,Yes,Married,3,Salaried,50000,,No,Yes
+,90000,Male,Los Angeles,4bhk,8GB,700,Yes,Single,1,,Unknown,Very High,No,Yes
+30,N/A,F,Chicago,2BHK,2GB,500,Yes,Divorced,,,50000,Very High,No,
+Unknown,70000,M,Chicago,4bhk,32GB,,Yes,,,Self-Employed,Unknown,High,No,Yes
+Unknown,70000,,Los Angeles,3BHK,6GB,300,Yes,Married,,Business,5000,Low,No,
+Unknown,90000,Male,New York,3BHK,16GB,400,Yes,Married,0,Salaried,Unknown,,No,Yes
+35,90000,Male,New York,2BHK,2GB,700,No,Widowed,,,10000,Low,No,Yes
+28,1500000,M,New York,2BHK,2GB,500,Yes,,0,Salaried,Unknown,,No,Yes
+28,90000,,Chicago,2BHK,32GB,400,Yes,,,,20000,Medium,No,Yes
+,90000,,Chicago,3BHK,8GB,300,Yes,Married,2,Business,10000,High,No,
+40,80000,Other,Los Angeles,4bhk,,Poor,Yes,Single,1,,5000,Medium,No,Yes
+45,70000,,Chicago,Studio,32GB,600,Yes,Widowed,2,,10000,Very High,No,Yes
+Unknown,70000,Other,Chicago,1BHK,16GB,300,Yes,,,Unemployed,20000,High,No,Yes
+28,90000,Other,New York,4bhk,2GB,400,Yes,Married,1,Business,5000,Very High,No,No
+28,1500000,F,,3BHK,8GB,300,Yes,,1,Self-Employed,50000,Medium,No,
+,60000,Other,Los Angeles,4bhk,16GB,400,Yes,Widowed,3,Self-Employed,20000,,No,Yes
+30,70000,Male,New York,2BHK,,800,Yes,Widowed,2,Business,5000,Very High,No,Yes
+,80000,,Chicago,2BHK,2GB,600,Yes,Divorced,3,Self-Employed,150000,Low,No,Yes
+40,90000,F,Chicago,3BHK,8GB,700,Yes,Married,1,Business,Unknown,,No,Yes
+Unknown,60000,Male,New York,1BHK,,500,No,Widowed,0,Self-Employed,10000,,No,Yes
+40,1500000,Male,Chicago,Studio,,500,Yes,Divorced,1,Unemployed,5000,Medium,No,No
+,1500000,Female,New York,2BHK,6GB,600,Yes,Divorced,3,Self-Employed,10000,Medium,No,Yes
+30,80000,Female,New York,1BHK,16GB,Poor,Yes,,2,,Unknown,High,No,
+25,1500000,M,Chicago,2BHK,32GB,Excellent,Yes,,,Business,5000,High,No,Yes
+25,90000,,New York,3BHK,16GB,Poor,Yes,Divorced,,Salaried,50000,Low,No,Yes
+28,80000,F,,2BHK,,,Yes,,2,Salaried,150000,,No,
+40,,F,Los Angeles,Studio,16GB,400,Yes,Widowed,,Business,150000,Low,Yes,
+,70000,,New York,2BHK,8GB,400,Yes,Single,,Unemployed,20000,Low,No,
+30,1500000,Other,New York,4bhk,6GB,300,Yes,Widowed,3,Self-Employed,5000,Medium,No,Yes
+25,,Female,New York,3BHK,6GB,400,Yes,Divorced,2,Unemployed,Unknown,Low,No,No
+,70000,,New York,3BHK,4GB,,Yes,Divorced,N/A,Salaried,5000,Low,No,Yes
+Unknown,N/A,Male,Chicago,Studio,2GB,,Yes,Widowed,0,Business,10000,Very High,No,Yes
+30,70000,,New York,2BHK,2GB,600,Yes,,0,Business,,High,No,Yes
+,1500000,Female,Los Angeles,Studio,,800,Yes,,,Unemployed,5000,High,No,Yes
+,90000,M,Chicago,1BHK,,Poor,Yes,Divorced,0,Unemployed,150000,,No,Yes
+Unknown,90000,M,New York,4bhk,4GB,600,Yes,Married,2,Self-Employed,150000,High,No,No
+28,80000,,,3BHK,16GB,300,No,,2,,150000,,No,Yes
+Unknown,80000,Other,New York,3BHK,16GB,Poor,Yes,Widowed,1,,50000,Very High,No,Yes
+Unknown,90000,Female,Chicago,Studio,8GB,Poor,Yes,,1,Self-Employed,5000,High,No,
+,80000,Male,New York,3BHK,2GB,300,Yes,Widowed,0,,20000,Very High,No,Yes
+28,50000,Female,New York,4bhk,8GB,Excellent,Yes,Divorced,N/A,Salaried,5000,High,No,
+45,1500000,M,Los Angeles,4bhk,2GB,600,Yes,,1,,,High,No,Yes
+30,60000,Male,Chicago,1BHK,6GB,800,Yes,Widowed,1,Self-Employed,150000,Very High,No,Yes
+Unknown,N/A,,,Studio,8GB,400,Yes,Divorced,2,,10000,Low,No,
+,90000,Female,Chicago,3BHK,32GB,600,No,Married,N/A,Business,150000,Low,No,Yes
+,60000,M,Chicago,1BHK,8GB,800,No,Widowed,,Unemployed,5000,Low,No,
+40,,Female,Los Angeles,Studio,,700,Yes,Married,0,Salaried,50000,Low,No,Yes
+30,,Male,Los Angeles,3BHK,16GB,600,Yes,Married,1,Business,Unknown,High,No,No
+28,N/A,Female,Chicago,2BHK,4GB,500,Yes,Single,N/A,Business,5000,Medium,No,Yes
+45,1500000,F,New York,Studio,8GB,Excellent,Yes,,N/A,Self-Employed,5000,Very High,No,Yes
+,1500000,Male,Los Angeles,2BHK,,500,Yes,Widowed,0,Unemployed,20000,Medium,No,
+Unknown,N/A,Other,New York,Studio,2GB,Excellent,Yes,Married,N/A,Unemployed,50000,Medium,No,Yes
+30,80000,,Los Angeles,1BHK,,400,Yes,Single,N/A,Salaried,,,No,Yes
+30,70000,Male,Chicago,3BHK,16GB,600,Yes,Divorced,N/A,Self-Employed,Unknown,Low,No,Yes
+28,1500000,Male,Chicago,3BHK,8GB,,Yes,Widowed,1,Salaried,150000,High,No,Yes
+25,60000,,Los Angeles,3BHK,16GB,600,Yes,Married,0,,10000,Low,No,Yes
+,50000,Other,Los Angeles,2BHK,2GB,Poor,Yes,,N/A,Business,5000,Low,No,No
+,70000,Male,New York,2BHK,,Excellent,Yes,Single,N/A,Salaried,,Medium,No,Yes
+25,1500000,F,Los Angeles,1BHK,2GB,300,Yes,Married,1,Business,Unknown,,No,Yes
+,50000,F,New York,1BHK,32GB,Poor,Yes,,0,Self-Employed,10000,Low,No,No
+30,60000,Male,Los Angeles,3BHK,32GB,,Yes,Married,2,,,Very High,No,No
+30,1500000,Other,Los Angeles,1BHK,16GB,300,Yes,Widowed,1,Self-Employed,50000,Very High,No,Yes
+35,90000,Female,New York,Studio,8GB,Excellent,Yes,Widowed,0,,50000,Low,No,Yes
+,80000,Male,Los Angeles,3BHK,8GB,400,Yes,Widowed,N/A,,Unknown,Medium,No,No
+40,70000,Female,Chicago,Studio,,600,Yes,Single,0,Business,150000,Medium,No,
+30,N/A,,Chicago,1BHK,,Excellent,Yes,Widowed,0,Self-Employed,10000,High,No,Yes
+,60000,Male,Los Angeles,4bhk,8GB,Excellent,Yes,,,Self-Employed,50000,,No,Yes
+30,60000,,,2BHK,2GB,600,No,Married,0,Salaried,Unknown,Medium,No,No
+35,70000,Other,Chicago,3BHK,2GB,,Yes,Divorced,2,Self-Employed,50000,High,No,No
+30,1500000,F,,Studio,8GB,,Yes,,0,Salaried,50000,Very High,No,
+28,1500000,Female,Los Angeles,Studio,2GB,800,Yes,,2,Unemployed,,Very High,No,No
+28,70000,Male,Chicago,Studio,8GB,,Yes,Widowed,N/A,Unemployed,,Very High,No,Yes
+28,,Male,New York,3BHK,8GB,300,Yes,Single,2,Unemployed,50000,Low,No,Yes
+,90000,,Los Angeles,Studio,6GB,Poor,Yes,Married,N/A,Self-Employed,20000,,No,No
+Unknown,1500000,F,New York,2BHK,16GB,700,Yes,Single,N/A,Self-Employed,,High,No,Yes
+40,N/A,M,,2BHK,6GB,400,Yes,Married,2,Salaried,10000,,No,
+Unknown,N/A,F,Los Angeles,Studio,16GB,,No,Married,1,,Unknown,Low,No,Yes
+30,N/A,Other,New York,1BHK,8GB,Poor,Yes,Single,3,Salaried,Unknown,High,No,No
+,50000,,Chicago,4bhk,,300,Yes,,0,Unemployed,150000,High,No,No
+Unknown,90000,Other,Chicago,2BHK,8GB,800,Yes,Married,,Salaried,10000,Medium,No,Yes
+,N/A,,Los Angeles,1BHK,8GB,700,Yes,Single,3,,10000,,No,
+,90000,,,4bhk,8GB,Poor,Yes,Married,0,Self-Employed,10000,,No,No
+30,1500000,,Los Angeles,1BHK,32GB,300,Yes,Divorced,0,Salaried,150000,Medium,No,Yes
+28,90000,Female,Los Angeles,2BHK,,700,Yes,,N/A,Unemployed,10000,Very High,Yes,
+28,80000,,Chicago,4bhk,16GB,400,Yes,Widowed,0,Unemployed,5000,Low,No,Yes
+,60000,,New York,Studio,8GB,400,Yes,Married,,Self-Employed,150000,,No,Yes
+30,80000,,,3BHK,8GB,Poor,No,Divorced,0,Salaried,Unknown,Medium,No,Yes
+30,90000,Other,New York,3BHK,16GB,,Yes,Widowed,2,,5000,High,No,Yes
+30,90000,M,Chicago,3BHK,32GB,500,Yes,Widowed,3,Self-Employed,150000,Medium,No,Yes
+,80000,,New York,Studio,4GB,300,Yes,Married,2,Salaried,50000,Very High,No,Yes
+28,80000,M,New York,1BHK,,,Yes,Single,,Business,50000,Low,No,Yes
+30,90000,M,Los Angeles,2BHK,6GB,,Yes,Married,0,Unemployed,Unknown,Very High,No,No
+40,70000,Male,New York,3BHK,8GB,600,Yes,Divorced,,,50000,High,No,No
+Unknown,90000,Female,New York,1BHK,32GB,800,Yes,Widowed,N/A,,10000,High,No,Yes
+30,70000,Other,New York,3BHK,2GB,500,Yes,Married,2,,150000,High,No,Yes
+,1500000,Female,New York,Studio,8GB,,Yes,Single,2,Unemployed,5000,High,No,
+,60000,M,Chicago,Studio,6GB,Poor,Yes,Married,1,Salaried,10000,Medium,No,
+40,,Male,New York,2BHK,,800,Yes,,0,Self-Employed,50000,High,No,Yes
+30,70000,,New York,1BHK,,700,No,Single,N/A,Salaried,,High,No,
+25,90000,,,3BHK,8GB,700,Yes,Divorced,2,Self-Employed,5000,Medium,No,Yes
+30,,M,Los Angeles,Studio,2GB,300,Yes,Widowed,2,,10000,High,No,No
+,90000,Female,,Studio,6GB,Poor,Yes,Married,N/A,Salaried,150000,Very High,No,Yes
+28,1500000,Male,New York,Studio,,500,Yes,Single,,,Unknown,Very High,No,No
+45,N/A,Male,New York,3BHK,8GB,,Yes,,,Business,10000,,No,
+,80000,Male,,2BHK,8GB,700,Yes,Single,0,,,Very High,No,Yes
+,80000,M,New York,4bhk,,300,Yes,,1,,50000,Low,No,Yes
+,60000,F,Chicago,3BHK,2GB,400,Yes,Divorced,2,Self-Employed,5000,Low,No,
+40,80000,Male,New York,1BHK,8GB,600,Yes,Widowed,1,Business,Unknown,Low,No,No
+28,1500000,Male,Chicago,3BHK,8GB,800,Yes,Divorced,,,5000,Medium,No,Yes
+40,50000,,Chicago,Studio,16GB,700,Yes,Married,,,Unknown,Very High,No,Yes
+30,1500000,Male,New York,4bhk,2GB,,No,Single,3,Business,150000,Low,No,Yes
+30,60000,,Los Angeles,2BHK,2GB,400,No,,0,Business,5000,,No,Yes
+Unknown,,,Los Angeles,3BHK,16GB,700,Yes,,3,Salaried,50000,Medium,No,No
+,80000,Other,Los Angeles,3BHK,8GB,500,Yes,Single,3,Self-Employed,150000,,No,
+Unknown,80000,,New York,Studio,32GB,400,Yes,Single,3,Business,150000,Very High,No,
+30,90000,Female,New York,Studio,2GB,700,Yes,Married,0,Business,Unknown,High,No,Yes
+40,70000,,,3BHK,16GB,Poor,Yes,Divorced,0,Unemployed,20000,,No,
+30,1500000,Male,Los Angeles,1BHK,8GB,,No,,N/A,Business,5000,High,No,Yes
+28,70000,Female,New York,2BHK,8GB,500,Yes,Married,1,Self-Employed,5000,Medium,No,No
+25,1500000,Male,,1BHK,,500,Yes,Divorced,1,,10000,,No,Yes
+40,90000,Male,,2BHK,,400,Yes,Married,N/A,,Unknown,,No,
+28,60000,Female,Los Angeles,Studio,,300,Yes,,N/A,,,Medium,No,Yes
+25,70000,M,New York,4bhk,16GB,,Yes,Single,,,20000,Medium,No,
+,80000,,Chicago,3BHK,8GB,800,Yes,Single,3,Unemployed,50000,Low,No,Yes
+,N/A,F,Los Angeles,2BHK,2GB,700,Yes,Divorced,N/A,Business,10000,Very High,No,No
+,70000,Male,New York,Studio,6GB,,Yes,Widowed,2,,20000,,No,No
+40,,Female,,4bhk,2GB,600,Yes,Divorced,1,Salaried,Unknown,,No,Yes
+28,90000,Other,Los Angeles,Studio,16GB,Poor,Yes,Widowed,N/A,,20000,Medium,Yes,No
+,60000,Male,New York,Studio,4GB,,Yes,Married,2,Business,150000,Medium,No,
+25,N/A,Other,Los Angeles,Studio,8GB,,Yes,Married,2,,5000,Very High,No,Yes
+30,90000,Female,New York,3BHK,16GB,600,Yes,,2,Unemployed,150000,Medium,No,
+45,70000,Other,New York,3BHK,8GB,400,Yes,Widowed,,Self-Employed,5000,High,No,Yes
+,1500000,Other,Chicago,Studio,8GB,500,Yes,,,Self-Employed,10000,High,No,Yes
+,N/A,Female,New York,4bhk,32GB,700,Yes,Single,2,Business,Unknown,High,No,Yes
+,80000,Male,Chicago,Studio,2GB,Excellent,Yes,Widowed,,Self-Employed,Unknown,High,No,No
+,70000,Male,Los Angeles,3BHK,32GB,600,Yes,Divorced,3,Self-Employed,20000,Very High,No,Yes
+30,70000,Female,New York,1BHK,,600,Yes,Single,2,Salaried,10000,,No,Yes
+,90000,Female,Chicago,2BHK,2GB,700,Yes,Single,3,Business,Unknown,High,No,
+,N/A,F,New York,4bhk,8GB,,Yes,Divorced,3,Business,,Medium,No,Yes
+25,80000,Male,Chicago,3BHK,8GB,500,Yes,Single,2,Self-Employed,,High,No,No
+40,90000,Male,New York,2BHK,16GB,,Yes,Widowed,1,Self-Employed,150000,Very High,No,Yes
+30,60000,F,New York,2BHK,8GB,Excellent,Yes,,2,Self-Employed,5000,Medium,No,Yes
+30,N/A,,Chicago,2BHK,16GB,Poor,Yes,Single,2,Unemployed,20000,High,No,No
+30,90000,Other,Chicago,3BHK,16GB,700,Yes,Widowed,,,50000,,No,Yes
+30,60000,Other,Chicago,3BHK,8GB,300,Yes,Married,2,Unemployed,5000,Medium,No,
+40,70000,M,Chicago,4bhk,16GB,Excellent,Yes,Widowed,1,Business,10000,Medium,No,Yes
+30,1500000,Other,New York,Studio,4GB,600,Yes,,,Salaried,Unknown,,No,
+28,60000,Male,Los Angeles,Studio,32GB,300,Yes,Widowed,0,,5000,Medium,No,Yes
+30,1500000,Other,New York,Studio,2GB,700,Yes,Divorced,0,Salaried,50000,High,No,No
+28,70000,,New York,2BHK,16GB,400,Yes,,3,Business,50000,Medium,Yes,Yes
+28,1500000,F,Los Angeles,1BHK,2GB,500,Yes,Married,3,Business,,High,No,Yes
+,70000,,Chicago,1BHK,32GB,500,Yes,Divorced,1,Salaried,10000,,No,No
+,,M,New York,4bhk,,800,Yes,Widowed,N/A,Salaried,5000,Low,No,
+,N/A,Male,New York,2BHK,8GB,Excellent,Yes,,0,Salaried,20000,,No,
+Unknown,,Male,,2BHK,16GB,Excellent,Yes,Married,3,Business,5000,High,No,Yes
+Unknown,70000,Male,New York,Studio,6GB,600,Yes,Divorced,0,Self-Employed,,Very High,No,Yes
+28,70000,M,Chicago,2BHK,8GB,300,Yes,Married,1,Salaried,150000,,No,No
+28,80000,,,3BHK,2GB,Excellent,Yes,Widowed,1,,50000,Very High,No,Yes
+28,60000,F,New York,3BHK,8GB,700,Yes,Married,N/A,Business,10000,Very High,No,
+30,70000,M,Los Angeles,4bhk,,400,Yes,Single,N/A,Unemployed,10000,High,No,
+30,90000,Male,Chicago,3BHK,16GB,800,Yes,Divorced,,Unemployed,20000,High,No,
+40,60000,Female,New York,Studio,,600,Yes,Married,1,,10000,Low,No,No
+,70000,Male,Los Angeles,1BHK,16GB,,Yes,Widowed,3,Self-Employed,,Medium,No,Yes
+Unknown,60000,Male,New York,3BHK,16GB,,Yes,Widowed,0,Salaried,,,No,
+,1500000,Male,,Studio,6GB,300,Yes,Married,2,Business,,High,No,No
+,N/A,Male,,4bhk,32GB,,Yes,Widowed,N/A,Salaried,10000,,No,Yes
+,80000,,Los Angeles,1BHK,16GB,Poor,Yes,,2,Business,10000,Very High,No,
+30,,Male,Los Angeles,2BHK,16GB,500,Yes,,3,Unemployed,,Medium,No,Yes
+28,60000,F,New York,4bhk,16GB,400,Yes,,N/A,Salaried,10000,Low,No,Yes
+,90000,,Chicago,Studio,6GB,800,Yes,Single,2,,10000,,No,No
+45,60000,M,Chicago,3BHK,32GB,Poor,Yes,Married,3,Self-Employed,50000,Medium,No,No
+25,80000,,Los Angeles,3BHK,8GB,Poor,No,Single,0,,5000,Low,No,No
+30,60000,,,3BHK,2GB,Poor,Yes,Widowed,3,Self-Employed,Unknown,,No,Yes
+45,90000,Male,Chicago,Studio,,,Yes,Single,,Salaried,10000,Medium,No,No
+Unknown,1500000,Male,New York,3BHK,16GB,Poor,No,Widowed,N/A,Salaried,Unknown,High,No,
+Unknown,1500000,Male,Chicago,4bhk,,500,Yes,Widowed,1,Self-Employed,150000,,No,
+28,1500000,,Chicago,3BHK,32GB,600,Yes,Divorced,0,Unemployed,Unknown,Medium,No,Yes
+25,60000,F,New York,Studio,,700,Yes,,2,Business,50000,Low,No,Yes
+45,1500000,,Los Angeles,3BHK,6GB,400,Yes,Widowed,N/A,,10000,Medium,No,Yes
+,70000,M,Chicago,Studio,2GB,600,Yes,Divorced,1,,,High,No,
+,1500000,,New York,Studio,16GB,400,Yes,,3,,Unknown,,No,Yes
+,70000,Other,Los Angeles,3BHK,32GB,600,No,Widowed,1,Salaried,10000,,No,
+Unknown,60000,M,Chicago,3BHK,,600,Yes,Widowed,N/A,,20000,,No,No
+30,90000,,New York,Studio,32GB,500,Yes,Single,N/A,Business,150000,High,No,Yes
+Unknown,90000,,New York,1BHK,2GB,Poor,No,Single,,Business,,Low,No,No
+45,70000,,Los Angeles,Studio,16GB,,Yes,,,Self-Employed,20000,,No,No
+45,1500000,F,New York,Studio,2GB,600,Yes,Widowed,1,Salaried,20000,Low,No,No
+30,N/A,F,New York,2BHK,,,Yes,Married,3,Business,Unknown,Medium,No,Yes
+,1500000,Male,New York,3BHK,,,Yes,Single,1,Unemployed,20000,Low,No,Yes
+28,70000,,,3BHK,4GB,500,Yes,,N/A,Salaried,50000,Low,No,No
+30,60000,,Los Angeles,1BHK,8GB,400,Yes,Widowed,N/A,Salaried,50000,,No,
+Unknown,90000,Male,Los Angeles,3BHK,,500,Yes,Widowed,2,Business,Unknown,Very High,No,Yes
+30,1500000,Female,Chicago,Studio,8GB,700,No,Married,,Unemployed,10000,Very High,No,
+30,N/A,Male,Chicago,2BHK,,300,Yes,,2,Self-Employed,5000,High,No,
+30,1500000,F,Chicago,4bhk,32GB,300,Yes,Widowed,0,Business,10000,High,No,No
+28,90000,F,Chicago,4bhk,8GB,700,Yes,Single,N/A,Unemployed,10000,Very High,No,Yes
+30,80000,Other,Chicago,4bhk,32GB,Poor,Yes,Married,2,Salaried,10000,Medium,No,No
+28,1500000,Female,Los Angeles,4bhk,,400,Yes,,1,Unemployed,10000,,No,Yes
+,N/A,Other,New York,1BHK,,,Yes,Married,,Salaried,,,No,Yes
+Unknown,,M,Los Angeles,2BHK,6GB,700,Yes,Single,,Business,5000,Medium,Yes,No
+Unknown,N/A,Female,Los Angeles,2BHK,,400,Yes,,3,Business,,Medium,No,Yes
+,90000,Female,Chicago,3BHK,6GB,400,Yes,Married,1,,20000,Very High,No,
+30,1500000,Male,Chicago,Studio,,Poor,Yes,Divorced,3,,150000,High,No,
+,90000,F,Los Angeles,4bhk,8GB,600,Yes,Single,2,,10000,Medium,No,Yes
+Unknown,1500000,F,Chicago,3BHK,8GB,600,Yes,Single,0,Business,150000,High,No,Yes
+30,1500000,Female,Los Angeles,4bhk,8GB,600,Yes,Single,1,Self-Employed,50000,Low,No,
+Unknown,70000,Male,,3BHK,,600,Yes,Divorced,1,Business,Unknown,,No,Yes
+30,1500000,,,2BHK,32GB,Excellent,Yes,Divorced,1,Unemployed,Unknown,Very High,No,
+30,90000,M,Los Angeles,1BHK,16GB,Excellent,Yes,Widowed,3,Business,,,No,No
+45,60000,Male,New York,Studio,6GB,800,Yes,Married,2,Business,,Very High,No,
+,,F,Chicago,1BHK,8GB,,Yes,Widowed,1,Salaried,50000,Low,No,
+30,80000,Male,,3BHK,,500,Yes,Married,1,Salaried,10000,,No,
+,90000,Male,Los Angeles,Studio,16GB,600,Yes,Divorced,,Salaried,150000,Low,No,
+30,N/A,Other,Los Angeles,2BHK,,Poor,Yes,Divorced,0,Business,150000,Very High,No,Yes
+30,90000,F,Los Angeles,3BHK,32GB,400,Yes,Widowed,,Self-Employed,5000,Medium,Yes,
+30,60000,M,Los Angeles,1BHK,32GB,800,Yes,,,Unemployed,20000,,No,Yes
+Unknown,90000,Female,Chicago,Studio,4GB,Excellent,Yes,Widowed,0,Unemployed,Unknown,Low,No,No
+45,90000,F,New York,3BHK,8GB,600,Yes,Married,2,Self-Employed,20000,,No,
+30,70000,M,Chicago,3BHK,4GB,,Yes,Widowed,,Self-Employed,5000,,No,Yes
+30,90000,F,Chicago,4bhk,6GB,800,Yes,Single,2,Unemployed,,,No,Yes
+30,70000,,New York,4bhk,16GB,600,Yes,Married,,,150000,High,No,
+28,1500000,F,,1BHK,2GB,400,Yes,Married,N/A,Salaried,Unknown,Low,No,No
+40,80000,M,Los Angeles,3BHK,8GB,500,Yes,,0,Salaried,20000,Low,No,
+45,80000,Male,,Studio,4GB,,Yes,Divorced,,Unemployed,,,No,Yes
+Unknown,90000,F,New York,1BHK,,700,Yes,Married,N/A,Self-Employed,5000,Medium,No,
+40,,Other,Chicago,Studio,32GB,700,Yes,Divorced,3,,20000,,No,Yes
+,N/A,,New York,1BHK,2GB,,Yes,Widowed,N/A,Unemployed,150000,High,No,Yes
+45,70000,F,Chicago,3BHK,32GB,800,No,Single,1,Salaried,10000,Very High,No,Yes
+,90000,Female,New York,Studio,2GB,Excellent,Yes,,,Business,,High,No,No
+,90000,,New York,1BHK,8GB,,Yes,Divorced,N/A,Self-Employed,5000,Medium,No,
+30,60000,F,New York,4bhk,2GB,800,Yes,Married,2,Business,20000,,No,
+30,80000,M,New York,2BHK,8GB,Poor,Yes,Divorced,3,Unemployed,150000,Low,No,
+,70000,Male,Los Angeles,2BHK,8GB,,Yes,Married,,Salaried,10000,,No,Yes
+40,90000,Male,Chicago,Studio,16GB,,Yes,Divorced,1,,10000,Medium,No,No
+30,90000,,Chicago,2BHK,16GB,700,Yes,Married,N/A,Business,5000,Low,No,Yes
+28,60000,Male,Los Angeles,Studio,6GB,700,Yes,Widowed,3,,50000,High,No,
+Unknown,N/A,,Los Angeles,2BHK,16GB,Poor,Yes,Married,,Salaried,150000,Very High,No,Yes
+40,80000,Male,New York,2BHK,8GB,500,Yes,Married,3,Business,150000,Very High,No,
+,N/A,M,Los Angeles,1BHK,,800,Yes,Single,1,,Unknown,,No,Yes
+Unknown,70000,Male,Los Angeles,2BHK,16GB,400,Yes,Married,N/A,,5000,High,No,
+,60000,,Los Angeles,Studio,16GB,300,No,Single,3,Business,10000,Medium,No,No
+30,60000,Male,New York,Studio,8GB,Excellent,Yes,,3,Salaried,10000,Very High,No,No
+35,60000,Other,Los Angeles,Studio,8GB,,Yes,Single,0,,5000,High,No,
+30,70000,Male,Chicago,3BHK,,Poor,Yes,Widowed,3,Unemployed,50000,,No,Yes
+,,F,Los Angeles,3BHK,2GB,700,Yes,Single,0,Business,Unknown,Low,No,Yes
+45,90000,,New York,Studio,,400,Yes,,N/A,Self-Employed,20000,,No,No
+30,80000,Other,Los Angeles,Studio,6GB,700,Yes,Widowed,,Self-Employed,5000,,No,
+Unknown,1500000,F,New York,Studio,32GB,700,Yes,Divorced,,Salaried,Unknown,High,No,
+30,70000,Female,Los Angeles,Studio,2GB,,Yes,Divorced,N/A,Unemployed,150000,Very High,No,No
+28,1500000,Female,New York,4bhk,,600,Yes,Single,N/A,,Unknown,High,No,Yes
+40,70000,Male,Los Angeles,2BHK,,,Yes,Single,2,Self-Employed,,Low,No,No
+25,90000,F,Chicago,3BHK,2GB,Excellent,Yes,,N/A,Salaried,10000,High,No,Yes
+25,80000,Male,Chicago,3BHK,6GB,800,Yes,,3,Unemployed,20000,Medium,No,Yes
+35,90000,Other,New York,4bhk,8GB,600,Yes,Married,,Unemployed,5000,,No,Yes
+25,90000,,Chicago,2BHK,,400,Yes,,1,Salaried,10000,Very High,No,Yes
+25,70000,Male,New York,Studio,2GB,600,Yes,Married,,Salaried,,Low,No,Yes
+,60000,F,Chicago,Studio,32GB,300,Yes,Widowed,0,,,,Yes,No
+30,70000,,New York,Studio,2GB,600,Yes,Single,,Salaried,10000,High,No,No
+Unknown,1500000,Male,New York,1BHK,,800,Yes,Widowed,2,,50000,Medium,No,Yes
+28,80000,,Chicago,Studio,,Poor,Yes,,N/A,,Unknown,High,No,
+40,90000,,New York,3BHK,16GB,400,Yes,Widowed,N/A,Business,5000,,No,Yes
+28,60000,Male,Los Angeles,4bhk,,,Yes,Widowed,,Unemployed,5000,Low,No,Yes
+28,N/A,Male,,2BHK,16GB,Poor,Yes,Widowed,1,Unemployed,5000,Very High,No,Yes
+30,N/A,F,Los Angeles,Studio,16GB,Poor,Yes,,1,Unemployed,10000,,No,Yes
+Unknown,90000,F,Chicago,3BHK,2GB,600,Yes,Widowed,2,Business,150000,Low,No,Yes
+Unknown,70000,,Chicago,1BHK,6GB,400,Yes,Married,0,,50000,,No,Yes
+28,N/A,Female,New York,3BHK,16GB,700,Yes,,,,20000,Medium,No,Yes
+,70000,Female,Los Angeles,3BHK,16GB,,Yes,Widowed,N/A,Salaried,,High,No,Yes
+25,80000,M,Los Angeles,2BHK,,Poor,Yes,,,Business,10000,Very High,No,Yes
+28,70000,Male,New York,Studio,,600,Yes,Divorced,2,Salaried,150000,Low,No,Yes
+28,N/A,Other,New York,4bhk,8GB,600,Yes,Married,3,Business,20000,Very High,No,
+40,70000,Female,Los Angeles,3BHK,2GB,Excellent,Yes,Widowed,3,Salaried,,Very High,No,Yes
+,70000,M,New York,4bhk,16GB,800,Yes,Divorced,2,Self-Employed,,Very High,No,No
+,80000,M,New York,Studio,16GB,,Yes,Divorced,N/A,Unemployed,50000,Low,No,No
+25,60000,Female,New York,4bhk,2GB,400,Yes,,2,Unemployed,Unknown,Low,No,
+,80000,F,New York,2BHK,,,Yes,Divorced,N/A,,5000,Very High,No,Yes
+35,60000,Other,Chicago,2BHK,2GB,700,Yes,Married,1,Self-Employed,20000,High,No,Yes
+,N/A,Male,Chicago,Studio,2GB,700,Yes,Married,2,Unemployed,10000,,No,Yes
+25,90000,,Chicago,4bhk,6GB,800,Yes,Single,N/A,,20000,Very High,No,
+25,60000,,New York,Studio,,700,Yes,Married,2,Self-Employed,Unknown,Medium,Yes,Yes
+28,70000,Other,Chicago,2BHK,2GB,,Yes,Divorced,2,Unemployed,5000,Very High,No,
+40,70000,Female,New York,Studio,,400,Yes,Married,N/A,Salaried,20000,Low,No,
+45,90000,Male,,4bhk,8GB,500,Yes,,N/A,Business,Unknown,,No,Yes
+28,80000,Male,Chicago,3BHK,,800,Yes,Single,0,Self-Employed,10000,Medium,No,Yes
+40,90000,M,Chicago,3BHK,,Excellent,Yes,Divorced,2,,50000,,No,
+30,90000,Male,New York,4bhk,16GB,Poor,Yes,Single,3,Self-Employed,150000,,No,
+28,60000,Female,Chicago,2BHK,8GB,800,Yes,Divorced,2,,,Medium,No,Yes
+30,1500000,Male,Los Angeles,Studio,16GB,Excellent,Yes,,2,Self-Employed,10000,Very High,No,Yes
+25,60000,F,Los Angeles,3BHK,32GB,Poor,Yes,Single,N/A,,5000,Very High,No,Yes
+40,80000,Male,New York,3BHK,6GB,300,No,Widowed,2,Unemployed,,Very High,No,No
+Unknown,70000,Other,Chicago,Studio,32GB,700,Yes,Divorced,,Salaried,150000,High,No,Yes
+30,90000,M,Chicago,3BHK,2GB,600,Yes,Widowed,2,Unemployed,10000,Very High,Yes,
+40,70000,Male,Chicago,Studio,4GB,300,Yes,Single,,Salaried,10000,Medium,No,
+45,90000,,New York,Studio,8GB,600,Yes,Widowed,3,Unemployed,10000,High,No,
+40,60000,Male,Chicago,3BHK,4GB,500,Yes,Widowed,N/A,Unemployed,10000,Very High,No,No
+40,60000,,Los Angeles,Studio,16GB,400,No,Single,2,Self-Employed,,High,No,Yes
+Unknown,70000,Male,New York,4bhk,8GB,600,Yes,,,Business,5000,Medium,No,
+30,1500000,F,Los Angeles,1BHK,,800,Yes,Widowed,,,150000,Very High,No,
+30,70000,Male,,1BHK,8GB,300,Yes,Widowed,,,Unknown,Low,No,Yes
+30,70000,Female,New York,Studio,2GB,,Yes,,1,,20000,Medium,No,
+45,1500000,F,New York,Studio,,,Yes,Widowed,0,Salaried,50000,,No,Yes
+Unknown,90000,F,Los Angeles,4bhk,4GB,Excellent,Yes,Widowed,3,,150000,,No,Yes
+30,80000,F,Chicago,1BHK,8GB,Poor,Yes,Widowed,2,,20000,Medium,No,Yes
+,60000,,Los Angeles,1BHK,2GB,700,Yes,Married,1,Self-Employed,20000,,No,Yes
+25,60000,Male,New York,3BHK,2GB,600,Yes,,2,Unemployed,50000,Medium,No,
+28,1500000,,Chicago,3BHK,,600,Yes,Widowed,2,,150000,Low,Yes,Yes
+40,80000,M,Los Angeles,Studio,,,Yes,,N/A,Business,,Medium,No,Yes
+28,1500000,Male,New York,1BHK,,400,Yes,Divorced,N/A,,5000,Very High,No,
+30,,Male,New York,Studio,32GB,600,Yes,Divorced,N/A,Salaried,50000,Very High,No,Yes
+30,80000,Male,Los Angeles,2BHK,8GB,300,Yes,Widowed,1,Salaried,5000,High,No,Yes
+25,90000,Male,,Studio,8GB,300,Yes,,2,Salaried,,,No,Yes
+40,60000,M,,3BHK,16GB,500,Yes,,0,,20000,,No,No
+,90000,F,Chicago,Studio,2GB,,Yes,,3,Self-Employed,5000,Medium,No,Yes
+28,70000,,New York,3BHK,8GB,700,Yes,Married,N/A,Business,,,No,
+Unknown,70000,F,New York,1BHK,,600,Yes,Divorced,N/A,,,Very High,No,Yes
+,1500000,M,Los Angeles,2BHK,32GB,800,No,,2,Self-Employed,Unknown,Low,No,Yes
+30,N/A,Male,Chicago,Studio,16GB,300,Yes,,2,Self-Employed,50000,Medium,No,Yes
+28,80000,M,Los Angeles,3BHK,4GB,700,Yes,Married,1,,Unknown,,No,
+,70000,F,Los Angeles,2BHK,16GB,,Yes,Married,1,,20000,Very High,No,Yes
+,90000,Male,Los Angeles,1BHK,2GB,700,Yes,,N/A,Self-Employed,50000,High,No,
+Unknown,90000,F,Chicago,3BHK,8GB,Excellent,No,Single,2,Self-Employed,20000,,No,Yes
+,60000,Male,New York,3BHK,2GB,Poor,Yes,,0,Self-Employed,Unknown,Low,No,
+28,90000,Female,New York,2BHK,6GB,600,Yes,,3,,150000,Low,No,No
+30,60000,Male,Los Angeles,3BHK,8GB,700,Yes,Married,2,Self-Employed,,,No,No
+25,80000,M,New York,3BHK,,,Yes,Married,2,Salaried,20000,,No,
+,,M,New York,1BHK,8GB,Excellent,Yes,,,,50000,Very High,No,Yes
+40,1500000,Female,Los Angeles,3BHK,32GB,700,Yes,,1,Salaried,50000,,No,Yes
+Unknown,80000,,New York,2BHK,,,Yes,,3,Unemployed,20000,High,No,Yes
+45,70000,Male,,3BHK,8GB,Excellent,Yes,Married,N/A,,50000,Very High,No,Yes
+45,1500000,F,Los Angeles,1BHK,6GB,,No,,2,Unemployed,,Medium,No,Yes
+28,90000,Male,New York,2BHK,16GB,500,Yes,,N/A,Self-Employed,150000,High,No,Yes
+40,60000,Other,New York,3BHK,8GB,600,Yes,Widowed,2,Self-Employed,,Very High,No,
+25,60000,Female,Los Angeles,3BHK,8GB,500,Yes,Single,N/A,Business,50000,Very High,No,No
+25,N/A,Male,New York,3BHK,6GB,600,Yes,Divorced,3,Self-Employed,20000,Low,No,Yes
+,90000,,Chicago,3BHK,2GB,800,Yes,Single,1,Unemployed,Unknown,Very High,No,
+30,1500000,,Chicago,3BHK,8GB,400,Yes,Widowed,3,Self-Employed,50000,High,No,Yes
+,N/A,F,Chicago,4bhk,8GB,700,Yes,Divorced,,,50000,,No,Yes
+30,80000,,New York,Studio,8GB,500,Yes,,0,Self-Employed,50000,High,No,
+Unknown,80000,Other,Los Angeles,Studio,,600,Yes,Widowed,1,Business,50000,Medium,No,No
+35,70000,,Los Angeles,2BHK,32GB,,Yes,,3,Self-Employed,20000,Very High,No,Yes
+,N/A,Female,,3BHK,32GB,800,Yes,Married,,Unemployed,Unknown,Very High,No,
+,80000,,Chicago,Studio,2GB,800,Yes,Widowed,0,Unemployed,Unknown,Very High,No,Yes
+30,70000,F,Los Angeles,1BHK,,800,Yes,Married,,Self-Employed,5000,Very High,No,Yes
+,N/A,M,Chicago,4bhk,,300,Yes,Widowed,2,Unemployed,50000,Low,No,No
+40,70000,Female,Los Angeles,2BHK,,,Yes,Widowed,2,Unemployed,50000,Low,No,Yes
+28,70000,Other,Los Angeles,3BHK,,500,Yes,Married,N/A,Business,5000,,No,Yes
+40,1500000,Other,Chicago,2BHK,2GB,600,Yes,Divorced,1,,Unknown,Very High,No,
+,90000,,Chicago,4bhk,4GB,400,Yes,Single,2,Business,10000,Medium,No,No
+45,90000,M,Los Angeles,2BHK,2GB,400,Yes,,,Salaried,,,No,No
+30,80000,Female,,3BHK,8GB,700,Yes,Widowed,1,Business,10000,Very High,No,No
+,1500000,,Chicago,4bhk,,Excellent,Yes,,2,Self-Employed,Unknown,Low,No,
+,60000,Male,Los Angeles,2BHK,2GB,300,No,Married,N/A,,150000,Medium,No,Yes
+Unknown,60000,Female,Chicago,3BHK,4GB,500,Yes,,3,Self-Employed,50000,,No,No
+,,F,Los Angeles,2BHK,,Excellent,Yes,Married,N/A,Salaried,10000,Medium,No,
+,,Male,New York,Studio,8GB,700,Yes,,0,,20000,Very High,No,Yes
+,90000,F,Los Angeles,2BHK,2GB,Excellent,Yes,Single,2,Unemployed,20000,High,No,No
+Unknown,70000,,Chicago,3BHK,32GB,,Yes,Single,0,Business,5000,Medium,No,
+28,80000,,Chicago,3BHK,8GB,800,Yes,Single,0,Self-Employed,Unknown,Medium,No,Yes
+,60000,Other,New York,1BHK,8GB,600,Yes,Single,,Salaried,Unknown,Low,No,No
+35,90000,F,New York,2BHK,16GB,Poor,Yes,Single,1,Unemployed,10000,Very High,No,Yes
+25,70000,Other,Los Angeles,3BHK,4GB,400,Yes,Single,,Business,50000,Medium,No,
+30,90000,F,Chicago,4bhk,8GB,400,Yes,Married,2,Unemployed,Unknown,Very High,No,Yes
+28,,Female,New York,2BHK,2GB,700,Yes,Widowed,0,Business,10000,Low,No,
+,60000,F,Los Angeles,2BHK,8GB,Excellent,Yes,,3,,10000,Very High,No,Yes
+,60000,,New York,4bhk,2GB,,Yes,Single,0,Unemployed,,Low,No,Yes
+45,60000,Other,Los Angeles,2BHK,16GB,800,Yes,Married,3,Unemployed,,Low,No,Yes
+,90000,Male,Chicago,4bhk,2GB,Excellent,Yes,Married,,Unemployed,Unknown,,No,Yes
+30,1500000,Other,Chicago,1BHK,32GB,,Yes,Married,,,10000,Very High,No,Yes
+30,70000,Male,Los Angeles,2BHK,,Excellent,Yes,Widowed,1,Salaried,5000,High,No,No
+Unknown,,F,,2BHK,32GB,500,Yes,,0,Business,5000,,No,No
+40,,Female,Chicago,3BHK,,Excellent,Yes,Widowed,N/A,Unemployed,,Low,No,No
+,70000,Male,New York,2BHK,6GB,,Yes,Divorced,,,Unknown,High,No,No
+35,,Male,Los Angeles,Studio,32GB,700,Yes,Married,,Salaried,50000,Medium,No,No
+30,1500000,Male,Chicago,Studio,16GB,400,Yes,Divorced,1,Business,150000,Medium,Yes,No
+Unknown,1500000,Male,New York,Studio,,800,Yes,Single,3,,5000,,No,Yes
+28,1500000,Other,Chicago,3BHK,8GB,600,Yes,Single,1,Business,5000,High,Yes,No
+40,80000,,,1BHK,,800,Yes,Widowed,0,Unemployed,,Very High,No,No
+Unknown,70000,Male,New York,2BHK,8GB,,Yes,,2,Salaried,,High,No,Yes
+28,80000,Male,New York,3BHK,,600,Yes,Divorced,2,,Unknown,,No,Yes
+Unknown,70000,M,Los Angeles,Studio,,400,Yes,,3,Salaried,,Very High,No,Yes
+45,90000,Other,New York,Studio,2GB,300,Yes,Widowed,,Unemployed,20000,Very High,No,Yes
+Unknown,90000,,New York,4bhk,16GB,,Yes,Single,3,Salaried,150000,Medium,No,Yes
+,60000,Male,Chicago,1BHK,,Poor,Yes,,,Salaried,10000,High,No,Yes
+30,80000,Male,Los Angeles,Studio,2GB,Excellent,Yes,,,Self-Employed,5000,Very High,No,Yes
+30,1500000,,New York,Studio,32GB,,Yes,Single,2,Salaried,20000,,No,
+35,1500000,Male,New York,4bhk,,700,Yes,Divorced,3,Business,50000,Medium,No,Yes
+Unknown,90000,Female,Chicago,Studio,8GB,,Yes,Single,1,,20000,Very High,No,
+28,N/A,Other,New York,1BHK,8GB,800,Yes,,,Self-Employed,Unknown,High,No,Yes
+Unknown,70000,Female,Los Angeles,Studio,,,Yes,Divorced,N/A,,50000,Medium,No,
+Unknown,80000,,Chicago,Studio,8GB,Excellent,Yes,Divorced,N/A,,50000,High,No,Yes
+Unknown,90000,Other,Chicago,Studio,16GB,300,Yes,Single,1,Unemployed,,High,No,Yes
+45,90000,F,Chicago,2BHK,8GB,800,Yes,,N/A,Unemployed,20000,High,No,
+30,N/A,,,4bhk,2GB,500,Yes,Widowed,0,Self-Employed,Unknown,Medium,No,No
+30,90000,Other,Chicago,1BHK,8GB,300,Yes,,,Unemployed,5000,Very High,No,No
+Unknown,1500000,Male,Los Angeles,4bhk,,300,Yes,Married,1,Unemployed,150000,Low,No,No
+30,80000,Other,Los Angeles,Studio,8GB,400,Yes,Widowed,3,Unemployed,,Very High,No,Yes
+28,1500000,M,New York,Studio,8GB,Poor,Yes,Divorced,,,20000,Medium,No,No
+Unknown,90000,Male,Los Angeles,4bhk,6GB,Poor,Yes,Widowed,1,Self-Employed,5000,Low,No,Yes
+40,80000,Female,,Studio,16GB,600,Yes,Divorced,2,,20000,Low,No,Yes
+30,80000,F,Chicago,1BHK,,500,No,Divorced,3,Business,,Low,No,
+Unknown,60000,Female,Los Angeles,3BHK,,400,Yes,Widowed,2,,5000,,No,Yes
+30,1500000,M,,Studio,4GB,,Yes,Divorced,,Business,,Medium,No,Yes
+35,90000,F,Chicago,2BHK,6GB,,No,Divorced,3,Salaried,20000,,No,Yes
+45,N/A,Male,Chicago,4bhk,,,Yes,Married,N/A,Salaried,50000,Low,No,No
+Unknown,N/A,Male,,3BHK,16GB,,Yes,,1,Business,150000,,No,No
+40,1500000,Male,New York,Studio,2GB,Poor,Yes,,,Business,10000,,No,
+28,,,New York,Studio,4GB,600,Yes,Married,0,,150000,Medium,Yes,Yes
+25,80000,Male,,2BHK,8GB,800,Yes,Widowed,3,Business,50000,High,No,
+45,70000,Male,New York,Studio,32GB,400,Yes,Single,3,Self-Employed,,,No,Yes
+45,80000,F,,Studio,,300,Yes,Single,,Salaried,150000,,No,
+28,70000,Male,Los Angeles,4bhk,8GB,400,Yes,Single,,Salaried,,Low,No,Yes
+,60000,F,New York,3BHK,16GB,600,Yes,Married,2,Business,,Low,No,
+28,N/A,M,New York,Studio,8GB,500,Yes,Married,N/A,Unemployed,5000,Low,No,Yes
+40,90000,F,Chicago,4bhk,8GB,Excellent,Yes,Divorced,2,Unemployed,Unknown,Very High,Yes,Yes
+40,N/A,Male,Chicago,2BHK,6GB,400,Yes,Single,2,Business,,,No,
+30,50000,Male,Los Angeles,Studio,32GB,,Yes,Widowed,N/A,Self-Employed,150000,Low,No,No
+30,N/A,Male,New York,4bhk,16GB,400,No,Widowed,0,Unemployed,150000,Medium,No,Yes
+28,N/A,M,New York,3BHK,32GB,400,Yes,Single,2,Business,150000,Very High,No,Yes
+28,,F,Los Angeles,1BHK,,Poor,Yes,Single,2,Self-Employed,50000,High,No,Yes
+28,80000,M,Los Angeles,Studio,8GB,Poor,Yes,Single,3,Self-Employed,10000,,No,
+25,60000,F,New York,Studio,8GB,,Yes,Married,N/A,,,,No,
+28,1500000,Female,Chicago,1BHK,8GB,400,Yes,Married,1,Self-Employed,,Medium,No,Yes
+30,1500000,Female,Chicago,Studio,8GB,,Yes,Married,0,Unemployed,,High,No,Yes
+40,90000,,Chicago,3BHK,8GB,300,Yes,,0,Unemployed,5000,High,No,
+,90000,Male,New York,Studio,16GB,Excellent,Yes,Widowed,N/A,Business,,Very High,No,No
+28,60000,M,New York,1BHK,16GB,700,Yes,Widowed,,Business,50000,,No,
+25,60000,F,Los Angeles,4bhk,2GB,Excellent,Yes,Divorced,,Self-Employed,20000,Low,No,Yes
+,1500000,Male,Los Angeles,Studio,,700,Yes,Married,3,Salaried,Unknown,Medium,No,Yes
+30,80000,Other,New York,Studio,8GB,Poor,No,,3,,150000,Medium,No,Yes
+Unknown,90000,Other,New York,1BHK,2GB,Excellent,Yes,,N/A,Salaried,,Medium,No,Yes
+,N/A,Male,Los Angeles,1BHK,8GB,Poor,Yes,Widowed,3,Self-Employed,5000,Medium,No,
+28,70000,,Chicago,3BHK,,700,Yes,Married,0,Self-Employed,50000,Low,No,
+28,90000,Male,Chicago,1BHK,32GB,700,Yes,Divorced,0,Salaried,,Low,No,No
+28,80000,Male,Los Angeles,2BHK,2GB,Poor,Yes,Married,1,,5000,Very High,No,Yes
+Unknown,N/A,F,Los Angeles,Studio,,,Yes,Single,,Salaried,20000,,Yes,No
+30,N/A,,Chicago,Studio,8GB,500,Yes,Married,N/A,Business,10000,Low,No,No
+,70000,F,Los Angeles,Studio,8GB,400,Yes,Single,2,Unemployed,,Very High,No,No
+45,N/A,F,Chicago,Studio,,Poor,Yes,Single,,Business,50000,High,No,Yes
+Unknown,,,Los Angeles,Studio,2GB,400,Yes,Divorced,2,Unemployed,5000,,No,
+Unknown,80000,F,,1BHK,4GB,400,Yes,Widowed,1,Self-Employed,5000,Low,No,
+25,90000,Female,New York,3BHK,32GB,,Yes,Married,1,,,High,No,No
+28,60000,Male,,3BHK,32GB,400,Yes,Single,3,Salaried,5000,Very High,No,No
+30,N/A,,New York,4bhk,2GB,700,Yes,Married,1,,10000,Low,No,No
+25,70000,,Los Angeles,4bhk,16GB,400,Yes,Widowed,1,Salaried,5000,Low,No,Yes
+25,70000,Female,Los Angeles,Studio,16GB,Poor,Yes,Widowed,2,Business,150000,High,No,No
+40,70000,Male,Los Angeles,2BHK,2GB,Excellent,No,,3,Business,Unknown,Low,No,Yes
+Unknown,90000,,New York,1BHK,8GB,Poor,Yes,Widowed,1,Salaried,150000,Medium,No,Yes
+Unknown,60000,,Chicago,Studio,8GB,,Yes,Divorced,,,Unknown,Low,No,Yes
+30,60000,Male,,1BHK,32GB,800,Yes,Single,1,Salaried,5000,,No,
+30,90000,,New York,3BHK,2GB,700,Yes,,3,Self-Employed,,High,No,No
+,60000,,New York,3BHK,8GB,400,Yes,Divorced,N/A,Business,Unknown,,No,Yes
+45,80000,Other,Chicago,3BHK,2GB,Excellent,Yes,Married,3,Self-Employed,50000,Very High,No,
+Unknown,50000,Male,Chicago,3BHK,,500,Yes,Single,2,Business,Unknown,,No,No
+,60000,,New York,Studio,8GB,700,Yes,Widowed,N/A,Business,150000,Medium,No,Yes
+30,90000,,,4bhk,,Poor,Yes,Single,,Unemployed,5000,Medium,No,
+30,90000,Male,New York,2BHK,2GB,,Yes,Married,0,Self-Employed,,,No,
+Unknown,,Other,New York,Studio,2GB,700,Yes,,3,Self-Employed,20000,Very High,No,Yes
+,90000,M,Los Angeles,4bhk,,Poor,Yes,,2,Unemployed,,Low,No,Yes
+40,1500000,Female,New York,2BHK,8GB,400,No,,,,,Medium,No,No
+28,60000,F,New York,1BHK,2GB,600,Yes,Widowed,N/A,Self-Employed,,,No,No
+30,70000,Male,Los Angeles,2BHK,16GB,300,Yes,Divorced,,Salaried,50000,,No,Yes
+40,80000,Male,Los Angeles,Studio,,600,Yes,Divorced,3,Unemployed,10000,,No,Yes
+28,60000,Other,Chicago,4bhk,4GB,300,Yes,Single,1,Self-Employed,150000,Low,No,Yes
+35,,Male,New York,Studio,4GB,,Yes,Widowed,3,,5000,High,No,Yes
+25,80000,M,Chicago,Studio,,Poor,Yes,,0,Self-Employed,10000,Very High,No,
+,1500000,,Los Angeles,3BHK,2GB,600,Yes,,3,Business,20000,High,No,No
+Unknown,,F,Los Angeles,1BHK,,Poor,Yes,Married,N/A,Salaried,10000,Very High,No,Yes
+30,N/A,,Chicago,Studio,32GB,300,Yes,Married,N/A,Unemployed,5000,Very High,No,
+Unknown,60000,F,Los Angeles,2BHK,6GB,300,Yes,,3,Business,150000,,No,Yes
+28,90000,,New York,Studio,2GB,Excellent,No,,N/A,,150000,Medium,No,Yes
+30,1500000,,New York,Studio,,700,Yes,Widowed,1,Business,5000,,No,Yes
+,60000,Other,Los Angeles,4bhk,32GB,800,Yes,Divorced,,Business,20000,Low,No,
+30,80000,Other,,4bhk,16GB,600,Yes,Married,3,,5000,Very High,No,No
+30,N/A,M,,Studio,8GB,700,Yes,Divorced,1,Business,20000,Medium,No,Yes
+28,60000,M,New York,3BHK,8GB,Poor,Yes,Widowed,,Unemployed,20000,Very High,No,Yes
+30,50000,Other,New York,2BHK,2GB,600,Yes,,,Self-Employed,5000,Very High,No,No
+30,80000,F,Los Angeles,3BHK,32GB,300,Yes,Divorced,1,Business,Unknown,,No,No
+35,70000,F,New York,2BHK,,Poor,Yes,,2,Unemployed,150000,Medium,No,
+Unknown,1500000,Male,Los Angeles,Studio,2GB,,Yes,,3,Self-Employed,20000,Medium,No,
+28,60000,Other,New York,3BHK,8GB,300,Yes,Single,,Self-Employed,5000,Very High,No,Yes
+30,1500000,F,Los Angeles,4bhk,16GB,700,Yes,Divorced,,Business,Unknown,Medium,No,Yes
+Unknown,70000,Male,New York,2BHK,2GB,500,Yes,Divorced,N/A,Unemployed,150000,Medium,No,
+35,80000,,New York,3BHK,4GB,,Yes,,,Business,20000,,No,
+28,90000,Female,New York,3BHK,2GB,,Yes,Widowed,1,,150000,High,No,Yes
+,90000,M,Los Angeles,Studio,2GB,Excellent,Yes,Single,,Self-Employed,Unknown,Low,No,No
+Unknown,60000,,Chicago,2BHK,2GB,400,Yes,,2,Business,150000,High,No,
+,70000,,New York,Studio,8GB,Excellent,No,Married,3,Self-Employed,50000,Medium,No,Yes
+Unknown,1500000,Female,Chicago,4bhk,32GB,Excellent,Yes,Married,3,Unemployed,,Very High,No,No
+30,70000,F,Chicago,4bhk,6GB,Poor,Yes,Single,,Salaried,50000,Low,No,
+25,70000,M,Los Angeles,Studio,16GB,600,Yes,Widowed,0,Business,Unknown,Low,No,
+45,90000,Male,Chicago,1BHK,2GB,800,Yes,,0,Business,20000,Very High,No,No
+40,90000,,,Studio,2GB,,Yes,Divorced,1,Self-Employed,5000,Low,No,
+30,80000,Female,,3BHK,32GB,Poor,Yes,Single,0,Unemployed,10000,Very High,No,Yes
+,70000,F,New York,2BHK,,700,Yes,Widowed,1,,5000,Low,No,Yes
+28,N/A,M,New York,3BHK,,700,Yes,Divorced,N/A,Unemployed,150000,High,No,Yes
+40,50000,M,Los Angeles,2BHK,,300,Yes,Married,1,Business,10000,Low,No,
+,90000,,Los Angeles,2BHK,16GB,500,No,Married,0,,10000,,No,Yes
+,70000,Male,New York,2BHK,8GB,Excellent,Yes,Divorced,,Unemployed,150000,Very High,No,
+,N/A,F,New York,Studio,2GB,600,Yes,Single,N/A,Salaried,150000,Low,No,Yes
+Unknown,,Female,New York,1BHK,,800,Yes,Married,0,Self-Employed,20000,Very High,No,No
+28,60000,F,New York,4bhk,,300,Yes,,1,Unemployed,Unknown,,No,
+40,,Male,Chicago,Studio,4GB,300,Yes,Divorced,2,Unemployed,5000,Low,No,Yes
+Unknown,60000,,New York,Studio,16GB,600,Yes,Divorced,3,Salaried,Unknown,Low,No,
+40,1500000,,Los Angeles,3BHK,8GB,,Yes,Married,0,Business,50000,,No,No
+,1500000,Male,Chicago,Studio,8GB,Excellent,Yes,Single,1,Self-Employed,20000,,No,Yes
+Unknown,70000,M,Los Angeles,2BHK,8GB,Poor,Yes,,N/A,Unemployed,20000,,No,No
+30,N/A,Male,New York,3BHK,2GB,300,Yes,Single,0,,50000,Very High,No,Yes
+,70000,,Chicago,2BHK,4GB,700,Yes,Widowed,0,Unemployed,5000,,No,
+40,1500000,F,Chicago,Studio,6GB,Poor,Yes,Widowed,3,Self-Employed,,Very High,No,
+45,70000,,Los Angeles,2BHK,4GB,300,Yes,Married,1,Unemployed,50000,High,No,
+Unknown,80000,,New York,2BHK,,400,No,Married,2,Salaried,5000,Low,No,Yes
+,1500000,Male,Los Angeles,3BHK,2GB,,Yes,Married,N/A,Unemployed,10000,Low,No,
+,,Male,Chicago,Studio,16GB,700,Yes,Widowed,1,Unemployed,150000,Medium,No,
+28,80000,Male,Los Angeles,1BHK,4GB,,Yes,Single,N/A,,20000,High,No,
+,N/A,,Chicago,3BHK,8GB,700,Yes,Single,0,Salaried,5000,,No,Yes
+40,1500000,,Chicago,Studio,2GB,700,Yes,Married,3,Salaried,Unknown,,No,Yes
+30,60000,,,3BHK,2GB,700,Yes,,3,Unemployed,150000,High,No,Yes
+25,70000,,Los Angeles,3BHK,2GB,Poor,Yes,Single,,,Unknown,,No,Yes
+30,,Male,Los Angeles,4bhk,6GB,500,Yes,Widowed,2,Unemployed,150000,Medium,No,
+,90000,Male,Los Angeles,3BHK,2GB,,Yes,Divorced,3,Unemployed,20000,Very High,No,
+35,1500000,F,Chicago,Studio,2GB,500,Yes,Divorced,0,Self-Employed,50000,Low,No,No
+28,90000,Other,Los Angeles,3BHK,8GB,700,Yes,Divorced,2,Self-Employed,,High,No,Yes
+30,1500000,,Chicago,3BHK,8GB,700,Yes,,1,,50000,Low,No,Yes
+30,60000,Female,Los Angeles,4bhk,16GB,,Yes,Married,3,Business,5000,Very High,No,
+30,90000,Male,New York,1BHK,8GB,400,Yes,Widowed,2,Self-Employed,50000,High,No,Yes
+30,60000,F,Los Angeles,Studio,,400,Yes,,0,Business,20000,Very High,No,
+30,,Female,Chicago,Studio,8GB,300,No,Widowed,,Salaried,5000,,No,No
+,1500000,Other,New York,3BHK,8GB,400,Yes,Widowed,N/A,Self-Employed,10000,,No,
+45,1500000,Female,Los Angeles,4bhk,6GB,Poor,Yes,Married,N/A,Self-Employed,50000,,No,Yes
+45,1500000,Other,,1BHK,,700,Yes,Divorced,0,,50000,Very High,No,
+40,80000,Female,,1BHK,,300,No,Married,0,Business,,Very High,No,
+Unknown,60000,Male,,3BHK,8GB,400,Yes,,N/A,Self-Employed,5000,Very High,No,Yes
+30,70000,Other,New York,Studio,,700,Yes,,,Self-Employed,Unknown,Low,No,Yes
+Unknown,90000,Other,,1BHK,,700,Yes,,2,,50000,Very High,No,Yes
+28,80000,Male,Chicago,1BHK,6GB,600,Yes,Married,N/A,,20000,,No,
+30,90000,Male,Chicago,Studio,8GB,600,Yes,Widowed,0,Business,50000,Medium,No,
+,60000,M,New York,3BHK,8GB,400,Yes,Widowed,3,Salaried,,Very High,No,
+28,70000,,Los Angeles,1BHK,,,Yes,Single,1,Salaried,10000,Medium,No,
+Unknown,80000,,Los Angeles,3BHK,8GB,400,Yes,,,Unemployed,,,No,
+45,90000,Other,New York,1BHK,16GB,,Yes,Widowed,,Self-Employed,50000,Very High,No,
+40,70000,Female,Los Angeles,1BHK,2GB,Poor,Yes,Single,3,Business,Unknown,Low,No,No
+30,90000,M,Los Angeles,Studio,2GB,700,Yes,Widowed,3,Self-Employed,150000,Low,No,Yes
+,N/A,,Chicago,2BHK,,,Yes,,0,Business,50000,Medium,No,Yes
+28,N/A,Male,New York,1BHK,6GB,700,Yes,Divorced,N/A,Business,5000,Low,No,No
+30,N/A,Female,,3BHK,8GB,600,Yes,,2,Business,50000,Low,No,
+45,70000,Male,New York,1BHK,2GB,400,Yes,Married,,Self-Employed,Unknown,Low,No,Yes
+45,N/A,,New York,3BHK,2GB,700,Yes,Widowed,,,5000,,No,Yes
+Unknown,80000,,New York,4bhk,32GB,300,Yes,Widowed,3,Self-Employed,20000,Low,No,
+Unknown,90000,Male,Los Angeles,4bhk,32GB,700,Yes,Married,N/A,Business,5000,High,No,Yes
+Unknown,90000,Male,,4bhk,,500,Yes,Married,,Unemployed,,Very High,No,
+Unknown,1500000,,Chicago,2BHK,2GB,700,Yes,Divorced,2,Salaried,10000,Low,No,Yes
+28,90000,,Chicago,Studio,4GB,700,No,Widowed,3,Business,,Low,No,Yes
+,90000,,Chicago,3BHK,16GB,400,No,Widowed,2,Unemployed,150000,Low,No,
+,90000,Other,Chicago,2BHK,,300,Yes,Divorced,N/A,,5000,High,No,
+Unknown,60000,,New York,3BHK,16GB,,No,Single,,Business,20000,Low,No,No
+,80000,Male,New York,Studio,32GB,,Yes,Divorced,1,Unemployed,50000,Low,No,Yes
+Unknown,70000,Female,New York,3BHK,6GB,Poor,Yes,,,Business,5000,Very High,No,Yes
+45,N/A,,Los Angeles,3BHK,,Poor,Yes,Widowed,N/A,Self-Employed,,High,No,Yes
+35,1500000,M,Los Angeles,Studio,,700,Yes,Married,,Unemployed,5000,High,No,
+28,90000,,New York,Studio,2GB,,Yes,,,Self-Employed,5000,Low,No,Yes
+30,,Male,Los Angeles,3BHK,8GB,Poor,Yes,Widowed,0,Self-Employed,5000,High,No,Yes
+Unknown,70000,Male,New York,Studio,2GB,500,Yes,Divorced,,Unemployed,20000,Medium,No,No
+40,60000,Female,Los Angeles,Studio,6GB,700,No,,,Salaried,Unknown,High,Yes,
+30,80000,Male,Chicago,3BHK,32GB,800,Yes,Widowed,2,Unemployed,Unknown,High,No,Yes
+,60000,Other,Los Angeles,3BHK,2GB,700,Yes,Single,1,Salaried,5000,High,No,
+28,1500000,Other,,Studio,4GB,,Yes,Single,2,Business,20000,,No,
+Unknown,90000,Other,Chicago,3BHK,,600,Yes,Married,2,Business,20000,,No,No
+,60000,M,Chicago,4bhk,,700,Yes,Widowed,3,Unemployed,150000,,No,
+45,60000,,New York,Studio,,700,Yes,Single,0,Business,5000,High,No,Yes
+30,60000,Male,Chicago,2BHK,4GB,400,Yes,Divorced,2,,,Medium,No,Yes
+Unknown,1500000,,Chicago,1BHK,8GB,,Yes,Widowed,N/A,Self-Employed,,High,No,No
+,90000,F,New York,4bhk,8GB,Poor,Yes,Divorced,N/A,Self-Employed,10000,Low,No,No
+28,60000,Female,Chicago,4bhk,,700,Yes,Divorced,,Salaried,5000,Medium,No,
+30,1500000,Male,Los Angeles,Studio,16GB,,Yes,Single,3,Business,10000,,No,
+28,90000,,New York,4bhk,,600,Yes,Widowed,0,Salaried,,Very High,No,Yes
+45,70000,,Chicago,3BHK,2GB,600,Yes,,0,Self-Employed,,Medium,No,No
+,1500000,Male,Chicago,1BHK,,500,Yes,Single,,Self-Employed,5000,,No,
+,1500000,Male,New York,Studio,4GB,600,Yes,Single,N/A,Business,10000,Medium,No,Yes
+Unknown,60000,Male,Chicago,2BHK,4GB,700,Yes,Widowed,1,,10000,Medium,No,No
+,50000,Female,Los Angeles,Studio,2GB,800,Yes,Widowed,3,,5000,High,No,No
+28,80000,M,New York,3BHK,8GB,700,Yes,Divorced,,Business,150000,Low,No,Yes
+,90000,,Los Angeles,3BHK,32GB,400,Yes,Widowed,3,Business,10000,Very High,No,
+25,70000,Male,Chicago,2BHK,32GB,700,Yes,Divorced,N/A,Salaried,150000,,No,Yes
+40,1500000,Male,Chicago,Studio,8GB,Excellent,Yes,Single,N/A,Business,50000,Medium,No,Yes
+30,1500000,Male,New York,1BHK,32GB,500,Yes,Married,1,,,Very High,No,No
+Unknown,80000,M,New York,2BHK,,600,No,,1,Business,Unknown,Medium,No,Yes
+,1500000,Female,New York,2BHK,16GB,,Yes,Single,0,Salaried,150000,Low,No,No
+25,90000,Other,Chicago,3BHK,2GB,700,Yes,Widowed,3,Salaried,150000,Very High,No,
+Unknown,60000,Male,Chicago,2BHK,8GB,600,Yes,,3,Salaried,150000,,No,
+28,90000,Other,Chicago,3BHK,16GB,Excellent,Yes,Married,N/A,Salaried,20000,Medium,No,
+28,80000,Other,Los Angeles,Studio,8GB,500,Yes,Married,0,Unemployed,10000,Low,No,
+,,Female,New York,2BHK,,,Yes,Divorced,,Business,10000,Very High,No,No
+,70000,,New York,3BHK,6GB,300,Yes,,3,Self-Employed,20000,Medium,No,Yes
+45,90000,Male,New York,1BHK,32GB,Poor,Yes,Divorced,0,Business,10000,Medium,No,No
+,90000,Female,Los Angeles,2BHK,2GB,500,No,Single,0,Unemployed,20000,,No,
+Unknown,90000,Male,Chicago,2BHK,8GB,,Yes,,N/A,Salaried,150000,Low,No,Yes
+40,N/A,Other,Los Angeles,1BHK,8GB,,Yes,Single,0,Unemployed,5000,High,No,No
+Unknown,1500000,,New York,Studio,6GB,700,Yes,Divorced,1,,50000,Medium,No,Yes
+Unknown,70000,Other,Chicago,Studio,16GB,700,Yes,,1,,150000,Very High,No,
+,90000,Male,New York,2BHK,,800,Yes,Divorced,2,Business,50000,,No,Yes
+40,90000,,Chicago,3BHK,8GB,300,Yes,,N/A,Business,,,No,No
+40,90000,F,Los Angeles,1BHK,,400,Yes,Divorced,,Self-Employed,150000,Medium,No,Yes
+Unknown,,Male,Los Angeles,4bhk,2GB,800,Yes,Married,2,Self-Employed,Unknown,Medium,No,Yes
+28,N/A,Male,Los Angeles,1BHK,2GB,700,Yes,Divorced,1,,10000,Medium,No,Yes
+Unknown,N/A,Male,Chicago,Studio,8GB,Excellent,Yes,Married,2,Salaried,Unknown,High,No,Yes
+30,N/A,Male,Chicago,2BHK,32GB,,Yes,Divorced,N/A,Unemployed,5000,Medium,No,Yes
+,90000,Male,Chicago,1BHK,16GB,Excellent,Yes,,N/A,Self-Employed,50000,Low,No,Yes
+,60000,M,Chicago,4bhk,,700,Yes,Widowed,3,Unemployed,150000,,No,
+45,60000,,New York,Studio,,700,Yes,Single,0,Business,5000,High,No,Yes
+30,60000,Male,Chicago,2BHK,4GB,400,Yes,Divorced,2,,,Medium,No,Yes
+Unknown,1500000,,Chicago,1BHK,8GB,,Yes,Widowed,N/A,Self-Employed,,High,No,No
+,90000,F,New York,4bhk,8GB,Poor,Yes,Divorced,N/A,Self-Employed,10000,Low,No,No
